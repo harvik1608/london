@@ -1,0 +1,210 @@
+/*L-desktop*/
+
+@media (min-device-width:  1600px)
+{
+	
+}
+
+/*L-laptops*/
+@media only screen and (min-device-width: 1200px) and (max-device-width: 1440px)
+{
+    .thankyou-page-inner
+	{
+		top: 15%;
+	}
+	.thankyou-page-inner .wrapper
+	{
+		padding: 100px;
+	}
+    .next-prev-btn .back
+    {
+        text-align: center;
+    }
+}
+
+/*laptops/tablets*/
+@media only screen and (min-device-width: 576px) and (max-device-width: 1024px)
+{
+        .wrapper
+        {
+            padding: 50px 80px;
+        }
+        .form-heading
+        {
+            font-size: 24px;
+        }
+        .form-buttons button
+        {
+            font-size: 12px;
+            height: 55px;
+        }
+        .form-buttons button i
+        {
+            font-size: 12px;
+        }
+        .thankyou-page
+        {
+            border-radius: 0;
+            padding: 20px;
+        }
+        .thankyou-page-inner
+        {
+            top: 5%;
+        }
+        .thankyou-page-inner .wrapper
+        {
+            padding: 50px;
+            
+        }
+        .thankyou-page-inner h2
+        {
+            font-size: 30px;
+        }
+}
+
+
+/*tablets*/
+@media only screen and (min-device-width: 576px) and (max-device-width: 768px)
+{
+
+    .steps-inner
+    {
+        margin-top: 100px;
+    }
+    .wrapper
+    {
+        padding: 50px 80px;
+    }
+    .timer
+    {
+        top: 0;
+        bottom: auto;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        margin-right: 0;
+        border-radius: 0;
+        position: relative;
+        justify-content: center;
+        width: 100%;
+        justify-content: center;
+    }
+    .timer-heading
+    {
+        margin: 0 20px;
+    }
+    .sm-sticky
+    {
+        position: fixed;
+        top: 0 !important;
+        z-index: 10;
+        width: 100%;
+    }
+
+}
+
+
+/*Smart phone*/
+@media only screen and (min-device-width: 320px) and (max-device-width: 576px)
+{
+
+    .steps-inner
+    {
+        margin-top: 100px;
+    }
+    .wrapper
+    {
+        padding: 30px 40px;
+    }
+    .form-heading
+    {
+        font-size: 20px;
+    }
+    .step-heading p
+    {
+        font-size: 18px;
+    }
+    .step-bar .step-counter
+    {
+        font-size: 18px;
+    }
+    .form-input
+    {
+        font-size: 15px;
+    }
+    .form-input input
+    {
+        width: 25px;
+        height: 25px;
+    }
+    .form-input input:checked::after
+    {
+        line-height: 22px;
+        font-size: 12px;
+    }
+    .form-buttons
+    {
+        display: block;
+    }
+    .form-buttons button
+    {
+        font-size: 12px;
+        height: 55px;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .form-buttons button i
+    {
+        font-size: 12px;
+    }
+    .timer
+    {
+        top: 0;
+        bottom: auto;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        margin-right: 0;
+        border-radius: 0;
+        position: sticky;
+        justify-content: center;
+        width: 100%;
+        justify-content: center;
+    }
+    .timer-heading
+    {
+        margin: 0 20px;
+    }
+    .sm-sticky
+    {
+        position: fixed;
+        top: 0 !important;
+        z-index: 10;
+        width: 100%;
+    }
+    .thankyou-page
+	{
+		border-radius: 0;
+		padding: 20px;
+	}
+	.thankyou-page-inner
+	{
+		top: 15%;
+		border-radius: 10px;
+	}
+	.thankyou-page-inner .wrapper
+	{
+		padding: 50px;
+		
+	}
+	.thankyou-page-inner h2
+	{
+		font-size: 30px;
+	}
+    .next-prev-btn .back
+    {
+        width: 100%;
+    }
+}
+
+

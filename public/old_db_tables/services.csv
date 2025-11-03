@@ -1,0 +1,1138 @@
+﻿service_group_id,service_name,service_type,service_gender,pricing_type,extra_time_type,extra_time_in_seconds,book_online,description,position,service_id,updated_time,created_date,deleted,company_id
+,asd,,,MULTIPLE,"",,t,,1,6,2018-04-01 05:50:51.425149,2018-04-01 05:50:51.425149,t,6
+,sad,,,MULTIPLE,"",,t,,1,7,2018-04-01 05:54:53.117818,2018-04-01 05:54:53.117818,t,6
+5,aaaaaaaaaaaaaaaa,,,SINGLE,"",,t,,1,21,2018-04-01 09:06:37.531907,2018-04-01 09:06:37.531907,t,6
+2,asdasdassa,,,MULTIPLE,"",,t,,1,20,2018-04-01 09:04:40.92761,2018-04-01 09:04:40.92761,t,6
+,swad,,,MULTIPLE,"",,t,,1,11,2018-04-01 06:13:57.291844,2018-04-01 06:13:57.291844,t,6
+,THis is my second service,,,MULTIPLE,"",,t,,1,10,2018-04-01 06:10:47.270029,2018-04-01 06:10:47.270029,t,6
+5,dsf,,,MULTIPLE,"",,t,,1,12,2018-04-01 08:29:03.827816,2018-04-01 08:29:03.827816,t,6
+5,aa,,,MULTIPLE,"",,t,,1,13,2018-04-01 08:47:51.397565,2018-04-01 08:47:51.397565,t,6
+,This is a first service,,,SINGLE,processing,10,t,,1,5,2018-03-31 19:43:13.886393,2018-03-31 19:43:13.886393,t,6
+,sa,,,MULTIPLE,"",,t,,1,8,2018-04-01 05:55:35.040717,2018-04-01 05:55:35.040717,t,6
+,ss,,,MULTIPLE,"",,t,,1,9,2018-04-01 06:05:02.975747,2018-04-01 06:05:02.975747,t,6
+5,aasss,,,MULTIPLE,"",,t,,1,16,2018-04-01 08:56:48.155209,2018-04-01 08:56:48.155209,t,6
+5,aasssaa,,,MULTIPLE,"",,t,,1,17,2018-04-01 08:58:23.056756,2018-04-01 08:58:23.056756,t,6
+2,111111,,,MULTIPLE,"",,t,,1,18,2018-04-01 09:00:57.587168,2018-04-01 09:00:57.587168,t,6
+5,aaaaa2,,,MULTIPLE,blocking,,t,,1,19,2018-04-01 09:02:30.264809,2018-04-01 09:02:30.264809,t,6
+2,Waxing Services 1,,,SINGLE,blocking,70,t,,1,24,2018-04-01 12:06:50.088704,2018-04-01 12:06:50.088704,t,6
+9,sdfgsdds,,,MULTIPLE,"",,t,,1,34,2018-04-21 12:11:08.042633,2018-04-21 12:11:08.042633,t,6
+7,tst,,,SINGLE,"",,t,,1,32,2018-04-21 12:10:18.961444,2018-04-21 12:10:18.961444,t,6
+2,Waxing Services 4,,,MULTIPLE,blocking,100,t,,1,26,2018-04-03 18:26:16.779523,2018-04-03 18:26:16.779523,t,6
+8,test Services,,,MULTIPLE,"",,t,,1,33,2018-04-21 12:10:44.237963,2018-04-21 12:10:44.237963,t,6
+6,Neck,,,SINGLE,"",,t,,1,30,2018-04-18 16:53:42.268857,2018-04-18 16:53:42.268857,t,6
+2,Waxing Services 2,,,MULTIPLE,processing,50,t,,1,25,2018-04-03 17:37:13.343358,2018-04-03 17:37:13.343358,t,6
+5,Hair,,,MULTIPLE,"",,t,,1,28,2018-04-17 18:49:22.291726,2018-04-17 18:49:22.291726,t,6
+5,Baby cut,,,MULTIPLE,processing,10,t,,1,29,2018-04-18 03:45:55.923095,2018-04-18 03:45:55.923095,t,6
+6,Full Face (Excluding Neck),,,SINGLE,"",,t,,1,31,2018-04-18 16:54:30.819032,2018-04-18 16:54:30.819032,t,6
+2,Best Waxing,,,SINGLE,"",,t,,1,27,2018-04-03 19:10:01.04837,2018-04-03 19:10:01.04837,t,6
+2,Man Waxing 2333 22,,,MULTIPLE,processing,101,t,,1,23,2018-04-01 09:32:54.342057,2018-04-01 09:32:54.342057,t,6
+2,Full Back,,,SINGLE,"",,t,,1,40,2018-05-05 03:36:55.791944,2018-05-05 03:36:55.791944,t,6
+7,Individual Eyelashes (4 Week Topup),,,SINGLE,"",,t,,1,41,2018-05-05 03:40:26.588874,2018-05-05 03:40:26.588874,t,6
+7,Flare Lashes,,,SINGLE,"",,t,,1,42,2018-05-05 03:41:37.265267,2018-05-05 03:41:37.265267,t,6
+8,Eyelash Tint,,,SINGLE,"",,t,,1,43,2018-05-05 03:42:06.341874,2018-05-05 03:42:06.341874,t,6
+6,Neck,,,MULTIPLE,"",,t,,1,36,2018-05-05 03:29:16.426595,2018-05-05 03:29:16.426595,t,6
+6,Full Face With Eyebrow & Neck,,,MULTIPLE,"",,t,,1,37,2018-05-05 03:30:31.044398,2018-05-05 03:30:31.044398,t,6
+2,Under Arms,,,MULTIPLE,"",,t,,1,38,2018-05-05 03:31:50.487969,2018-05-05 03:31:50.487969,t,6
+9,Full Back,,,SINGLE,"",,t,,1,44,2018-05-05 03:44:31.088207,2018-05-05 03:44:31.088207,t,6
+5,Wash & Set,,,MULTIPLE,"",,t,,1,45,2018-05-05 03:52:00.846827,2018-05-05 03:52:00.846827,t,6
+5,Hair Up,,,MULTIPLE,"",,t,,1,46,2018-05-05 03:53:30.304841,2018-05-05 03:53:30.304841,t,6
+6,Chin,,,MULTIPLE,"",,t,,1,35,2018-05-05 03:27:55.050456,2018-05-05 03:27:55.050456,t,6
+2,Full Legs,,,SINGLE,"",,t,,1,39,2018-05-05 03:35:56.53809,2018-05-05 03:35:56.53809,t,6
+6,Cheeks,,,MULTIPLE,"",,t,,9,50,2018-05-10 08:08:33.124585,2018-05-10 08:08:33.124,t,6
+2,"Full Arms,Under Arms,Full Legs And Full Bikini(hot wax)",,,MULTIPLE,"",,t,,19,68,2018-05-10 08:50:41.936338,2018-05-10 08:50:41.936,t,6
+2,"Full Arms ,Under Arms, Full Legs, Full Bikini(Strips Wax)",,,MULTIPLE,"",,t,,18,73,2018-05-10 08:54:10.318009,2018-05-10 08:54:10.318,t,6
+6,Eyebrows Shape,,,MULTIPLE,"",,t,,1,51,2018-05-10 08:09:32.040613,2018-05-10 08:09:32.04,t,6
+2,Full Body Wax Including Bikini line Wax,,,SINGLE,"",,t,,1,78,2018-05-10 08:58:43.623196,2018-05-10 08:58:43.623,t,6
+2,Chest and Stomach,,,SINGLE,"",,t,,13,65,2018-05-10 08:48:46.594166,2018-05-10 08:48:46.594,t,6
+23,Dermalogica Express Facial,,,SINGLE,"",,t,,6,80,2018-05-10 09:10:41.477764,2018-05-10 09:10:41.477,t,6
+2,"Full Arms,Under Arms,Full Legs,Chest,Stomach,Full Back",,,MULTIPLE,"",,t,,20,71,2018-05-10 08:52:27.333319,2018-05-10 08:52:27.333,t,6
+2,Upper Half Legs,,,SINGLE,"",,t,,5,63,2018-05-10 08:46:59.724826,2018-05-10 08:46:59.724,t,6
+6,Neck,,,MULTIPLE,"",,t,,10,53,2018-05-10 08:12:48.447236,2018-05-10 08:12:48.447,f,6
+2,"Full Arms,Under Arms,Chest,Stomach,Full Back",,,MULTIPLE,"",,t,,17,67,2018-05-10 08:50:07.509684,2018-05-10 08:50:07.509,t,6
+21,stomach,,,SINGLE,"",,t,,17,159,2018-05-10 10:03:52.204704,2018-05-10 10:03:52.204,f,6
+21,Ear,,,MULTIPLE,"",,t,,9,139,2018-05-10 09:47:25.276249,2018-05-10 09:47:25.276,f,6
+7,Individual Eyelashes (3/4 Set),,,SINGLE,"",,t,,3,95,2018-05-10 09:19:09.971639,2018-05-10 09:19:09.971,t,6
+7,Eyelash Extention Removal,,,SINGLE,"",,t,,9,96,2018-05-10 09:19:31.344529,2018-05-10 09:19:31.344,f,6
+7,Strip Lash Application (With Lash),,,SINGLE,"",,t,,8,88,2018-05-10 09:16:20.868775,2018-05-10 09:16:20.868,f,6
+18,Shellac Polish,,,SINGLE,"",,t,,7,111,2018-05-10 09:26:12.902621,2018-05-10 09:26:12.902,t,6
+6,Lower Lip,,,MULTIPLE,"",,t,,4,54,2018-05-10 08:14:22.813149,2018-05-10 08:14:22.813,f,6
+2,Half Arms,,,SINGLE,"",,t,,2,66,2018-05-10 08:49:18.772458,2018-05-10 08:49:18.772,f,6
+2,Bikini line,,,MULTIPLE,"",,t,,10,62,2018-05-10 08:45:07.426394,2018-05-10 08:45:07.426,f,6
+6,Chin,,,MULTIPLE,"",,t,,5,47,2018-05-10 06:21:18.775138,2018-05-10 06:21:18.775,f,6
+6,Nose,,,MULTIPLE,"",,t,,6,55,2018-05-10 08:16:11.505543,2018-05-10 08:16:11.505,f,6
+6,Face Sides,,,MULTIPLE,"",,t,,7,49,2018-05-10 08:07:01.740437,2018-05-10 08:07:01.74,f,6
+7,Individual Eyelashes (3 week top up),,,SINGLE,"",,t,,6,90,2018-05-10 09:17:09.220073,2018-05-10 09:17:09.22,f,6
+2,Under Arms,,,SINGLE,"",,t,,3,72,2018-05-10 08:53:27.267633,2018-05-10 08:53:27.267,f,6
+2,Half Legs,,,SINGLE,"",,t,,4,74,2018-05-10 08:54:40.38554,2018-05-10 08:54:40.385,f,6
+21,Colour and wash,,,SINGLE,"",,t,,4,156,2018-05-10 09:59:44.113266,2018-05-10 09:59:44.113,f,6
+2,Brazillian,,,MULTIPLE,"",,t,,13,59,2018-05-10 08:26:21.749089,2018-05-10 08:26:21.749,f,6
+2,G-string,,,MULTIPLE,"",,t,,12,70,2018-05-10 08:51:49.439462,2018-05-10 08:51:49.439,f,6
+2,Hips(Buttocks),,,SINGLE,"",,t,,15,77,2018-05-10 08:58:14.689321,2018-05-10 08:58:14.689,f,6
+2,High Bikini,,,MULTIPLE,"",,t,,11,64,2018-05-10 08:47:59.10893,2018-05-10 08:47:59.108,f,6
+2,Stomach,,,SINGLE,"",,t,,8,79,2018-05-10 08:59:12.955211,2018-05-10 08:59:12.955,f,6
+2,Full Legs,,,SINGLE,"",,t,,6,58,2018-05-10 08:24:18.960679,2018-05-10 08:24:18.96,f,6
+6,Full Face With Eyebrows,,,MULTIPLE,"",,t,,11,52,2018-05-10 08:10:37.85571,2018-05-10 08:10:37.855,f,6
+6,Full Face With Eyebrow & Neck,,,MULTIPLE,"",,t,,12,57,2018-05-10 08:17:14.791815,2018-05-10 08:17:14.791,f,6
+8,Eyelash Tint,,,SINGLE,"",,t,,2,99,2018-05-10 09:20:48.059193,2018-05-10 09:20:48.059,f,6
+2,Full Arms,,,SINGLE,"",,t,,1,60,2018-05-10 08:27:04.835861,2018-05-10 08:27:04.835,f,6
+2,Full Back,,,SINGLE,"",,t,,9,69,2018-05-10 08:51:14.795698,2018-05-10 08:51:14.795,f,6
+21,Eyebrow Tint,,,SINGLE,"",,t,,31,149,2018-05-10 09:54:28.807079,2018-05-10 09:54:28.807,f,6
+21,Personalised Dermalogica Facial,,,SINGLE,"",,t,,27,146,2018-05-10 09:52:07.903037,2018-05-10 09:52:07.903,t,6
+9,Full Back-Bleach,,,SINGLE,"",,t,,3,101,2018-05-10 09:21:51.692151,2018-05-10 09:21:51.692,f,6
+21,Chest and Stomach,,,SINGLE,"",,t,,16,136,2018-05-10 09:44:29.837984,2018-05-10 09:44:29.837,f,6
+19,Shellac Removal,,,SINGLE,"",,t,,6,118,2018-05-10 09:31:47.94489,2018-05-10 09:31:47.944,f,6
+18,Shellac Removal,,,SINGLE,"",,t,,6,106,2018-05-10 09:24:05.819925,2018-05-10 09:24:05.819,t,6
+7,Individual Eyelashes (4 Week Topup),,,SINGLE,"",,t,,7,91,2018-05-10 09:17:37.396617,2018-05-10 09:17:37.396,t,6
+21,"Express Manicure (Shape, Cuticle work and Massage)",,,SINGLE,"",,t,,28,153,2018-05-10 09:57:19.482907,2018-05-10 09:57:19.482,f,6
+21,Nose,,,MULTIPLE,"",,t,,8,138,2018-05-10 09:46:32.965468,2018-05-10 09:46:32.965,t,6
+21,Beard Line,,,MULTIPLE,"",,t,,10,152,2018-05-10 09:56:58.135868,2018-05-10 09:56:58.135,f,6
+21,Forehead,,,MULTIPLE,"",,t,,12,155,2018-05-10 09:59:11.072061,2018-05-10 09:59:11.072,t,6
+21,Face Massage,,,SINGLE,"",,t,,26,143,2018-05-10 09:49:30.367502,2018-05-10 09:49:30.367,f,6
+21,Neck,,,MULTIPLE,"",,t,,11,154,2018-05-10 09:58:16.346031,2018-05-10 09:58:16.346,t,6
+9,Full Body-Bleach,,,SINGLE,"",,t,,4,100,2018-05-10 09:21:26.582769,2018-05-10 09:21:26.582,f,6
+21,Arms,,,SINGLE,"",,t,,13,141,2018-05-10 09:48:50.132344,2018-05-10 09:48:50.132,f,6
+21,Under Arms,,,SINGLE,"",,t,,14,160,2018-05-10 10:04:23.960217,2018-05-10 10:04:23.96,f,6
+21,Eyelash Tint,,,SINGLE,"",,t,,32,145,2018-05-10 09:51:19.67093,2018-05-10 09:51:19.67,f,6
+5,Wash/Cut/Blow Dry,,,MULTIPLE,"",,t,,1,158,2018-05-10 10:02:06.936309,2018-05-10 10:02:06.936309,t,6
+6,Forehead,,,MULTIPLE,"",,t,,8,48,2018-05-10 08:05:52.313147,2018-05-10 08:05:52.313,f,6
+27,"Full Arms,Under Arms,Full Legs And Full Bikini",,,MULTIPLE,"",,t,,19,216,2018-05-22 06:38:41.026572,2018-05-22 06:38:41.026,t,9
+5,Neck line,,,SINGLE,"",,t,,5,191,2018-05-10 10:45:16.329333,2018-05-10 10:45:16.329,f,6
+27,Full Leg And Full Bikini Wax,,,SINGLE,"",,t,,16,222,2018-05-22 06:46:47.013286,2018-05-22 06:46:47.013,t,9
+5,"Wash,Cut & Set",,,MULTIPLE,"",,t,,10,174,2018-05-10 10:17:57.586906,2018-05-10 10:17:57.586,t,6
+21,Lower Back,,,SINGLE,"",,t,,19,162,2018-05-10 10:07:23.97838,2018-05-10 10:07:23.978,f,6
+19,File & Polish,,,SINGLE,"",,t,,1,121,2018-05-10 09:33:04.741509,2018-05-10 09:33:04.741,f,6
+18,"French Manicure (Shape,Cuticle,Massage,Buffing & Polish With French Tips)",,,SINGLE,"",,t,,5,109,2018-05-10 09:25:31.487673,2018-05-10 09:25:31.487,t,6
+18,Shape & Polish,,,SINGLE,"",,t,,1,110,2018-05-10 09:25:48.908926,2018-05-10 09:25:48.908,f,6
+19,Pedicure With Paraffin Wax,,,SINGLE,"",,t,,10,123,2018-05-10 09:33:44.48541,2018-05-10 09:33:44.485,f,6
+18,"Deluxe Manicure (Shape,Cuticle,Scrub,Massage,Mask & Polish)",,,SINGLE,"",,t,,4,113,2018-05-10 09:26:58.116717,2018-05-10 09:26:58.116,f,6
+21,Gold Facial,,,SINGLE,"",,t,,25,134,2018-05-10 09:42:48.423544,2018-05-10 09:42:48.423,f,6
+21,Herbal Facial,,,SINGLE,"",,t,,24,142,2018-05-10 09:49:11.982329,2018-05-10 09:49:11.982,f,6
+6,Upper Lip,,,MULTIPLE,"",,t,,3,194,2018-05-17 08:55:53.14739,2018-05-17 08:55:53.147,f,6
+8,Eyelash-Eyebrows Tint,,,SINGLE,"",,t,,3,98,2018-05-10 09:20:30.955787,2018-05-10 09:20:30.955,f,6
+5,Fringe cut,,,SINGLE,"",,t,,4,190,2018-05-10 10:44:51.161792,2018-05-10 10:44:51.161,f,6
+7,Flare Lashes,,,SINGLE,"",,t,,1,89,2018-05-10 09:16:51.234837,2018-05-10 09:16:51.234,f,6
+9,Full Face - Bleach,,,SINGLE,"",,t,,1,103,2018-05-10 09:22:28.659259,2018-05-10 09:22:28.659,f,6
+9,Full Face & Neck-Bleach,,,SINGLE,"",,t,,2,102,2018-05-10 09:22:10.831403,2018-05-10 09:22:10.831,f,6
+7,Individual Eyelash (2 Week Topup),,,SINGLE,"",,t,,5,94,2018-05-10 09:18:49.530129,2018-05-10 09:18:49.53,f,6
+19,Shellac nail Polish,,,SINGLE,"",,t,,7,115,2018-05-10 09:29:19.475729,2018-05-10 09:29:19.475,f,6
+18,Manicure With Paraffin Wax,,,SINGLE,"",,t,,9,105,2018-05-10 09:23:47.058545,2018-05-10 09:23:47.058,f,6
+19,"French Pedicure (Shape,Cuticle,Massage,Buffing,Polish,Mask & Scrub)",,,SINGLE,"",,t,,5,124,2018-05-10 09:34:08.333939,2018-05-10 09:34:08.333,t,6
+20,Feet & Legs,,,SINGLE,"",,t,,5,126,2018-05-10 09:39:14.209425,2018-05-10 09:39:14.209,f,6
+19,Callus Treatment,,,SINGLE,"",,t,,11,122,2018-05-10 09:33:24.096315,2018-05-10 09:33:24.096,f,6
+18,Manicure With Shellac Polish,,,SINGLE,"",,t,,8,107,2018-05-10 09:24:23.745179,2018-05-10 09:24:23.745,f,6
+20,Only Foot Massage Reflexology,,,SINGLE,"",,t,,4,128,2018-05-10 09:39:52.153555,2018-05-10 09:39:52.153,f,6
+21,Dry Cut,,,SINGLE,"",,t,,2,150,2018-05-10 09:54:51.043914,2018-05-10 09:54:51.043,f,6
+21,"Manicure Luxury (Shape, Cuticle Work and Massage, Scrub)",,,SINGLE,"",,t,,29,148,2018-05-10 09:54:08.427762,2018-05-10 09:54:08.427,f,6
+21,Children- BOY (up to 7 yer.),,,SINGLE,"",,t,,5,151,2018-05-10 09:55:09.410529,2018-05-10 09:55:09.41,f,6
+21,Eyebrow,,,MULTIPLE,"",,t,,6,140,2018-05-10 09:48:13.230786,2018-05-10 09:48:13.23,f,6
+21,Cheeks,,,MULTIPLE,"",,t,,7,144,2018-05-10 09:50:59.751972,2018-05-10 09:50:59.751,f,6
+21,Mini Facial,,,SINGLE,"",,t,,22,135,2018-05-10 09:43:06.366746,2018-05-10 09:43:06.366,f,6
+21,Full Facial,,,SINGLE,"",,t,,23,147,2018-05-10 09:52:44.284144,2018-05-10 09:52:44.284,f,6
+27,"Full Arms,Under Arms,Full Legs And Bikini Line",,,MULTIPLE,"",,t,,18,217,2018-05-22 06:39:29.57231,2018-05-22 06:39:29.572,f,9
+27,High Bikini,,,MULTIPLE,"",,t,,10,219,2018-05-22 06:41:44.288805,2018-05-22 06:41:44.288,f,9
+18,Manicure With Hot Mitts,,,SINGLE,"",,t,,10,104,2018-05-10 09:23:26.79566,2018-05-10 09:23:26.795,t,6
+21,"Pedicure Luxury (Shape, Cuticle Work and Massage, Mask)",,,SINGLE,"",,t,,30,137,2018-05-10 09:45:17.194765,2018-05-10 09:45:17.194,f,6
+19,Pedicure With Hot Booties,,,SINGLE,"",,t,,9,119,2018-05-10 09:32:08.875111,2018-05-10 09:32:08.875,t,6
+8,Eyebrows Tint,,,SINGLE,"",,t,,1,97,2018-05-10 09:20:09.483198,2018-05-10 09:20:09.483,f,6
+19,Pedicure With Shellac Polish,,,SINGLE,"",,t,,8,116,2018-05-10 09:29:40.486191,2018-05-10 09:29:40.486,f,6
+18,"Luxury Manicure (Shape,Cuticle, Scrub,Massage & Polish)",,,SINGLE,"",,t,,3,112,2018-05-10 09:26:36.437316,2018-05-10 09:26:36.437,f,6
+5,DRY CUT,,,MULTIPLE,"",,t,,1,189,2018-05-10 10:44:03.703866,2018-05-10 10:44:03.703,f,6
+7,lndividual Eyelashes (Half Set),,,SINGLE,"",,t,,2,93,2018-05-10 09:18:28.354654,2018-05-10 09:18:28.354,f,6
+26,Upper Lip,,,MULTIPLE,"",,t,,2,205,2018-05-22 06:29:39.443066,2018-05-22 06:29:39.443,f,9
+19,"Deluxe Pedicure (Shape,cuticle,Scrub, Massage,Mask & Polish)",,,SINGLE,"",,t,,4,114,2018-05-10 09:28:18.980315,2018-05-10 09:28:18.98,f,6
+22,Glitter Henna Tattoos,,,SINGLE,"",,t,,4,169,2018-05-10 10:12:56.007044,2018-05-10 10:12:56.007,t,6
+26,Forehead,,,MULTIPLE,"",,t,,7,201,2018-05-22 06:27:07.256339,2018-05-22 06:27:07.256,f,9
+5,Perming,,,MULTIPLE,"",,t,,18,181,2018-05-10 10:28:42.002146,2018-05-10 10:28:42.002,f,6
+5,Your Colour Application (Full Head),,,MULTIPLE,"",,t,,9,193,2018-05-14 06:20:23.837563,2018-05-14 06:20:23.837,f,6
+19,"Express Pedicure (Shape,Cuticle, Buff & Polish)",,,SINGLE,"",,t,,2,117,2018-05-10 09:31:23.096787,2018-05-10 09:31:23.096,f,6
+22,Bridal Henna,,,SINGLE,"",,t,,5,170,2018-05-10 10:13:16.930237,2018-05-10 10:13:16.93,f,6
+19,"Luxury Pedicure (shape, Cuticle,Scrub, massage & polish)",,,SINGLE,"",,t,,3,120,2018-05-10 09:32:44.814003,2018-05-10 09:32:44.814,f,6
+5,Using Straightener Only,,,MULTIPLE,"",,t,,7,173,2018-05-10 10:16:56.136007,2018-05-10 10:16:56.136,t,6
+21,Chest,,,SINGLE,"",,t,,18,161,2018-05-10 10:06:59.550077,2018-05-10 10:06:59.55,f,6
+5,Wash & Set,,,MULTIPLE,"",,t,,9,176,2018-05-10 10:20:23.494329,2018-05-10 10:20:23.494,t,6
+2,Full Body Wax Including Bikini line Wax,,,SINGLE,"",,t,,22,196,2018-05-21 11:24:45.552626,2018-05-21 11:24:45.552,t,6
+27,"Full Legs,Full Arms & Under Arms",,,MULTIPLE,"",,t,,15,225,2018-05-22 06:49:22.980373,2018-05-22 06:49:22.98,t,9
+21,Back and Shoulder,,,SINGLE,"",,t,,21,164,2018-05-10 10:08:06.72179,2018-05-10 10:08:06.721,f,6
+27,G-string,,,MULTIPLE,"",,t,,11,224,2018-05-22 06:48:51.779654,2018-05-22 06:48:51.779,f,9
+26,Child Hair 555,,,MULTIPLE,"",,t,,1,206,2018-05-22 06:30:32.445697,2018-05-22 06:30:32.445,t,9
+22,Henna Tattoo,,,SINGLE,"",,t,,3,168,2018-05-10 10:12:31.265439,2018-05-10 10:12:31.265,f,6
+21,Shoulder,,,SINGLE,"",,t,,20,163,2018-05-10 10:07:49.940607,2018-05-10 10:07:49.94,f,6
+30,Full Face & Neck,,,SINGLE,"",,t,,1,244,2018-05-22 07:02:36.121277,2018-05-22 07:02:36.121,f,9
+30,Full Body,,,SINGLE,"",,t,,3,243,2018-05-22 07:02:17.861802,2018-05-22 07:02:17.861,f,9
+33,Wash & Set,,,MULTIPLE,"",,t,,4,293,2018-05-22 08:25:01.320107,2018-05-22 08:25:01.32,t,9
+23,Full Facial,,,SINGLE,"",,t,,2,195,2018-05-19 08:10:12.110121,2018-05-19 08:10:12.11,f,6
+28,Individual Eyelash (2 Week Topup),,,SINGLE,"",,t,,5,234,2018-05-22 06:58:00.9647,2018-05-22 06:58:00.964,f,9
+37,Shahnaz Pearl Facial,,,SINGLE,"",,t,,5,284,2018-05-22 07:56:38.439396,2018-05-22 07:56:38.439,t,9
+5,Brazilian Blowdry,,,MULTIPLE,"",,t,,19,177,2018-05-10 10:21:54.837079,2018-05-10 10:21:54.837,f,6
+33,Hair Up From,,,SINGLE,"",,t,,21,295,2018-05-22 08:53:48.44725,2018-05-22 08:53:48.447,t,9
+21,Mans Wash / cut / Blow Dry,,,SINGLE,"",,t,,1,166,2018-05-10 10:08:58.377227,2018-05-10 10:08:58.377,f,6
+21,"Hair Cut, Color & Wash",,,SINGLE,"",,t,£10 extra with Amonia Free color,3,165,2018-05-10 10:08:30.623287,2018-05-10 10:08:30.623,f,6
+32,File & Polish,,,SINGLE,"",,t,,1,257,2018-05-22 07:10:29.035736,2018-05-22 07:10:29.035,f,9
+32,Callus Treatment,,,SINGLE,"",,t,,9,262,2018-05-22 07:12:44.464504,2018-05-22 07:12:44.464,f,9
+31,Manicure With Parrafin Wax,,,SINGLE,"",,t,,8,253,2018-05-22 07:07:25.706821,2018-05-22 07:07:25.706,f,9
+33,Amonia Free Root Color From,,,MULTIPLE,"",,t,,9,303,2018-05-22 09:07:07.863535,2018-05-22 09:07:07.863,f,9
+36,Evening Make Up,,,SINGLE,"",,t,,1,280,2018-05-22 07:29:49.472495,2018-05-22 07:29:49.472,f,9
+33,T-Section Highlights,,,MULTIPLE,"",,t,,12,306,2018-05-22 09:11:19.113326,2018-05-22 09:11:19.113,f,9
+31,"Luxury Manicure (Shape,Cuticle Work,Massage & Polish)",,,SINGLE,"",,t,,3,254,2018-05-22 07:08:01.068184,2018-05-22 07:08:01.068,f,9
+31,Shape & Polish,,,SINGLE,"",,t,,1,251,2018-05-22 07:06:19.977088,2018-05-22 07:06:19.977,f,9
+27,Full Arms,,,MULTIPLE,"",,t,,1,209,2018-05-22 06:34:06.172778,2018-05-22 06:34:06.172,f,9
+27,Half Arms,,,SINGLE,"",,t,,2,213,2018-05-22 06:36:35.337225,2018-05-22 06:36:35.337,f,9
+27,Under Arms,,,MULTIPLE,"",,t,,3,208,2018-05-22 06:33:28.267674,2018-05-22 06:33:28.267,f,9
+27,Full Legs,,,SINGLE,"",,t,,4,211,2018-05-22 06:35:29.028121,2018-05-22 06:35:29.028,f,9
+27,Back and Stomach,,,SINGLE,"",,t,,13,215,2018-05-22 06:37:54.139131,2018-05-22 06:37:54.139,f,9
+27,Hollywood,,,MULTIPLE,"",,t,,8,223,2018-05-22 06:47:25.738223,2018-05-22 06:47:25.738,f,9
+27,Bikini line,,,MULTIPLE,"",,t,,7,210,2018-05-22 06:34:39.112942,2018-05-22 06:34:39.112,f,9
+6,Eyebrows Tidy,,,MULTIPLE,"",,t,,2,56,2018-05-10 08:16:45.482412,2018-05-10 08:16:45.482,f,6
+27,Full Back,,,SINGLE,"",,t,,12,220,2018-05-22 06:43:20.644587,2018-05-22 06:43:20.644,f,9
+31,Manicure With Shellac Polish,,,SINGLE,"",,t,,7,250,2018-05-22 07:05:59.889602,2018-05-22 07:05:59.889,f,9
+26,Face Sides,,,MULTIPLE,"",,t,,6,199,2018-05-22 06:24:01.934748,2018-05-22 06:24:01.934,f,9
+26,Full Face With Eyebrow & Neck,,,MULTIPLE,"",,t,,11,204,2018-05-22 06:29:00.487861,2018-05-22 06:29:00.487,f,9
+5,Wash/Cut/Blow Dry,,,MULTIPLE,"",,t,,3,192,2018-05-11 05:59:30.135337,2018-05-11 05:59:30.135,f,6
+32,Pedicure With Shellac Polish,,,SINGLE,"",,t,,7,264,2018-05-22 07:13:27.821424,2018-05-22 07:13:27.821,f,9
+32,Shellac Polish,,,SINGLE,"",,t,,8,267,2018-05-22 07:15:00.50526,2018-05-22 07:15:00.505,f,9
+31,"Express Manicure (shape, cutical Work,Massage,No polish)",,,SINGLE,"",,t,,2,245,2018-05-22 07:03:27.712096,2018-05-22 07:03:27.712,f,9
+31,Shellac Removal,,,SINGLE,"",,t,,10,249,2018-05-22 07:05:41.274354,2018-05-22 07:05:41.274,f,9
+5,Olaplex From,,,SINGLE,"",,t,Olaplax Starts From £30. Price May Very According To Hair Length,20,184,2018-05-10 10:32:49.262552,2018-05-10 10:32:49.262,f,6
+27,Brazilian,,,MULTIPLE,"",,t,,9,218,2018-05-22 06:40:02.123207,2018-05-22 06:40:02.123,f,9
+32,"French Pedicure (Shape,Cuticle,Massage,Buffing,Polish,& Scrub)",,,SINGLE,"",,t,,5,258,2018-05-22 07:10:55.122571,2018-05-22 07:10:55.122,f,9
+26,Chin,,,MULTIPLE,"",,t,,4,197,2018-05-22 06:05:25.909687,2018-05-22 06:05:25.909,f,9
+28,Individual Eyelashes (3 week top up),,,SINGLE,"",,t,,6,231,2018-05-22 06:56:08.21414,2018-05-22 06:56:08.214,t,9
+28,Individual Eyelashes (4 Week Topup),,,SINGLE,"",,t,,7,228,2018-05-22 06:54:14.212739,2018-05-22 06:54:14.212,t,9
+5,Full Head Colour From,,,MULTIPLE,"",,t,,11,187,2018-05-10 10:38:39.140312,2018-05-10 10:38:39.14,f,6
+29,Eyebrows Tint,,,SINGLE,"",,t,,1,240,2018-05-22 07:00:29.933057,2018-05-22 07:00:29.933,f,9
+32,Luxury Manicure & Luxury pedicure,,,SINGLE,"",,t,,13,270,2018-05-22 07:22:45.446899,2018-05-22 07:22:45.446,f,9
+37,Full Facial,,,SINGLE,"",,t,,2,286,2018-05-22 08:03:00.262904,2018-05-22 08:03:00.262,f,9
+26,Nose,,,MULTIPLE,"",,t,,5,202,2018-05-22 06:27:43.775331,2018-05-22 06:27:43.775,f,9
+26,Cheeks,,,MULTIPLE,"",,t,,8,207,2018-05-22 06:30:57.813779,2018-05-22 06:30:57.813,f,9
+26,Neck,,,MULTIPLE,"",,t,,9,198,2018-05-22 06:20:27.25597,2018-05-22 06:20:27.255,f,9
+27,Upper Half Legs,,,MULTIPLE,"",,t,,6,212,2018-05-22 06:36:01.779781,2018-05-22 06:36:01.779,f,9
+27,Half Legs,,,SINGLE,"",,t,,5,227,2018-05-22 06:52:07.79933,2018-05-22 06:52:07.799,f,9
+27,"Full Arms,Under Arms,Chest,Stomach,Full Back",,,MULTIPLE,"",,t,,21,221,2018-05-22 06:44:00.698299,2018-05-22 06:44:00.698,f,9
+26,Lower Lip,,,MULTIPLE,"",,t,,3,203,2018-05-22 06:28:18.946403,2018-05-22 06:28:18.946,f,9
+28,Individual Eyelashes (Half Set),,,SINGLE,"",,t,,2,233,2018-05-22 06:57:39.72608,2018-05-22 06:57:39.726,f,9
+28,Strip Lash Application (With Lash),,,SINGLE,"",,t,,8,230,2018-05-22 06:55:41.595352,2018-05-22 06:55:41.595,f,9
+28,Lash Removal,,,SINGLE,"",,t,,11,237,2018-05-22 06:58:58.305361,2018-05-22 06:58:58.305,f,9
+28,Strip Lash (Only Application),,,SINGLE,"",,t,,9,232,2018-05-22 06:57:10.392491,2018-05-22 06:57:10.392,f,9
+28,Flare Lashes from,,,SINGLE,"",,t,,1,229,2018-05-22 06:54:43.344662,2018-05-22 06:54:43.344,f,9
+21,Beard trim and Line,,,SINGLE,"",,f,,1,167,2018-05-10 10:09:17.589879,2018-05-10 10:09:17.589,t,6
+22,Evening Make Up from,,,SINGLE,"",,t,Strip lashesh not Included,1,172,2018-05-10 10:13:50.32317,2018-05-10 10:13:50.323,f,6
+5,HairUp From,,,SINGLE,"",,t,Starts From £50. Price May Very According To Hair Length,22,175,2018-05-10 10:19:03.26245,2018-05-10 10:19:03.262,f,6
+22,"Makeup,Hair Style & Saree Draping",,,SINGLE,"",,t,,2,171,2018-05-10 10:13:33.964224,2018-05-10 10:13:33.964,f,6
+32,Shellac Removal,,,SINGLE,"",,t,,10,263,2018-05-22 07:13:07.093774,2018-05-22 07:13:07.093,f,9
+32,Padicure With Hot Booties,,,SINGLE,"",,t,,11,265,2018-05-22 07:13:51.019433,2018-05-22 07:13:51.019,f,9
+36,Bridal Henna,,,SINGLE,"",,t,,5,282,2018-05-22 07:30:42.223014,2018-05-22 07:30:42.223,f,9
+36,"Makeup,Hair Style & Saree Draping",,,SINGLE,"",,t,,2,281,2018-05-22 07:30:20.341639,2018-05-22 07:30:20.341,f,9
+30,Full Back,,,SINGLE,"",,t,,2,242,2018-05-22 07:01:58.502844,2018-05-22 07:01:58.502,f,9
+32,Gel Manicure & Pedicure,,,SINGLE,"",,t,,14,260,2018-05-22 07:11:57.519159,2018-05-22 07:11:57.519,t,9
+21,"Chest, Stomach, Back and Shoulder",,,SINGLE,"",,t,,15,157,2018-05-10 10:00:06.979808,2018-05-10 10:00:06.979,f,6
+37,Gold Facial,,,SINGLE,"",,t,,1,355,2018-07-30 06:10:51.146287,2018-07-30 06:10:51.146,t,9
+8,Lash Perming,,,SINGLE,"",,t,,4,340,2018-05-22 12:34:19.999336,2018-05-22 12:34:19.999,t,6
+35,Eyebrows,,,MULTIPLE,"",,t,,5,327,2018-05-22 09:33:51.300687,2018-05-22 09:33:51.3,f,9
+35,Nose,,,MULTIPLE,"",,t,,1,322,2018-05-22 09:29:31.359458,2018-05-22 09:29:31.359,f,9
+2,FULL LEGS & BIKINI LINE,,,SINGLE,"",,t,,1,388,2019-07-14 09:06:20.09499,2019-07-14 09:06:20.094,t,6
+57,Acrylic Extensions With Gel Colour,,,SINGLE,"",,t,,5,519,2021-09-04 12:37:16.614342,2021-09-04 12:37:16.614,t,16
+19,Luxury Manicure & Pedicure,,,SINGLE,"",,t,,1,380,2019-04-22 12:52:10.860942,2019-04-22 12:52:10.86,t,6
+35,Mini Facial,,,SINGLE,"",,t,,17,337,2018-05-22 09:41:17.871739,2018-05-22 09:41:17.871,f,9
+33,Your Own Colour Application Full Head,,,MULTIPLE,"",,t,,24,318,2018-05-22 09:23:05.476155,2018-05-22 09:23:05.476,t,9
+54,Half Arms,,,SINGLE,"",,t,,8,571,2021-10-02 14:22:57.965131,2021-10-02 14:22:57.965,f,16
+36,Henna Tattoo,,,SINGLE,"",,t,,3,278,2018-05-22 07:28:30.723211,2018-05-22 07:28:30.723,f,9
+5,Bleach from,,,SINGLE,"",,t,Bleach Starts From £50. Price May Very According To Hair Length,13,344,2018-05-22 13:06:59.136196,2018-05-22 13:06:59.136,t,6
+28,Individual Eyelashes (3/4 Set),,,SINGLE,"",,t,,3,238,2018-05-22 06:59:24.048027,2018-05-22 06:59:24.048,f,9
+35,Arms,,,MULTIPLE,"",,t,,2,323,2018-05-22 09:30:14.909513,2018-05-22 09:30:14.909,f,9
+31,Shellac Polish (Shape & Polish),,,SINGLE,"",,t,,9,248,2018-05-22 07:05:22.165398,2018-05-22 07:05:22.165,f,9
+55,Shimmer Stick From,,,SINGLE,"",,f,,7,583,2021-10-02 17:13:22.800528,2021-10-02 17:13:22.8,f,16
+28,lash lift,,,SINGLE,"",,t,,10,236,2018-05-22 06:58:39.210564,2018-05-22 06:58:39.21,t,9
+33,High Frequency From,,,SINGLE,"",,t,,23,301,2018-05-22 09:02:11.74197,2018-05-22 09:02:11.741,t,9
+32,Pedicure With Paraffin Wax,,,SINGLE,"",,t,,6,266,2018-05-22 07:14:25.939427,2018-05-22 07:14:25.939,f,9
+31,Manicure With Hot Booties,,,SINGLE,"",,t,,11,246,2018-05-22 07:03:54.403516,2018-05-22 07:03:54.403,f,9
+2,Chest,,,SINGLE,"",,t,,7,342,2018-05-22 12:51:27.191113,2018-05-22 12:51:27.191,f,6
+29,Eyelash Tint,,,SINGLE,"",,t,,2,239,2018-05-22 06:59:52.724648,2018-05-22 06:59:52.724,f,9
+28,Individual classic Eyelashes (Full Set),,,SINGLE,"",,t,,4,235,2018-05-22 06:58:20.835243,2018-05-22 06:58:20.835,f,9
+29,Eyelash & Eyebrows Tint,,,SINGLE,"",,t,,3,241,2018-05-22 07:00:48.264317,2018-05-22 07:00:48.264,f,9
+33,Wash and Blow Dry,,,MULTIPLE,"",,t,,4,319,2018-05-22 09:24:20.769285,2018-05-22 09:24:20.769,f,9
+36,Party Hairstyle,,,SINGLE,"",,t,,6,283,2018-05-22 07:31:00.882417,2018-05-22 07:31:00.882,t,9
+33,Cut and Blow dry,,,MULTIPLE,"",,t,,27,296,2018-05-22 08:55:29.444378,2018-05-22 08:55:29.444,t,9
+35,Underarms,,,MULTIPLE,"",,t,,7,329,2018-05-22 09:35:20.595222,2018-05-22 09:35:20.595,f,9
+35,Express Manicure,,,SINGLE,"",,t,"Shape,Cutical cut, Massage",12,326,2018-05-22 09:32:54.418087,2018-05-22 09:32:54.418,f,9
+33,Child hair cut (under 7 only),,,MULTIPLE,"",,t,,26,317,2018-05-22 09:22:14.066619,2018-05-22 09:22:14.066,f,9
+33,Half Head Highlights,,,MULTIPLE,"",,t,,13,305,2018-05-22 09:10:18.46137,2018-05-22 09:10:18.461,f,9
+33,Your Colour Root Apply,,,SINGLE,"",,t,,7,308,2018-05-22 09:13:03.345791,2018-05-22 09:13:03.345,f,9
+33,Hair Wash,,,SINGLE,"",,t,,30,309,2018-05-22 09:13:54.782633,2018-05-22 09:13:54.782,f,9
+33,Using straightener Only,,,MULTIPLE,"",,t,,6,312,2018-05-22 09:17:13.923603,2018-05-22 09:17:13.923,f,9
+31,"Luxury Manicure (Shape,Cuticle, Scrub,Massage & Polish)",,,SINGLE,"",,t,,4,255,2018-05-22 07:08:33.124569,2018-05-22 07:08:33.124,t,9
+31,"French Manicure (Shape,Cuticle,Massage,Buffing & Polish With Tips)",,,SINGLE,"",,t,,6,252,2018-05-22 07:06:45.65536,2018-05-22 07:06:45.655,f,9
+35,Pedicure,,,SINGLE,"",,t,,14,336,2018-05-22 09:40:55.96648,2018-05-22 09:40:55.966,t,9
+33,Perming,,,MULTIPLE,"",,t,,20,310,2018-05-22 09:15:26.486424,2018-05-22 09:15:26.486,f,9
+34,Feet & Legs Massage,,,SINGLE,"",,t,,5,272,2018-05-22 07:23:46.06856,2018-05-22 07:23:46.068,f,9
+32,Callus Peel Pedicure,,,SINGLE,"",,t,,12,256,2018-05-22 07:10:08.883266,2018-05-22 07:10:08.883,f,9
+31,"Deluxe Manicure (Shape,Cuticle,Scrub,Massage,Mask & Polish)",,,SINGLE,"",,t,,5,247,2018-05-22 07:04:32.932199,2018-05-22 07:04:32.932,f,9
+33,Salon Root's colour (5cm),,,MULTIPLE,"",,t,If more than 5 cm 5 pounds extra,10,302,2018-05-22 09:06:00.418468,2018-05-22 09:06:00.418,f,9
+36,Glitter Henna Tattoos,,,SINGLE,"",,t,,4,279,2018-05-22 07:28:53.820119,2018-05-22 07:28:53.82,t,9
+33,Fringe Trim,,,SINGLE,"",,t,,28,316,2018-05-22 09:21:18.702623,2018-05-22 09:21:18.702,f,9
+33,Brazilian Blow dry,,,MULTIPLE,"",,t,,18,297,2018-05-22 08:57:28.989987,2018-05-22 08:57:28.989,f,9
+33,"Wash, Cut and Blow dry",,,MULTIPLE,"",,t,,3,299,2018-05-22 09:00:03.074277,2018-05-22 09:00:03.074,f,9
+35,Chest and stomach,,,MULTIPLE,"",,t,,3,324,2018-05-22 09:31:33.447571,2018-05-22 09:31:33.447,f,9
+33,Toner From,,,MULTIPLE,"",,t,,16,321,2018-05-22 09:26:37.594714,2018-05-22 09:26:37.594,f,9
+33,Bleach,,,MULTIPLE,"",,t,,15,298,2018-05-22 08:58:41.395526,2018-05-22 08:58:41.395,f,9
+47,Eyelash Tint,,,SINGLE,"",,t,,2,498,2021-09-04 12:13:00.90976,2021-09-04 12:13:00.909,f,16
+5,Your Colour Application (Roots) From,,,SINGLE,"",,t,Starts From £25. Price May Very According To Hair Length,8,343,2018-05-22 13:01:04.975436,2018-05-22 13:01:04.975,f,6
+32,Shellac Manicure & Pedicure,,,SINGLE,"",,t,,15,261,2018-05-22 07:12:19.681403,2018-05-22 07:12:19.681,f,9
+33,Your Colour Full Head,,,MULTIPLE,"",,t,,8,300,2018-05-22 09:01:11.645429,2018-05-22 09:01:11.645,f,9
+51,Ear Wax,,,SINGLE,"",,t,,5,540,2021-10-01 13:52:47.675403,2021-10-01 13:52:47.675,f,16
+33,"Balayage, Ombre",,,MULTIPLE,"",,t,,17,294,2018-05-22 08:40:53.159922,2018-05-22 08:40:53.159,f,9
+23,Relaxing Mask,,,SINGLE,"",,t,"This Intense mask contain Aloe vera ,Vitamin C & E which those yields maximum hydration with moisturizing effects for skin. This suits for dry skin, the irritation skin and sunburn skin.",1,383,2019-06-01 10:25:02.846172,2019-06-01 10:25:02.846,f,6
+19,Callus Peel With Pedicure,,,SINGLE,"",,t,,12,341,2018-05-22 12:43:49.720067,2018-05-22 12:43:49.72,f,6
+33,Dry Cut,,,MULTIPLE,"",,t,,1,304,2018-05-22 09:08:12.810246,2018-05-22 09:08:12.81,f,9
+35,Ear,,,MULTIPLE,"",,t,,6,328,2018-05-22 09:34:37.115049,2018-05-22 09:34:37.115,f,9
+35,Full Facial,,,SINGLE,"",,t,,15,332,2018-05-22 09:39:16.220361,2018-05-22 09:39:16.22,f,9
+37,Intenso Skin Anti Ageing Facial,,,SINGLE,"",,t,,1,392,2019-07-15 13:11:40.392446,2019-07-15 13:11:40.392,t,9
+35,Herbal Facial,,,SINGLE,"",,t,,16,335,2018-05-22 09:40:32.875686,2018-05-22 09:40:32.875,t,9
+35,Gold Facial,,,SINGLE,"",,t,,18,338,2018-05-22 09:42:06.599315,2018-05-22 09:42:06.599,t,9
+2,"Full Arms,Under Arms,Full Legs And Bikini Line",,,MULTIPLE,"",,t,,16,61,2018-05-10 08:27:52.430195,2018-05-10 08:27:52.43,t,6
+5,High Frequency,,,MULTIPLE,"",,t,,23,346,2018-05-22 13:18:28.057126,2018-05-22 13:18:28.057,t,6
+48,Chin,,,SINGLE,"",,t,,5,505,2021-09-04 12:21:18.224465,2021-09-04 12:21:18.224465,f,16
+44,Eyelash Strips (Application Only),,,SINGLE,"",,t,,13,484,2021-09-04 11:53:37.737675,2021-09-04 11:53:37.737,f,16
+27,Full Arms And Under Arms,,,SINGLE,"",,t,,1,371,2019-01-05 15:53:12.545344,2019-01-05 15:53:12.545,t,9
+2,Full Leg And Hollywood,,,SINGLE,"",,t,,1,377,2019-04-22 12:32:49.181484,2019-04-22 12:32:49.181,t,6
+19,Shellac Manicure & Pedicure,,,SINGLE,"",,t,,1,381,2019-04-22 12:53:57.156327,2019-04-22 12:53:57.156,t,6
+19,SHELLAC POLISH & REMOVEL,,,SINGLE,"",,t,,1,389,2019-07-14 09:11:05.468486,2019-07-14 09:11:05.468486,t,6
+37,Intenso LIght Infusion Skin Lighting Facial,,,SINGLE,"",,t,,1,393,2019-07-15 13:13:15.04521,2019-07-15 13:13:15.045,t,9
+44,Eyelash Tinting Before Lashes,,,SINGLE,"",,t,,1,485,2021-09-04 11:54:43.041523,2021-09-04 11:54:43.041,f,16
+37,Face Massage,,,SINGLE,"",,t,"Facial massage is a very popular beauty treatment to slow down the aging process and achieve younger looking and healthier skin. It is also used to relieve stress, migraine headache, premenstrual syndrome, and sinus congestion. Massage of the face is usually done with the hands A small amount of oil or lotion is often applied to facilitate movement over the delicate facial areas. Benefits of face massage •	Improvement of facial skin and muscle tone. •	Relaxation of facial and eye muscles. •	Relief from tension, headaches and facial pain •	Alleviation of stress and anxiety. •	Overall physical and mental relaxation. • Stimulation of meridian points on the face. •	Relief from eyestrain. •	Correction of liver and gall bladder imbalances. •	Relief of neck tension. •	Alleviation of nervous disorders. •	Relief of premenstrual water retention.",6,290,2018-05-22 08:05:12.570907,2018-05-22 08:05:12.57,f,9
+48,Neck,,,SINGLE,"",,t,,6,506,2021-09-04 12:21:51.334428,2021-09-04 12:21:51.334428,f,16
+57,Acrylic Extensions Removal,,,SINGLE,"",,t,,1,554,2021-10-01 16:41:36.788533,2021-10-01 16:41:36.788,t,16
+57,UV Gel Extensions + Gel Polish,,,SINGLE,"",,t,,6,520,2021-09-04 12:38:10.896165,2021-09-04 12:38:10.896,t,16
+34,Full Body Exfoliate,,,SINGLE,"",,t,"There are many benefits of a body scrub . A body scrub will exfoliate your skin, sloughing off dead skin cells and rubbing away hard and flaky skin, leaving it feeling soft and smooth. Scrub or polishing products usually include an oily base which moisturises and soothes your skin as it is scrubbed. A scrub can be really invigorating as well, and improve the circulation of blood and lymph to the surface of the skin, helping to fight cellulite and improve your skin tone. A good body scrub forms the basis of other body treatments. it prepares your skin for an even tan, the oils used can relax or stimulate your senses ready for any similarly-focused treatment that you be having afterwards.",2,271,2018-05-22 07:23:26.13782,2018-05-22 07:23:26.137,f,9
+46,Forehead,,,MULTIPLE,"",,t,,4,491,2021-09-04 12:05:45.690749,2021-09-04 12:05:45.69,f,16
+33,"Full Head Colour Wella, Innoa",,,MULTIPLE,"",,t,,25,307,2018-05-22 09:12:07.235947,2018-05-22 09:12:07.235,t,9
+27,"Full Arms,Under Arms,Full Legs,Full Bikini",,,MULTIPLE,"",,t,,17,226,2018-05-22 06:49:59.073982,2018-05-22 06:49:59.073,f,9
+32,Infinity Polish,,,SINGLE,"",,f,,1,373,2019-02-22 10:41:00.887917,2019-02-22 10:41:00.887917,t,9
+35,Stomach,,,MULTIPLE,"",,t,,4,325,2018-05-22 09:32:23.300336,2018-05-22 09:32:23.3,f,9
+35,Back,,,MULTIPLE,"",,t,,8,330,2018-05-22 09:37:47.211906,2018-05-22 09:37:47.211,f,9
+5,Hair Conditioning Treatment from,,,SINGLE,"",,t,Starts From £25. Price May Very According To Hair Length,21,180,2018-05-10 10:27:19.392073,2018-05-10 10:27:19.392,f,6
+32,"Deluxe Pedicure (Shape,Cuticle, Scrub,Massage, Mask & Polish)",,,SINGLE,"",,t,,4,269,2018-05-22 07:22:24.561459,2018-05-22 07:22:24.561,f,9
+35,Half Legs Lower,,,MULTIPLE,"",,t,,9,331,2018-05-22 09:38:52.749802,2018-05-22 09:38:52.749,f,9
+35,Eyebrow Tint,,,SINGLE,"",,t,,10,339,2018-05-22 09:43:11.196604,2018-05-22 09:43:11.196,f,9
+35,Eyelash Tint,,,SINGLE,"",,t,,11,334,2018-05-22 09:39:59.358445,2018-05-22 09:39:59.358,t,9
+35,Luxury Manicure,,,SINGLE,"",,t,"Shape,Cutical cut, Scrub, Massage",13,333,2018-05-22 09:39:36.360146,2018-05-22 09:39:36.36,f,9
+33,Salon Full Head Colour,,,MULTIPLE,"",,t,,11,320,2018-05-22 09:25:55.398633,2018-05-22 09:25:55.398,f,9
+33,Wash & cut,,,MULTIPLE,"",,t,,2,313,2018-05-22 09:18:16.382245,2018-05-22 09:18:16.382,f,9
+51,"Express Manicure (Shape, Cuticle Work)",,,SINGLE,"",,t,,12,547,2021-10-01 14:21:24.61313,2021-10-01 14:21:24.613,f,16
+33,Olaplex From,,,SINGLE,"",,t,,19,311,2018-05-22 09:16:24.742574,2018-05-22 09:16:24.742,f,9
+28,Russian Lashes from,,,SINGLE,"",,t,,1,533,2021-09-24 13:47:46.70665,2021-09-24 13:47:46.706,f,9
+37,Shahnaz Herbal Facial,,,SINGLE,"",,t,"Kaeso Calming Facial Treatment is most suitable for the Sensitive Skin. Which includes • Skin Analysis. •	Facial Massage ( Plus Complimentary Shoulders and back Massage). •	Skin exfoliation. •	Face steaming. •	extraction. •	Facial Massage. •	Calming mask Application. • Calming toner Application. •	Calming moisturiser Application. Kaeso calming facial contains vitamin E, which is powerful antioxidant. Mulberry for Moisturising. Pomegranate for the protective of skin against UV damage. This is specially formulated to nourish and rejuvenate sensitive skin and helps to improve skin tone.",9,285,2018-05-22 08:01:44.345895,2018-05-22 08:01:44.345,f,9
+52,"French Pedicure (Shape,Cuticle,Buff,Hard skin,Scrub, Massage & Polish)",,,SINGLE,"",,t,,9,559,2021-10-01 17:38:26.526876,2021-10-01 17:38:26.526,t,16
+55,Lashes from,,,SINGLE,"",,f,,1,577,2021-10-02 17:04:20.078477,2021-10-02 17:04:20.078,f,16
+18,"Express Manicure (shape, cutical Work,Buff & Polish)",,,SINGLE,"",,t,,2,108,2018-05-10 09:25:03.550392,2018-05-10 09:25:03.55,f,6
+33,Full Head Highlights,,,MULTIPLE,"",,t,,14,314,2018-05-22 09:19:28.844974,2018-05-22 09:19:28.844,f,9
+33,Hair Conditioning (Hair Spa) From,,,SINGLE,"",,t,,22,315,2018-05-22 09:20:29.060702,2018-05-22 09:20:29.06,f,9
+23,Kaeso Calming Facial,,,SINGLE,"",,t,"Kaeso Calming Facial Treatment is most suitable for the Sensitive Skin. Which includes • Skin Analysis. •	Facial Massage ( Plus Complimentary Shoulders and back Massage). •	Skin exfoliation. •	Face steaming. •	extraction. •	Facial Massage. •	Calming mask Application. • Calming toner Application. •	Calming moisturiser Application. Kaeso calming facial contains vitamin E, which is powerful antioxidant. Mulberry for Moisturising. Pomegranate for the protective of skin against UV damage. This is specially formulated to nourish and rejuvenate sensitive skin and helps to improve skin tone.",9,83,2018-05-10 09:13:58.836422,2018-05-10 09:13:58.836,t,6
+23,Full Face - Bleach,,,SINGLE,"",,t,,1,370,2019-01-02 15:13:50.091555,2019-01-02 15:13:50.091,t,6
+23,Mini Facial,,,SINGLE,"",,t,"Mini Facial usually consists of cleansing, exfoliation, application of a mask, toner, and moisturizer. All of the steps are considered to be safe and risk-free, mini facial starts off with makeup removal (if needed). application of a cleanser which removes oil and gently exfoliates. A warm moist towel is placed on your face, or steamer used on face and left for a few minutes which helps open the pores, then blackheads removed and mask applied on face which can nurture,exfoliate, or even provide a mini facial peel flowed by a little facial massage – and the whole treatment is usually finished with the application of moisturizing products. Benefits of Mini Facial are, •	A mini facial will leave you with a nice glow in short time. •	Mini facials give you tighter, smoother, healthier skin, Even just a short session can help to correct small imperfections in the outermost layers of the skin, such as sun damage. Short session Facial can help to correct small imperfections in the outermost layers of the skin, such as sun damage or thin, fine lines.",1,84,2018-05-10 09:14:33.351291,2018-05-10 09:14:33.351,t,6
+19,Delux Menicure & Pedicure,,,SINGLE,"",,t,,1,382,2019-04-22 12:55:03.51674,2019-04-22 12:55:03.516,t,6
+23,Fruit Facial,,,SINGLE,"",,t,"Fruit facial makes your skin naturally cool, toned and refreshingly bright.",3,385,2019-06-07 11:41:13.328402,2019-06-07 11:41:13.328,t,6
+2,"Full Legs,Full arms & under Arms",,,SINGLE,"",,t,,1,378,2019-04-22 12:38:29.223098,2019-04-22 12:38:29.223,t,6
+48,Chin & Neck,,,SINGLE,"",,t,,7,507,2021-09-04 12:22:31.183209,2021-09-04 12:22:31.183209,f,16
+52,"Pedicure with Hot Booties (Shape, Cuticle work, Buff ,Hard skin Remove,Oil Massage & Hot Booties)",,,SINGLE,"",,t,,9,560,2021-10-01 17:40:51.055463,2021-10-01 17:40:51.055,t,16
+57,Infills,,,SINGLE,"",,t,,3,521,2021-09-04 12:38:42.414074,2021-09-04 12:38:42.414,t,16
+54,Hands,,,SINGLE,"",,t,,6,572,2021-10-02 14:27:51.908129,2021-10-02 14:27:51.908,f,16
+55,Cuticle Oil,,,SINGLE,"",,f,,2,578,2021-10-02 17:05:08.79079,2021-10-02 17:05:08.79079,f,16
+37,XproC Fruit Facial,,,SINGLE,"",,t,,1,390,2019-07-15 13:08:28.625416,2019-07-15 13:08:28.625,t,9
+46,Full Face,,,MULTIPLE,"",,t,,7,493,2021-09-04 12:07:56.837818,2021-09-04 12:07:56.837,f,16
+49,"Luxury Manicure (Shape, Buff, Cuticle remove, Cream Massage & Polish)",,,SINGLE,"",,t,,7,514,2021-09-04 12:30:07.906061,2021-09-04 12:30:07.906,f,16
+43,"Gold Bleach (Cleansing, Bleach)",,,SINGLE,"",,t,"Patch test Required
+This unique bleach helps skin look fairer and youthful with radiant glow by natural formulation which gives nice texture without skin irritation. It is lighters facial hair to balance the skin color.",1,534,2021-09-29 11:57:08.801925,2021-09-29 11:57:08.801,f,16
+52,"Luxary Pedicure(Shape, Buff, Cuticle, Hard skin remove, Cream massage & Polish)",,,SINGLE,"",,t,,5,527,2021-09-04 12:43:08.417617,2021-09-04 12:43:08.417,t,16
+52,"Delux Pedicure(Shape, Buff, Cutical, Hard Skin remove, Massage & Polish)",,,SINGLE,"",,t,,6,613,2021-10-26 17:17:25.177674,2021-10-26 17:17:25.177,t,16
+47,Heena Brows,,,SINGLE,"",,t,,4,499,2021-09-04 12:15:32.032486,2021-09-04 12:15:32.032,f,16
+46,Neck,,,MULTIPLE,"",,t,,6,492,2021-09-04 12:07:03.657049,2021-09-04 12:07:03.657,f,16
+51,Forehead,,,MULTIPLE,"",,t,,3,541,2021-10-01 13:54:26.393096,2021-10-01 13:54:26.393,f,16
+51,Full Facial,,,SINGLE,"",,t,"Cleansing, Exfoliation, Steam, Blackhead remove, Cream Massage and Mask",7,473,2021-09-04 11:38:40.413806,2021-09-04 11:38:40.413,f,16
+51,Shaping Nails Hands & Feet,,,SINGLE,"",,t,"",12,624,2021-10-31 16:57:04.893597,2021-10-31 16:57:04.893,f,16
+46,Face Sides,,,MULTIPLE,"",,t,,5,566,2021-10-02 12:16:50.803822,2021-10-02 12:16:50.803,f,16
+51,"Luxury Manicure (Shape, Cuticle Work & Cream Massage)",,,SINGLE,"",,t,,13,548,2021-10-01 14:28:21.86474,2021-10-01 14:28:21.864,f,16
+51,"Delux Manicure(Shape, Cutical Work, Scrub & Cream Massage)",,,SINGLE,"",,t,,14,619,2021-10-31 16:37:42.872949,2021-10-31 16:37:42.872949,t,16
+52,Shellac Polish( Shape & Polish),,,SINGLE,"",,t,,1,565,2021-10-01 17:54:14.847055,2021-10-01 17:54:14.847,f,16
+37,SKIN PURIFYING FACIAL ( SPECIFIX ),,,SINGLE,"",,t,"SPECIFIX Sebumcontrol Skin Purifying Facial is a unique and scientifically designed kit for oily to combination skin. It controls sebocyte differentiation and proliferation, reduces sebum secretion and decreases inflammation, while maintaining the skin's moisture balance. It also controls undesirable shine and provides a matte appearance to help your skin attain a healthier state and further benefits such as excessive oil control, sebum secretion reduction, leaves you with even and brighter looking skin and the skin looks pure and healthy. It cleans and purifies the skin, promotes energy flow to the facial area, deeply energizes the skin and washes away that dull tired look, leaving the skin feeling and looking revitalized and radiant.",1,363,2018-09-18 13:29:53.846652,2018-09-18 13:29:53.846,t,9
+49,"Classic Manicure(Shape, Buff, Cuticle remove, Cream massage)",,,SINGLE,"",,t,,6,513,2021-09-04 12:28:37.620452,2021-09-04 12:28:37.62,f,16
+51,"Manicure With Hot Mitts ( Shape, Cuticle work, Buff , Oil Massage & Mitts )",,,SINGLE,"",,t,,16,549,2021-10-01 15:16:54.558571,2021-10-01 15:16:54.558,f,16
+37,Intenso Acne Skin Facial,,,SINGLE,"",,t,,1,391,2019-07-15 13:09:38.217582,2019-07-15 13:09:38.217,t,9
+18,Manicure & Pedicure With Gel Polish,,,SINGLE,"",,t,,1,357,2018-07-30 06:21:31.429492,2018-07-30 06:21:31.429,t,6
+27,Full Arms And Under Arms,,,SINGLE,"",,t,,1,374,2019-04-02 16:23:16.882839,2019-04-02 16:23:16.882839,t,9
+2,FULL LEGS & G-STRING(HOT WAX),,,SINGLE,"",,t,,1,396,2019-09-01 03:40:01.254678,2019-09-01 03:40:01.254,t,6
+20,Deep Tissue Massage,,,SINGLE,"",,t,"Deep tissue massage is similar to Swedish massage but a much firmer pressure is applied and the strokes are a lot slower and aims to reach the deep layers of muscle and fascia. It is a great therapy for dealing with chronic pain caused by tension, release contracted areas and breaking up scar tissue and adhesions.
+
+Deep tissue massage sessions generally focus on specific areas rather than being a full body treatment. Like sports massage it can be painful and you may even experience some muscle soreness for a day or two afterwards. It can also be used in combination with other therapies and is often used in sports massage..",8,131,2018-05-10 09:40:55.59705,2018-05-10 09:40:55.597,t,6
+20,Back Cleanse,,,SINGLE,"",,t,"It will exfoliate the dead skin and moisturize deeply . It will be a good idea before a special event.
+This will reduce acne and make you look and feel great not to mention the benefits of a little time to truly relax and unwind. It is great for acne, skin bumps and pustules as well as back acne, pimples and zits that arise from exercise, eating the wrong foods or just about any other condition.
+A back facial allows the area to be thoroughly cleaned, exfoliated, and toned. extractions can help remove impurities from the skin. This in turn can lead to a clearer, healthier, blemish-free back .",1,125,2018-05-10 09:38:43.264839,2018-05-10 09:38:43.264,f,6
+5,Amonia Free Root Color,,,SINGLE,"",,f,,1,386,2019-07-07 13:49:28.574514,2019-07-07 13:49:28.574,t,6
+48,Sides,,,SINGLE,"",,t,,8,508,2021-09-04 12:22:58.618513,2021-09-04 12:22:58.618513,f,16
+57,"UV Gel Infills, Gel Polish",,,SINGLE,"",,t,,2,515,2021-09-04 12:32:06.022015,2021-09-04 12:32:06.022,t,16
+49,Extra Long Nail,,,SINGLE,"",,t,,3,522,2021-09-04 12:39:35.07088,2021-09-04 12:39:35.07,f,16
+55,Brow Powder,,,SINGLE,"",,f,,4,579,2021-10-02 17:06:25.567692,2021-10-02 17:06:25.567692,f,16
+38,Waxing Services,,,SINGLE,"",,t,,1,347,2018-06-11 17:29:15.440953,2018-06-11 17:29:15.440953,f,15
+38,aaa,,,SINGLE,"",,t,,1,349,2018-07-20 19:29:34.705378,2018-07-20 19:29:34.705,f,15
+19,OPI INFINITY (EXTRA £ 3),,,SINGLE,"",,f,,99,351,2018-07-23 13:47:45.545268,2018-07-23 13:47:45.545,t,6
+23,Kaeso Rebalancing Facial,,,SINGLE,"",,t,Kaeso Rebalancing Facial Treatment Is Most Suitable For The Oily Combination Skin. Rebalancing Cleanser Application . Skin Analysis. Facial Massage(Plus Compimentary Shoulders And Back Massage) Face Steaming. Rebalancing Mask Application. Rebalancing Toner Application. Rebalancing Moisturiser Application.,7,86,2018-05-10 09:15:26.053894,2018-05-10 09:15:26.053,t,6
+51,Mini Facial,,,SINGLE,"",,t,"Cleansing, Exfoliation, Steam, Blackhead remove, Moisture Cream",6,542,2021-10-01 14:06:09.287042,2021-10-01 14:06:09.287,f,16
+31,Shape & Polish (OPI Infinity Polish),,,SINGLE,"",,t,,1,352,2018-07-28 08:40:27.59838,2018-07-28 08:40:27.598,t,9
+37,Fruit Facial,,,SINGLE,"",,t,,1,353,2018-07-28 12:00:50.983953,2018-07-28 12:00:50.983,t,9
+5,Full Head Amonia Free Colour From,,,MULTIPLE,"",,t,,8,365,2018-10-23 11:16:04.772006,2018-10-23 11:16:04.772,f,6
+51,"Super Delux Manicure(Shape,Cutical, Scrub & Cream Massage, Mask)",,,SINGLE,"",,t,,15,620,2021-10-31 16:40:48.464163,2021-10-31 16:40:48.464163,t,16
+27,Hip (Battocks),,,SINGLE,"",,t,,14,354,2018-07-28 12:05:35.113932,2018-07-28 12:05:35.113,f,9
+46,Nose,,,MULTIPLE,"",,t,,9,567,2021-10-02 12:39:23.421432,2021-10-02 12:39:23.421,f,16
+52,"Pedicure with Gel Polish(Shape , Buff, Cuticle, Hard skin remove, Cream massage & Polish)",,,SINGLE,"",,t,,8,528,2021-09-04 12:43:37.92914,2021-09-04 12:43:37.929,t,16
+52,"Pedicure with Paraffin Wax(Shape, Cuticle work, Buff ,Hard skin , Wax, Cream massage & Polish )",,,SINGLE,"",,t,,11,561,2021-10-01 17:42:47.250906,2021-10-01 17:42:47.25,t,16
+27,FULL ARMS & FULL LEGS,,,SINGLE,"",,t,,1,395,2019-07-17 09:44:41.224552,2019-07-17 09:44:41.224,f,9
+44,LVL Lash Lifting without tint,,,SINGLE,"",,t,,14,486,2021-09-04 11:55:24.959866,2021-09-04 11:55:24.959,f,16
+51,"Express Pedicure ( Shape, Cuticle work, Buff and Moisture Cream)",,,SINGLE,"",,t,,17,550,2021-10-01 15:31:49.314236,2021-10-01 15:31:49.314,f,16
+49,"Shape & Polish(Cut,Shape,Buff & Normal Polish)",,,SINGLE,"",,t,,1,512,2021-09-04 12:27:25.409592,2021-09-04 12:27:25.409,f,16
+47,Brow Lamination,,,SINGLE,"",,t,,4,500,2021-09-04 12:16:30.924454,2021-09-04 12:16:30.924,f,16
+49,"Deluxe Manicure (Shape,Cuticle,Scrub,Massage,& Polish)",,,SINGLE,"",,t,,8,555,2021-10-01 16:59:38.02741,2021-10-01 16:59:38.027,t,16
+51,Eyebrows,,,MULTIPLE,"",,t,,1,494,2021-09-04 12:08:43.440102,2021-09-04 12:08:43.44,f,16
+51,Nose,,,SINGLE,"",,t,in Nostril,4,539,2021-10-01 13:50:46.13182,2021-10-01 13:50:46.131,f,16
+48,Eyebrows,,,SINGLE,"",,t,,1,501,2021-09-04 12:17:30.166991,2021-09-04 12:17:30.166,f,16
+50,Microblading,,,SINGLE,"",,t,,1,529,2021-09-04 12:44:11.629308,2021-09-04 12:44:11.629,f,16
+46,Eyebrows,,,MULTIPLE,"",,t,,1,487,2021-09-04 12:01:10.766637,2021-09-04 12:01:10.766,f,16
+54,3/4 legs,,,SINGLE,"",,t,,3,573,2021-10-02 14:30:51.853355,2021-10-02 14:30:51.853,f,16
+43,Skin Liftting Facial,,,SINGLE,"",,t,"Cleansing, Exfoliation, Steam, Blackhead remove, Toner, Lifting cream massage, Mask, Skin Firming wash and Moisturiser",5,472,2021-09-04 11:37:31.223265,2021-09-04 11:37:31.223,t,16
+18,OPI Infinite Nail Polish,,,SINGLE,"",,f,,1,360,2018-08-10 13:37:23.452254,2018-08-10 13:37:23.452,t,6
+19,Shellac Removal & Shellac Polish,,,SINGLE,"",,t,,1,379,2019-04-22 12:49:38.917403,2019-04-22 12:49:38.917,f,6
+2,Full Leg & Bikini Line (Hot Wax),,,SINGLE,"",,t,,1,356,2018-07-30 06:18:54.082058,2018-07-30 06:18:54.082,t,6
+18,Shellac Removal,,,SINGLE,"",,t,,1,375,2019-04-19 17:04:19.824302,2019-04-19 17:04:19.824302,f,6
+27,Full Arm & Full Leg,,,SINGLE,"",,t,,1,368,2019-01-02 14:55:14.713787,2019-01-02 14:55:14.713787,t,9
+2,Full Arm & Under Arm,,,SINGLE,"",,t,,1,369,2019-01-02 15:08:56.259135,2019-01-02 15:08:56.259135,t,6
+18,Luxury Manicure & Pedicure,,,SINGLE,"",,t,,1,358,2018-07-30 06:23:37.314415,2018-07-30 06:23:37.314,t,6
+18,Shape & Polish (OPI Infinity Polish),,,SINGLE,"",,f,"",99,350,2018-07-23 13:47:14.081326,2018-07-23 13:47:14.081,t,6
+2,FULL LEGS & FULL ARMS,,,SINGLE,"",,t,,1,397,2019-09-01 03:42:48.054039,2019-09-01 03:42:48.054,t,6
+2,FULL ARMS & UNDER ARMS,,,SINGLE,"",,t,,1,387,2019-07-14 09:03:04.412295,2019-07-14 09:03:04.412,t,6
+19,OPI Infinite Nail Polish,,,SINGLE,"",,f,,1,361,2018-08-10 13:38:24.239883,2018-08-10 13:38:24.239,t,6
+27,FULL BIKINI,,,SINGLE,"",,t,,1,415,2020-02-01 11:46:35.34055,2020-02-01 11:46:35.34055,t,9
+2,"Full Arms, Underarms, Full legs & Bikini Line",,,SINGLE,"",,t,,1,401,2019-11-01 07:13:00.53616,2019-11-01 07:13:00.536,t,6
+19,Manicure & Pedicure with Hot Booties,,,SINGLE,"",,t,,1,402,2019-11-01 07:15:16.402295,2019-11-01 07:15:16.402,t,6
+21,MENS MANICURE & PEDICURE,,,SINGLE,"",,t,,1,399,2019-10-01 08:51:59.183174,2019-10-01 08:51:59.183,t,6
+20,Deep Tissue Message,,,SINGLE,"",,f,,1,414,2020-01-14 17:10:54.132043,2020-01-14 17:10:54.132043,t,6
+23,Face Massage,,,SINGLE,"",,t,"Facial massage is a very popular beauty treatment to slow down the aging process and achieve younger looking and healthier skin. It is also used to relieve stress, migraine headache, premenstrual syndrome, and sinus congestion. Massage of the face is usually done with the hands A small amount of oil or lotion is often applied to facilitate movement over the delicate facial areas. Benefits of face massage •	Improvement of facial skin and muscle tone. •	Relaxation of facial and eye muscles. •	Relief from tension, headaches and facial pain •	Alleviation of stress and anxiety. •	Overall physical and mental relaxation. • Stimulation of meridian points on the face. •	Relief from eyestrain. •	Correction of liver and gall bladder imbalances. •	Relief of neck tension. •	Alleviation of nervous disorders. •	Relief of premenstrual water retention.",5,82,2018-05-10 09:12:36.116045,2018-05-10 09:12:36.116,f,6
+48,Upper Lips,,,SINGLE,"",,t,,2,502,2021-09-04 12:18:13.43474,2021-09-04 12:18:13.43474,f,16
+7,Strip Lash Application,,,SINGLE,"",,t,,1,412,2020-01-03 11:43:18.107856,2020-01-03 11:43:18.107,f,6
+34,DEEP TISSUE,,,SINGLE,"",,t,,1,413,2020-01-14 16:49:43.531868,2020-01-14 16:49:43.531868,t,9
+48,Full Face Wax,,,SINGLE,"",,t,,9,509,2021-09-04 12:23:34.550074,2021-09-04 12:23:34.550074,f,16
+2,Full Legs & Brazillan,,,SINGLE,"",,t,,1,404,2020-01-01 17:56:52.083599,2020-01-01 17:56:52.083,t,6
+2,FULL LEGS & HOLLYWOOD,,,SINGLE,"",,t,,1,398,2019-10-01 08:46:10.428026,2019-10-01 08:46:10.428,t,6
+19,Paraffin Manicure & Pedicure,,,SINGLE,"",,t,,1,405,2020-01-01 17:59:34.870715,2020-01-01 17:59:34.87,t,6
+21,Neck,,,SINGLE,"",,t,,1,409,2020-01-03 08:43:06.359572,2020-01-03 08:43:06.359,f,6
+49,Nail Repair,,,SINGLE,"",,t,,2,523,2021-09-04 12:40:08.531106,2021-09-04 12:40:08.531,f,16
+52,Callus Treatment,,,SINGLE,"",,t,,12,562,2021-10-01 17:49:44.942778,2021-10-01 17:49:44.942,f,16
+54,Lower Back,,,SINGLE,"",,t,,9,574,2021-10-02 14:33:32.257688,2021-10-02 14:33:32.257,f,16
+31,Infinity Polish,,,SINGLE,"",,f,,1,372,2019-02-22 10:36:58.358056,2019-02-22 10:36:58.358056,t,9
+55,Eye Make-up From,,,SINGLE,"",,f,,1,580,2021-10-02 17:08:30.092837,2021-10-02 17:08:30.092,f,16
+21,Nose,,,SINGLE,"",,t,,1,408,2020-01-03 08:40:58.071529,2020-01-03 08:40:58.071,f,6
+21,Forehead,,,SINGLE,"",,t,,1,410,2020-01-03 08:44:13.488513,2020-01-03 08:44:13.488,f,6
+27,FULL LEGS & BIKINI LINE,,,SINGLE,"",,t,,1,400,2019-11-01 02:08:26.719727,2019-11-01 02:08:26.719,f,9
+50,Top Or Lower Eyeliner,,,SINGLE,"",,t,,2,530,2021-09-04 12:45:16.699167,2021-09-04 12:45:16.699,t,16
+46,Upper Lips,,,MULTIPLE,"",,t,,2,488,2021-09-04 12:01:57.496436,2021-09-04 12:01:57.496,f,16
+27,"Full body (Full Leg,FullArm,UnderArms,Full bikini(Hot Wax), chest, stomach, back, )",,,SINGLE,"",,t,,22,367,2019-01-02 14:54:03.784478,2019-01-02 14:54:03.784,f,9
+36,Ear Piercing,,,SINGLE,"",,f,,1,366,2018-12-16 15:57:17.816651,2018-12-16 15:57:17.816,f,9
+51,Indian Head Massage,,,SINGLE,"",,t,with Oil or Without,9,544,2021-10-01 14:11:37.805773,2021-10-01 14:11:37.805,t,16
+5,Hair style From,,,SINGLE,"",,t,,1,403,2019-12-30 12:03:26.657234,2019-12-30 12:03:26.657,f,6
+7,patch test,,,SINGLE,"",,t,,1,1009,2025-02-19 16:59:15.732299,2025-02-19 16:59:15.732299,f,6
+37,Kaeso Rebalancing Facial,,,SINGLE,"",,t,Kaeso Rebalancing Facial Treatment Is Most Suitable For The Oily Combination Skin. Rebalancing Cleanser Application . Skin Analysis. Facial Massage(Plus Compimentary Shoulders And Back Massage) Face Steaming. Rebalancing Mask Application. Rebalancing Toner Application. Rebalancing Moisturiser Application.,7,291,2018-05-22 08:05:29.9115,2018-05-22 08:05:29.911,f,9
+5,Children GIRL (Up to 7 yer) Dry Cut,,,SINGLE,"",,t,,1,359,2018-07-30 17:17:10.516647,2018-07-30 17:17:10.516,f,6
+49,"French Manicure(Shape,Cuticle, Buff, Massage& Polish with French Tips)",,,SINGLE,"",,t,,10,556,2021-10-01 17:04:08.31229,2021-10-01 17:04:08.312,f,16
+43,Skin Glow Facial,,,SINGLE,"",,t,"Cleanser, Sensiwash, Exfoliation, Blackhead Remove, Toner, Gel Message and Mask",5,536,2021-10-01 13:27:32.090407,2021-10-01 13:27:32.09,t,16
+5,Hair Wash,,,SINGLE,"",,t,"Hair wash include Shampoo, Conditioner with Rough dry",1,362,2018-08-21 08:54:05.748822,2018-08-21 08:54:05.748,f,6
+51,Cheeks,,,MULTIPLE,"",,t,,2,495,2021-09-04 12:09:30.095712,2021-09-04 12:09:30.095,f,16
+18,Shellac Polish ( Shape & Polish),,,SINGLE,"",,t,,1,376,2019-04-19 17:06:26.168592,2019-04-19 17:06:26.168,f,6
+5,Toner from,,,MULTIPLE,"",,t,Toner Starts From £33. Price May Very According To Hair Lenght,17,348,2018-07-13 13:13:43.08599,2018-07-13 13:13:43.085,f,6
+54,Half Legs,,,SINGLE,"",,t,,4,568,2021-10-02 12:49:52.387501,2021-10-02 12:49:52.387,f,16
+49,Shellac Polish with Remover,,,SINGLE,"",,t,,5,625,2021-11-12 11:01:15.129792,2021-11-12 11:01:15.129,f,16
+75,Callus Treatment,,,SINGLE,"",,t,,1,824,2023-09-19 11:51:34.57411,2023-09-19 11:51:34.574,f,17
+44,American Full Volume,,,SINGLE,"",,t,,8,480,2021-09-04 11:48:50.378933,2021-09-04 11:48:50.378,f,16
+51,"Luxury Pedicure ( Shape, Cuticle work,Buff, Remove hard skin, Cream Massage )",,,SINGLE,"",,t,,18,551,2021-10-01 15:36:13.660542,2021-10-01 15:36:13.66,t,16
+51,"Delux Pedicure(Shape, Buff, Cutical, Hard Skin remove, Scrub, Massage)",,,SINGLE,"",,t,,19,621,2021-10-31 16:43:26.328433,2021-10-31 16:43:26.328,t,16
+49,Shellac Polish (Shape and Polish),,,SINGLE,"",,t,,5,516,2021-09-04 12:34:19.562179,2021-09-04 12:34:19.562,f,16
+18,Shape & Polish With French Tip,,,SINGLE,"",,f,,1,407,2020-01-03 05:45:42.473016,2020-01-03 05:45:42.473,t,6
+89,Stomach,,,SINGLE,"",,t,,1,1026,2025-03-06 12:27:30.669412,2025-03-06 12:27:30.669412,f,17
+63,Powder Puff Black,,,SINGLE,"",,t,,1,1064,2025-03-09 10:57:47.262347,2025-03-09 10:57:47.262347,f,9
+63,Gift Voucher 2,,,SINGLE,"",,t,,1,1097,2025-03-19 17:44:28.513692,2025-03-19 17:44:28.513692,f,9
+63,Gift Voucher 1,,,SINGLE,"",,t,,1,1098,2025-03-19 17:44:47.776178,2025-03-19 17:44:47.776178,f,9
+71,Full Body Massage Only Women,,,SINGLE,"",,t,,1,794,2023-09-02 12:00:18.201176,2023-09-02 12:00:18.201,f,17
+37,SKIN BRIGHTENING FACIAL ( SPECIFIX ),,,SINGLE,"",,t,"SPECIFIX PROFESSIONAL SKIN BRIGHTENING FACIAL is enriched with natural extracts and vitamins that help promote cellular regeneration and restores essential moisture deep in the skin's matrix. A combination of replenishing botanical extracts work synergistically to increase skin elasticity, reduce dryness and maintain natural moisture balance, resulting in nourished and deeply hydrated, soft and supple skin. Heals dryness and moisturises your skin. Makes skin soft smooth and supple. Increases skin elasticity. Provides balanced, nourished, radiant and even toned skin.",1,364,2018-09-18 13:30:48.720457,2018-09-18 13:30:48.72,t,9
+30,Full arms,,,SINGLE,"",,t,,1,424,2020-08-13 09:43:41.495903,2020-08-13 09:43:41.495903,f,9
+51,Pedicure with Hot Booties,,,SINGLE,"",,t,,17,552,2021-10-01 15:37:34.326185,2021-10-01 15:37:34.326,t,16
+18,Manicure & Pedicure With Booties,,,SINGLE,"",,t,,1,418,2020-03-01 05:45:32.080462,2020-03-01 05:45:32.08,t,6
+54,Stomach,,,SINGLE,"",,t,,10,575,2021-10-02 14:34:39.744698,2021-10-02 14:34:39.744,f,16
+51,Cut and Shape (Hand),,,SINGLE,"",,t,,10,545,2021-10-01 14:15:23.043831,2021-10-01 14:15:23.043831,t,16
+5,Brazilian Blowdry (SPECIAL OFFER FOR ANY HAIR LENGTH),,,SINGLE,"",,t,"",10,419,2020-03-03 08:01:02.515954,2020-03-03 08:01:02.515,t,6
+19,Luxury Manicure & Pedicure,,,SINGLE,"",,t,,1,428,2020-09-05 06:02:03.454595,2020-09-05 06:02:03.454595,t,6
+30,Chest & stomach,,,SINGLE,"",,t,,1,423,2020-08-12 13:16:45.043646,2020-08-12 13:16:45.043646,f,9
+23,Vitamins Fruit Facial,,,SINGLE,"",,f,,1,420,2020-03-08 10:17:31.926673,2020-03-08 10:17:31.926,t,6
+48,Lower Lips,,,SINGLE,"",,t,,3,503,2021-09-04 12:19:12.452327,2021-09-04 12:19:12.452327,f,16
+48,Men's Eyebrow Shapeing,,,SINGLE,"",,t,,10,510,2021-09-04 12:24:15.233783,2021-09-04 12:24:15.233783,f,16
+55,Eyelash Growth Serum From,,,SINGLE,"",,f,,5,581,2021-10-02 17:10:13.397143,2021-10-02 17:10:13.397143,f,16
+21,"Hair Cut, Amonia Free Colour & Wash",,,SINGLE,"",,t,,1,421,2020-07-05 14:36:44.060388,2020-07-05 14:36:44.06,f,6
+48,Forehead Or Nose,,,SINGLE,"",,t,,4,504,2021-09-04 12:20:49.830758,2021-09-04 12:20:49.830758,f,16
+5,Root's Colour From,,,SINGLE,"",,t,Root Color Starts From £40. Price May Very According To Hair Lenght,10,178,2018-05-10 10:23:45.862112,2018-05-10 10:23:45.862,f,6
+50,Lip Liner,,,SINGLE,"",,t,,3,531,2021-09-04 12:45:48.025459,2021-09-04 12:45:48.025459,t,16
+89,Back,,,SINGLE,"",,t,,1,1028,2025-03-06 12:28:09.944586,2025-03-06 12:28:09.944586,f,17
+37,"Blackheads Removals (cleanser, scrub, steam, blackheads remove)",,,SINGLE,"",,t,,1,436,2020-09-22 09:00:28.167665,2020-09-22 09:00:28.167,f,9
+51,"Super Delux Pedicure(Shape, Buff, Cutical, Hard Skin remove, Scrub, Mask, Massage )",,,SINGLE,"",,t,,20,622,2021-10-31 16:44:27.618596,2021-10-31 16:44:27.618,t,16
+52,"Pedicure with Hot Booties (Shape, Cuticle work, Buff ,Hard skin , Massage, Hot Booties & Polish)",,,SINGLE,"",,t,,10,615,2021-10-26 17:50:01.362198,2021-10-26 17:50:01.362,t,16
+52,"Callus Peel with Pedicure(Shape, Cuticle work, Buff ,Callus remove , Cream Massage & Polish )",,,SINGLE,"",,t,,13,563,2021-10-01 17:51:00.577294,2021-10-01 17:51:00.577,t,16
+23,Tea Tree Facial,,,SINGLE,"",,t,"Natural antiseptic for troubled skin condition.Particularly oily,blemished and acne-prone skin.",1,440,2020-10-02 15:09:42.074869,2020-10-02 15:09:42.074,t,6
+21,Fruit facial ( Vitamin),,,SINGLE,"",,t,,1,444,2020-10-23 09:51:39.797755,2020-10-23 09:51:39.797,t,6
+63,Gift Voucher 3,,,SINGLE,"",,t,,1,1099,2025-03-26 12:36:21.908098,2025-03-26 12:36:21.908098,f,9
+2,FULL ARMS & FULL LEGS,,,SINGLE,"",,t,,1,431,2020-09-07 06:28:34.79338,2020-09-07 06:28:34.793,f,6
+36,Micro Pigmentation From,,,SINGLE,"",,f,,1,417,2020-02-18 13:27:53.406221,2020-02-18 13:27:53.406,f,9
+27,"Full Leg, Full Arms & Underarms",,,SINGLE,"",,t,,1,426,2020-09-01 08:17:51.054196,2020-09-01 08:17:51.054,f,9
+21,Indian Head Massage,,,SINGLE,"",,t,,1,411,2020-01-03 08:49:56.44537,2020-01-03 08:49:56.445,f,6
+26,Eyebrows,,,MULTIPLE,"",,t,,1,425,2020-08-15 08:36:17.99544,2020-08-15 08:36:17.995,f,9
+36,Lash Lift,,,SINGLE,"",,t,,1,416,2020-02-11 08:54:28.281944,2020-02-11 08:54:28.281,t,9
+46,Middle Of Eyebrows,,,MULTIPLE,"",,t,,10,496,2021-09-04 12:10:22.813129,2021-09-04 12:10:22.813,f,16
+5,Amonia Free Root's Colour (Loreal Inoa) From,,,SINGLE,"",,t,Amonia Free Root's Colour (Loreal Inoa) Starts From £53. Price May Very According To Hair Length,12,185,2018-05-10 10:36:01.933807,2018-05-10 10:36:01.933,f,6
+54,Under Arms,,,SINGLE,"",,t,,1,569,2021-10-02 12:57:34.157868,2021-10-02 12:57:34.157,f,16
+5,Girl (Up to 7 yrs) Wash & Cut,,,SINGLE,"",,t,,1,422,2020-07-11 14:26:29.463257,2020-07-11 14:26:29.463,f,6
+46,Lower Lips,,,MULTIPLE,"",,t,,3,489,2021-09-04 12:02:50.525291,2021-09-04 12:02:50.525,f,16
+49,Shellac Removal,,,SINGLE,"",,t,,4,524,2021-09-04 12:40:40.855785,2021-09-04 12:40:40.855,f,16
+49,"Manicure with Shellac Polish(Shape,Cuticle,Buff,Polish & Massage)",,,SINGLE,"",,t,,11,517,2021-09-04 12:35:40.334695,2021-09-04 12:35:40.334,f,16
+19,Luxury Manicure & Pedicure,,,SINGLE,"",,t,,1,429,2020-09-07 06:26:14.673303,2020-09-07 06:26:14.673,f,6
+44,Infills after 2 week,,,SINGLE,"",,t,,10,482,2021-09-04 11:51:12.273074,2021-09-04 11:51:12.273,f,16
+5,T section high lights ( Toner not Inc.),,,MULTIPLE,"",,t,Please note: A patch test may be required 24-48 hours prior to treatment. If you wearing first time.,14,188,2018-05-10 10:41:56.985901,2018-05-10 10:41:56.985,f,6
+8,Eyelash lift,,,SINGLE,"",,f,,1,427,2020-09-01 11:32:53.977552,2020-09-01 11:32:53.977,f,6
+5,Half Head Highlight( Toner not Inc.),,,MULTIPLE,"",,t,Please note: A patch test may be required 24-48 hours prior to treatment.,15,186,2018-05-10 10:37:25.84117,2018-05-10 10:37:25.841,f,6
+49,"Manicure with Paraffin Wax(Shape, Cuticle work, Buff ,Wax, Cream Massage & Polish )",,,SINGLE,"",,t,,12,557,2021-10-01 17:12:58.294554,2021-10-01 17:12:58.294,t,16
+8,Eyelash Lift Inc Eyelash tint,,,SINGLE,"",,f,,1,406,2020-01-03 05:39:40.682877,2020-01-03 05:39:40.682,f,6
+89,High Bikini,,,SINGLE,"",,t,,1,1027,2025-03-06 12:27:49.410676,2025-03-06 12:27:49.410676,f,17
+48,Middle Of Eyebrows,,,SINGLE,"",,t,,11,511,2021-09-04 12:24:47.075387,2021-09-04 12:24:47.075387,f,16
+54,Full Arms,,,SINGLE,"",,t,,7,570,2021-10-02 14:21:57.530667,2021-10-02 14:21:57.53,f,16
+55,Lipstick From,,,SINGLE,"",,f,,8,582,2021-10-02 17:11:49.700365,2021-10-02 17:11:49.700365,f,16
+57,Acrylic Extensions( No Polish),,,SINGLE,"",,t,,4,518,2021-09-04 12:36:32.88381,2021-09-04 12:36:32.883,t,16
+54,Feet Only,,,SINGLE,"",,t,,5,576,2021-10-02 14:37:02.691327,2021-10-02 14:37:02.691,f,16
+5,Patch test,,,SINGLE,"",,t,,1,449,2021-06-30 09:26:37.70564,2021-06-30 09:26:37.70564,f,6
+36,Gold Facial & Full Body Massage,,,SINGLE,"",,t,,1,453,2021-09-01 12:32:32.570135,2021-09-01 12:32:32.57,t,9
+42,Full facial & Full Body Massage,,,SINGLE,"",,t,,1,467,2021-09-03 14:15:28.112719,2021-09-03 14:15:28.112,f,6
+37,Eye Treatment,,,SINGLE,"",,t,,1,437,2020-09-22 09:01:27.582992,2020-09-22 09:01:27.582,t,9
+43,"Herbal Facial( Cleansing, Exfoliation, Steam, Blackheads remove, Cream Massage and Mask)",,,SINGLE,"",,t,"Cleanser, Exfoliation, Blackhead Remove, Toner, Message and Mask",8,538,2021-10-01 13:35:44.807005,2021-10-01 13:35:44.807,t,16
+52,Shellac Removal & Shellac Polish,,,SINGLE,"",,t,,2,564,2021-10-01 17:53:19.60513,2021-10-01 17:53:19.605,f,16
+51,"Pedicure with Paraffin Wax(Shape, Cuticle work, Buff ,Hard skin , Wax, Cream massage)",,,SINGLE,"",,t,,21,623,2021-10-31 16:53:18.763496,2021-10-31 16:53:18.763496,t,16
+42,"Full Facial & Back, Neck & Shoulder Massage",,,SINGLE,"",,t,,1,469,2021-09-03 14:18:05.258744,2021-09-03 14:18:05.258,f,6
+36,Sider Package,,,SINGLE,"",,t,,1,451,2021-09-01 12:18:07.01642,2021-09-01 12:18:07.016,f,9
+70,Korean Glass Skin Facial,,,SINGLE,"",,t,,1,787,2023-09-02 11:54:32.609203,2023-09-02 11:54:32.609,f,17
+49,"Super Deluxe Manicure(Shape, Cutical, Scrub, Mask, Cream Massage, & Polish)",,,SINGLE,"",,t,,9,612,2021-10-25 09:54:10.983966,2021-10-25 09:54:10.983,t,16
+56,Indian Head Massage,,,SINGLE,"",,t,Massage with Hair Oil,1,588,2021-10-07 16:43:02.451694,2021-10-07 16:43:02.451,t,16
+42,Full Facial & Hot Stone Massage,,,SINGLE,"",,t,,1,468,2021-09-03 14:16:47.696569,2021-09-03 14:16:47.696,f,6
+37,Ayurveda Haldi & Tulsi Facial,,,SINGLE,"",,t,,1,434,2020-09-22 08:52:41.285686,2020-09-22 08:52:41.285,t,9
+23,Harmonizing Facial,,,SINGLE,"",,t,Suitable for Sensitive Skin,2,601,2021-10-15 12:01:18.965608,2021-10-15 12:01:18.965,t,6
+23,Oxygen Energising Facial,,,SINGLE,"",,t,Energise & Rejuvenate Skin,2,600,2021-10-15 10:58:51.668466,2021-10-15 10:58:51.668,t,6
+23,Melanoclear skin whitenning facial,,,SINGLE,"",,t,,1,445,2020-10-23 09:53:54.698772,2020-10-23 09:53:54.698,t,6
+49,"Manicure With Hot Mitts( Shape, Cuticle work, Buff , Oil Massage, Hot Mitts & Polish)",,,SINGLE,"",,t,,13,558,2021-10-01 17:14:52.589509,2021-10-01 17:14:52.589,f,16
+19,Manicure &Pedicure with Parafin wax,,,SINGLE,"",,t,,1,456,2021-09-01 13:57:55.368305,2021-09-01 13:57:55.368,f,6
+37,Kaeso Hydrating Facial,,,SINGLE,"",,t,"Kaeso Hydrating Facial Treatment is most suitable for the normal to dry skin. Which includes ●	Hydrating cleanser Application. ●	Skin Analysis. ●	Facial Massage (Plus Complimentary Shoulders and back Massage). ●	Hydrating exfoliator application. ●	Face Streaming. ●	Hydrating mask Application. ●	Hydrating toner Application. ●	Hydrating Moisturise Application. The Kaeso ethos is to embody naturally derived ingredients with essential treatment formulas to deliver effective and luxurious professional products. Kaeso offers an array of specialized treatments to address the individual preferences and skin’s changing needs. Within the extensive Kaeso collection, there is a fusion of natural products that maintain and restore your body, mind and wellbeing and allow you to create a simple and personalized regime to achieve great results.",8,287,2018-05-22 08:03:18.068922,2018-05-22 08:03:18.068,f,9
+23,Aroma Magic Skin Glow Facial,,,SINGLE,"",,f,"Provide a quick, effective way to lighten complexion, under eye dark circles and even out the skin tone of the face and neck area. The natural ingredients gently remove the dead skin layers and restore clear, bright skin .",1,442,2020-10-02 15:22:58.222695,2020-10-02 15:22:58.222,t,6
+23,Bamboo Charcoal Facial,,,SINGLE,"",,t,"Charcoal is treated with oxygen to help open small facial pores to extract the dirt , this kind of charcoal is called activated charcoal. Charcoal absorbs toxins from the skin and can successfully extract all dirt from skin.",1,441,2020-10-02 15:12:35.15682,2020-10-02 15:12:35.156,t,6
+73,Eyebrows + UpperLips + Chin (Waxing),,,SINGLE,"",,t,,5,802,2023-09-04 14:05:19.051726,2023-09-04 14:05:19.051726,f,16
+52,"Classic Dry Pedicure + Polish(Shape , Buff, Cuticle, Cream massage & Polish)",,,SINGLE,"",,t,,3,525,2021-09-04 12:41:50.214272,2021-09-04 12:41:50.214,f,16
+46,Chin,,,MULTIPLE,"",,t,,4,490,2021-09-04 12:04:06.807729,2021-09-04 12:04:06.807,f,16
+50,4 to 6 Weeks Second Treatment,,,SINGLE,"",,t,,4,532,2021-09-04 12:46:30.576643,2021-09-04 12:46:30.576,f,16
+51,Feet(Shaping Nails),,,SINGLE,"",,t,,11,546,2021-10-01 14:17:23.111007,2021-10-01 14:17:23.111,f,16
+44,Eyelash Removal,,,SINGLE,"",,t,,11,483,2021-09-04 11:52:07.185435,2021-09-04 11:52:07.185,f,16
+37,Ayurveda Haldi & Chandan Facial,,,SINGLE,"",,t,,1,432,2020-09-22 08:36:37.153383,2020-09-22 08:36:37.153,t,9
+22,Eyes Makeup Only,,,SINGLE,"",,f,Strip lashesh not Included,1,448,2021-05-13 09:49:27.766219,2021-05-13 09:49:27.766,f,6
+72,Eyebrow Microblading,,,SINGLE,"",,t,,1,795,2023-09-02 12:01:25.04474,2023-09-02 12:01:25.044,f,17
+37,Charcoal Bamboo Facial,,,SINGLE,"",,t,,1,435,2020-09-22 08:54:06.524134,2020-09-22 08:54:06.524,t,9
+67,Hair Conditioning Treatment,,,SINGLE,"",,t,,1,758,2023-09-02 10:19:35.152812,2023-09-02 10:19:35.152,f,17
+23,Ayurveda Neem Facial,,,SINGLE,"",,t,"Double Neem Facial is endowed with goodness of one of the most well-known & effective Ayurvedic herbs? Neem? Neem's rich antibacterial and anti-inflammatory qualities help keep infections at bay and cures acne , dark spots , and pigmentation making your skin cear and purified!",1,439,2020-10-02 15:01:15.651978,2020-10-02 15:01:15.651,t,6
+37,Ayurveda Neem Facial,,,SINGLE,"",,t,,1,433,2020-09-22 08:51:54.937008,2020-09-22 08:51:54.937,t,9
+69,Full Arms & Full Legs,,,SINGLE,"",,t,,1,853,2024-03-11 13:25:50.609834,2024-03-11 13:25:50.609,f,17
+47,Eyebrows Tint,,,SINGLE,"",,t,,1,497,2021-09-04 12:12:11.627649,2021-09-04 12:12:11.627,f,16
+51,"Pedicure with Hot Booties (Shape, Cuticle work, Buff , Hard skin,Oil Massage and Hot Booties)",,,SINGLE,"",,t,,22,553,2021-10-01 15:54:56.628185,2021-10-01 15:54:56.628,t,16
+21,Shahnaz facial,,,SINGLE,"",,t,,1,443,2020-10-23 09:47:36.507811,2020-10-23 09:47:36.507,t,6
+76,infills Normal Polish,,,SINGLE,"",,t,,1,832,2023-09-19 12:14:12.54051,2023-09-19 12:14:12.54,f,17
+75,Callus Peel With Pedicure,,,SINGLE,"",,t,,1,825,2023-09-19 11:52:18.526431,2023-09-19 11:52:18.526,f,17
+89,Buttocks,,,SINGLE,"",,t,,1,1029,2025-03-06 14:29:57.637489,2025-03-06 14:29:57.637489,f,17
+91,Acrylic Extension Removal,,,SINGLE,"",,t,,1,1043,2025-03-07 15:52:09.087208,2025-03-07 15:52:09.087208,f,9
+63,Smooth Smoothing Mask,,,SINGLE,"",,t,,1,1053,2025-03-08 15:37:48.283193,2025-03-08 15:37:48.283193,f,9
+63,Cosmetic sponge pouch,,,SINGLE,"",,t,,1,1065,2025-03-09 10:58:27.322735,2025-03-09 10:58:27.322735,f,9
+63,USHAS Eyeshadow (small pink),,,SINGLE,"",,t,,1,1076,2025-03-09 11:12:08.937318,2025-03-09 11:12:08.937318,f,9
+67,Root Colour Over 6 weeks,,,SINGLE,"",,t,,1,1010,2025-02-28 15:49:13.363273,2025-02-28 15:49:13.363,f,17
+36,"Any Ayurveda Facial & Back,Neck & Sholder Massage",,,SINGLE,"",,t,,1,454,2021-09-01 12:35:12.377065,2021-09-01 12:35:12.377,t,9
+36,Full Facial & Full Body Massage,,,SINGLE,"",,t,,1,452,2021-09-01 12:26:49.503049,2021-09-01 12:26:49.503,t,9
+27,Full Body(Head to Leg),,,SINGLE,"",,t,,1,455,2021-09-01 12:38:58.596412,2021-09-01 12:38:58.596412,t,9
+37,Skin whitening facial,,,SINGLE,"",,t,,1,446,2021-05-02 05:29:36.028036,2021-05-02 05:29:36.028,t,9
+36,Bridal Package,,,SINGLE,"",,t,,1,450,2021-09-01 12:13:01.236867,2021-09-01 12:13:01.236,f,9
+56,"Back, Neck & Shoulder Massage",,,SINGLE,"",,t,Massage with Oil,1,592,2021-10-07 16:48:53.155801,2021-10-07 16:48:53.155,t,16
+57,Acrylic Extensions with Gel Polish,,,SINGLE,"",,t,,2,595,2021-10-12 14:44:18.435058,2021-10-12 14:44:18.435058,t,16
+57,UV Gel with Normal Polish,,,SINGLE,"",,t,,3,596,2021-10-12 14:45:33.753319,2021-10-12 14:45:33.753319,t,16
+57,Infills for Normal,,,SINGLE,"",,t,,1,599,2021-10-12 15:59:37.147026,2021-10-12 15:59:37.147026,t,16
+57,Acrylic Extensions with Normal Polish,,,SINGLE,"",,t,,1,594,2021-10-12 14:42:06.491232,2021-10-12 14:42:06.491,t,16
+57,UV Gel with Gel Polish,,,SINGLE,"",,t,,4,597,2021-10-12 14:46:33.330995,2021-10-12 14:46:33.33,t,16
+57,Infills for Gel,,,SINGLE,"",,t,,5,598,2021-10-12 15:58:33.729001,2021-10-12 15:58:33.729001,t,16
+43,Oxygen Energising Facial,,,SINGLE,"",,t,Energise & Rejuvenate Skin,6,611,2021-10-21 10:40:51.587584,2021-10-21 10:40:51.587,t,16
+8,Eyebrow Lamination & Tint,,,SINGLE,"",,t,,1,585,2021-10-06 12:17:30.154619,2021-10-06 12:17:30.154,t,6
+44,Classic Extra Volume,,,SINGLE,"",,t,,4,476,2021-09-04 11:43:23.50926,2021-09-04 11:43:23.509,f,16
+22,Bridal Makeup & Hairstyle From,,,SINGLE,"",,t,,1,462,2021-09-01 14:14:59.87259,2021-09-01 14:14:59.872,f,6
+36,product,,,SINGLE,"",,f,,1,593,2021-10-12 12:40:49.437552,2021-10-12 12:40:49.437,f,9
+40,Full Facial & Full Body Massage,,,SINGLE,"",,t,,1,464,2021-09-02 11:39:10.678633,2021-09-02 11:39:10.678,t,9
+56,"Back, Neck & Shoulder Massage",,,SINGLE,"",,t,Massage with Oil,4,617,2021-10-30 10:00:20.278916,2021-10-30 10:00:20.278916,t,16
+56,"Head, Neck & Shoulder Massage",,,SINGLE,"",,t,Massage with Oil,1,591,2021-10-07 16:47:35.231871,2021-10-07 16:47:35.231871,t,16
+52,"Classic Dry Pedicure +Gel Polish (Shape , Buff, Cuticle, Cream massage & Shellac Polish)",,,SINGLE,"",,t,,4,526,2021-09-04 12:42:27.769542,2021-09-04 12:42:27.769,f,16
+27,Full Body(Head to Leg),,,SINGLE,"",,t,Face included,1,463,2021-09-02 11:36:54.815935,2021-09-02 11:36:54.815,f,9
+56,Foot Massage(Reflexology),,,SINGLE,"",,t,Massage with oil or cream,5,589,2021-10-07 16:44:42.237762,2021-10-07 16:44:42.237,t,16
+40,"Any Ayurveda Facial & Back,Neck & Sholder Massage",,,SINGLE,"",,t,,1,466,2021-09-02 11:41:01.835445,2021-09-02 11:41:01.835,t,9
+40,Gold Facial & Full Body Massage,,,SINGLE,"",,t,,1,465,2021-09-02 11:40:15.408899,2021-09-02 11:40:15.408,t,9
+56,Feet & Legs Massage,,,SINGLE,"",,t,Massage with Oil,1,590,2021-10-07 16:45:45.870057,2021-10-07 16:45:45.870057,t,16
+51,Face Massage,,,SINGLE,"",,t,With Oil or Cream,8,543,2021-10-01 14:09:38.277501,2021-10-01 14:09:38.277501,t,16
+57,Acrylic Extensions with Normal Polish,,,SINGLE,"",,t,,2,604,2021-10-19 09:23:19.105159,2021-10-19 09:23:19.105159,t,16
+57,Acrylic Extensions Removal,,,SINGLE,"",,t,,1,603,2021-10-19 09:22:32.789561,2021-10-19 09:22:32.789561,t,16
+57,Acrylic Extensions with Gel Polish,,,SINGLE,"",,t,,3,605,2021-10-19 09:24:06.845724,2021-10-19 09:24:06.845724,t,16
+57,Acrylic Extension (No Polish),,,SINGLE,"",,t,,4,607,2021-10-19 09:26:19.538771,2021-10-19 09:26:19.538771,t,16
+57,UV Gel with Gel Polish,,,SINGLE,"",,t,,6,608,2021-10-19 09:43:35.459277,2021-10-19 09:43:35.459277,t,16
+57,UV Gel with Normal Polish,,,SINGLE,"",,t,,5,606,2021-10-19 09:25:05.638703,2021-10-19 09:25:05.638,t,16
+57,Infills Gel Polish,,,SINGLE,"",,t,,8,610,2021-10-19 09:46:15.900372,2021-10-19 09:46:15.900372,t,16
+57,Infills Normal Polish,,,SINGLE,"",,t,,7,609,2021-10-19 09:45:09.345244,2021-10-19 09:45:09.345244,t,16
+52,"Super Delux Pedicure(Shape, Buff, Cutical, Hard Skin remove, Scrub, Mask, Massage & Polish)",,,SINGLE,"",,t,,7,614,2021-10-26 17:26:42.446358,2021-10-26 17:26:42.446,t,16
+52,Luxury Manicure & Pedicure,,,SINGLE,"",,t,,17,626,2021-11-29 11:07:55.937486,2021-11-29 11:07:55.937,t,16
+52,Shellac Manicure & Pedicure,,,SINGLE,"",,t,,18,627,2021-11-29 11:10:11.406242,2021-11-29 11:10:11.406,t,16
+54,Full legs,,,SINGLE,"",,t,,2,586,2021-10-06 21:48:31.176258,2021-10-06 21:48:31.176,f,16
+2,Full Leg & Bikini LIne,,,SINGLE,"",,t,,1,460,2021-09-01 14:06:52.415885,2021-09-01 14:06:52.415,f,6
+44,Full Volume Look,,,SINGLE,"",,t,,7,479,2021-09-04 11:47:43.633352,2021-09-04 11:47:43.633,f,16
+44,Classic Volume Extensions,,,SINGLE,"",,t,,3,475,2021-09-04 11:42:17.036835,2021-09-04 11:42:17.036,f,16
+44,LVL lash lifting with tint,,,SINGLE,"",,t,,15,587,2021-10-06 22:11:59.639875,2021-10-06 22:11:59.639,f,16
+44,Russian Natural Look,,,SINGLE,"",,t,,5,477,2021-09-04 11:44:44.164568,2021-09-04 11:44:44.164,f,16
+47,Eyelash-Eyebrows Tint,,,SINGLE,"",,t,,3,616,2021-10-30 09:01:43.641288,2021-10-30 09:01:43.641,f,16
+43,"Full Facial ( Cleansing, Exfoliation, Steam, Blackheads remove, Cream Massage and Mask)",,,SINGLE,"",,t,"Full facial is including with Consultation, Cleansing, Exfoliation, Steam, Blackheads remove, Cream Massage and Mask.",4,471,2021-09-04 11:34:28.203102,2021-09-04 11:34:28.203,f,16
+43,Full Face & Neck Bleach ( Bleach),,,SINGLE,"",,t,"Patch test Required
+This unique bleach helps skin look fairer and youthful with radiant glow by natural formulation which gives nice texture without skin irritation. It is lighters facial hair to balance the skin colour.",2,535,2021-09-29 12:18:54.708655,2021-09-29 12:18:54.708,f,16
+18,Shellac polish & Removal,,,SINGLE,"",,t,,1,458,2021-09-01 14:03:14.442731,2021-09-01 14:03:14.442,f,6
+19,Pedicure with Hot stone,,,SINGLE,"",,t,,1,459,2021-09-01 14:03:56.60129,2021-09-01 14:03:56.601,t,6
+51,Hands(Shaping Nails),,,SINGLE,"",,t,,10,618,2021-10-31 16:33:54.331037,2021-10-31 16:33:54.331,f,16
+44,Infills under 1 week,,,SINGLE,"",,t,,9,481,2021-09-04 11:50:31.859812,2021-09-04 11:50:31.859,f,16
+44,Classic Eyelash Extensions,,,SINGLE,"",,t,,2,474,2021-09-04 11:40:03.67905,2021-09-04 11:40:03.679,f,16
+19,Manicure & Pedicure with Shellac Polish,,,SINGLE,"",,t,1,1,457,2021-09-01 14:01:25.127601,2021-09-01 14:01:25.127,f,6
+44,Signature Volume Look,,,SINGLE,"",,t,,6,478,2021-09-04 11:46:45.091442,2021-09-04 11:46:45.091,f,16
+22,Party Makeup & Hairstyle From,,,SINGLE,"",,t,,1,461,2021-09-01 14:13:47.246059,2021-09-01 14:13:47.246,f,6
+8,Eyebrow Lamination,,,SINGLE,"",,t,,1,584,2021-10-06 12:16:47.138457,2021-10-06 12:16:47.138,f,6
+5,lunch Break,,,SINGLE,"",,f,,1,630,2021-12-06 14:28:47.262672,2021-12-06 14:28:47.262672,f,6
+59,Eyebrows Packages,,,SINGLE,"",,f,,1,633,2022-02-11 13:19:01.264994,2022-02-11 13:19:01.264994,f,16
+59,Upperlips,,,SINGLE,"",,f,,2,634,2022-02-12 11:46:36.714421,2022-02-12 11:46:36.714421,f,16
+59,Chin,,,SINGLE,"",,f,,3,635,2022-02-12 11:47:25.608897,2022-02-12 11:47:25.608897,f,16
+59,Gift Vouchers,,,SINGLE,"",,f,,4,636,2022-02-12 11:48:43.688361,2022-02-12 11:48:43.688361,f,16
+44,Patch Test,,,SINGLE,"",,t,,11,637,2022-02-14 11:55:29.40335,2022-02-14 11:55:29.40335,f,16
+34,"Shoulder,Back & Neck Massage",,,SINGLE,"",,t,"This is the ideal solution if you haven’t got time for a full Holistic Body Massage or if you have concentrated aches and pains, discomfort or tension in the upper body. This is a relaxing massage therapy concentrating on the back, neck and shoulder muscles. The treatment is designed to relax and ease tension in the areas of the body where muscle problems most often occur. A Back, Neck & Shoulder Massage will loosen the muscles in the back and shoulders where tension exists. Allowing your body to unwind during a Back, Neck & Shoulder Massage will get rid of stiffness and promote deep relaxation. By speeding up circulation over a wide area of the body, more fresh, oxygenated blood will nourish the tissues, relieving aches and aiding tissue recovery and repair.",3,276,2018-05-22 07:25:11.535248,2018-05-22 07:25:11.535,f,9
+35,Eyebrow- Eyelash Tint,,,SINGLE,"",,t,,1,632,2022-02-06 11:31:29.352054,2022-02-06 11:31:29.352054,t,9
+73,Full Face (Waxing),,,SINGLE,"",,t,,6,803,2023-09-04 14:06:48.648836,2023-09-04 14:06:48.648836,f,16
+50,Microneedling,,,SINGLE,"",,t,,5,638,2022-02-24 13:30:18.474116,2022-02-24 13:30:18.474,f,16
+67,Ammonia Free Root Colour (Loreal/Inoa) Over 6 weeks,,,SINGLE,"",,t,,1,1011,2025-02-28 15:49:57.968677,2025-02-28 15:49:57.968,f,17
+58,Gold Facial & Foot Massage,,,SINGLE,"",,t,,1,628,2021-11-29 11:18:42.318952,2021-11-29 11:18:42.318,t,16
+58,Full Facial & Indian Head Massage,,,SINGLE,"",,t,,2,629,2021-11-29 11:21:09.079908,2021-11-29 11:21:09.079,t,16
+76,Infills gel Polish,,,SINGLE,"",,t,,1,833,2023-09-19 12:14:38.009202,2023-09-19 12:14:38.009,f,17
+52,Shape & Polish (Normal),,,SINGLE,"",,t,With normal Polish,1,639,2022-03-03 13:06:23.006187,2022-03-03 13:06:23.006,f,16
+43,"Mini Facial( Cleansing, Scrub, Steam, Blackheads remove and Cream)",,,SINGLE,"",,t,"Mini Facial usually consists of cleansing, exfoliation, application of a mask, toner, and moisturizer. All of the steps are considered to be safe and risk-free, mini facial starts off with makeup removal (if needed). application of a cleanser which removes oil and gently exfoliates. A warm moist towel is placed on your face, or steamer used on face and left for a few minutes which helps open the pores, then blackheads removed and mask applied on face which can nurture,exfoliate, or even provide a mini facial peel flowed by a little facial massage – and the whole treatment is usually finished with the application of moisturizing products. Benefits of Mini Facial are, • A mini facial will leave you with a nice glow in short time. • Mini facials give you tighter, smoother, healthier skin, Even just a short session can help to correct small imperfections in the outermost layers of the skin, such as sun damage . • Short session Facial can help to correct small imperfections in the outermost layers of the skin, such as sun damage or thin, fine lines.",3,470,2021-09-04 11:30:39.516061,2021-09-04 11:30:39.516,f,16
+76,Acrylic Extensions Removal,,,SINGLE,"",,t,,1,826,2023-09-19 12:06:29.228255,2023-09-19 12:06:29.228,f,17
+23,Ayurveda Haldi & Tulsi Facial(deep pore cleansing & brightening),,,SINGLE,"",,t,"Ayurveda Skin Brightening Haldi and Chandan Facial kit which is endowed with the goodness of ayurvedic herbs . Chandan is great in exfoliations of dirt and impurities , it opens clogged pores , removes tan , brightens the skin , and lightens the lines . Haldi extract contains antiseptic and antibacterial properties to keep infections at bay also leads to new cell generation and rejuvenation of the skin.",1,438,2020-10-02 14:43:23.386553,2020-10-02 14:43:23.386,t,6
+7,Russian Natural Look,,,SINGLE,"",,t,,1,631,2022-02-02 11:32:13.22332,2022-02-02 11:32:13.223,f,6
+70,Relaxing Face Mask ( Face Cleansing & Mask ),,,SINGLE,"",,t,,1,788,2023-09-02 11:55:40.529787,2023-09-02 11:55:40.529,f,17
+74,Express Manicure,,,SINGLE,"",,t,,3,810,2023-09-12 14:05:51.735403,2023-09-12 14:05:51.735,f,17
+40,"Full Leg, Full Arms and Underarms",,,SINGLE,"",,t,,1,1087,2025-03-13 15:44:26.342558,2025-03-13 15:44:26.342,t,9
+75,"Luxury Pedicure ( Shape, Cuticle, Hard skin, Scrub, Massage,Polish )",,,SINGLE,"",,t,,1,818,2023-09-19 11:10:22.873285,2023-09-19 11:10:22.873,f,17
+23,Kaeso Facial,,,SINGLE,"",,t,"Kaeso Hydrating Facial Treatment is most suitable for the normal to dry skin. Which includes ●	Hydrating cleanser Application. ●	Skin Analysis. ●	Facial Massage (Plus Complimentary Shoulders and back Massage). ●	Hydrating exfoliator application. ●	Face Streaming. ●	Hydrating mask Application. ●	Hydrating toner Application. ●	Hydrating Moisturise Application. The Kaeso ethos is to embody naturally derived ingredients with essential treatment formulas to deliver effective and luxurious professional products. Kaeso offers an array of specialized treatments to address the individual preferences and skin’s changing needs. Within the extensive Kaeso collection, there is a fusion of natural products that maintain and restore your body, mind and wellbeing and allow you to create a simple and personalized regime to achieve great results.",8,87,2018-05-10 09:15:42.499907,2018-05-10 09:15:42.499,f,6
+89,Chest and Breast,,,SINGLE,"",,t,,1,1030,2025-03-06 14:30:18.974693,2025-03-06 14:30:18.974693,f,17
+72,Eyebrow Micropigmentation,,,SINGLE,"",,t,,1,796,2023-09-02 12:01:57.963371,2023-09-02 12:01:57.963,f,17
+69,Hips (Buttocks),,,SINGLE,"",,t,,1,781,2023-09-02 11:48:05.516358,2023-09-02 11:48:05.516,f,17
+74,Shape & Polish with French Tips (Shellac),,,SINGLE,"",,t,,2,809,2023-09-12 14:05:17.395129,2023-09-12 14:05:17.395,f,17
+89,Full Arm,,,SINGLE,"",,t,,1,1031,2025-03-06 14:30:36.826395,2025-03-06 14:30:36.826395,f,17
+91,Acrylic Extension With Normal Polish,,,SINGLE,"",,t,,1,1044,2025-03-07 16:07:14.149761,2025-03-07 16:07:14.149761,f,9
+63,Smooth Smoothing conditioner,,,SINGLE,"",,t,,1,1054,2025-03-08 15:38:26.110672,2025-03-08 15:38:26.110672,f,9
+63,Air Setting Powder,,,SINGLE,"",,t,,1,1066,2025-03-09 10:59:38.71122,2025-03-09 10:59:38.71122,f,9
+63,MEIDILANKA,,,SINGLE,"",,t,,1,1077,2025-03-09 11:13:01.608794,2025-03-09 11:13:01.608794,f,9
+69,Full Body Wax,,,SINGLE,"",,t,,1,782,2023-09-02 11:48:38.784059,2023-09-02 11:48:38.784,f,17
+81,Microblading,,,SINGLE,"",,t,"Microblading is a semi-permanent cosmetic procedure designed to enhance and shape eyebrows by manually applying pigment under the skin. It involves using a small, hand-held tool with fine needles to create hair-like strokes, mimicking the appearance of natural eyebrow hairs.
+
+Unlike traditional eyebrow tattoos, microblading creates a more natural look because the pigment is deposited closer to the surface of the skin and the strokes are finer. The procedure is popular for those with sparse, thin, or uneven eyebrows, and the results can last between 1 to 3 years, depending on skin type and care.
+
+A numbing cream is typically applied beforehand to minimize discomfort, and aftercare includes keeping the area clean and applying ointments to promote healing. Sessions often include a touch-up appointment to refine the brows after initial healing.",1,947,2024-09-20 15:32:55.235815,2024-09-20 15:32:55.235,f,6
+23,Skin Lifting Facial,,,SINGLE,"",,t,VitaLift is skin tightening Facial,2,602,2021-10-15 12:03:36.291281,2021-10-15 12:03:36.291,t,6
+72,Topup,,,SINGLE,"",,t,,1,797,2023-09-02 12:02:26.083643,2023-09-02 12:02:26.083643,f,17
+73,Eyebrows(threading) +Brow tint,,,SINGLE,"",,t,,7,804,2023-09-04 14:09:54.928022,2023-09-04 14:09:54.928022,f,16
+43,"Gold Facial( Cleansing, Exfoliation, Steam, Blackheads remove, Cream Massage, Gel Massage and Mask)",,,SINGLE,"",,t,"Shahnaz Gold facial is a soft metal and hence is beneficial to the skin. It helps improving blood circulation, removes toxins from the skin, lightens pigmentation and reduces production of Melanin, cures sunburns and rejuvenates the skin. It provides a golden glow to the skin and is preferred for special occasions. Benefits of gold facials are, .Shahnaz Gold Facial can be customized for both oily and dry skin types. • It helps in betterment of blood circulation. • The process of cell renewal is made fast by gold facial. • It also helps in lymphatic drainage and toxin removal. •Shahnaz Gold facial works wonders in rejuvenation of skin and enhancement of elasticity of skin. •Shahnaz Gold facial has anti-aging properties and helps in reduction of fine lines. •Shahnaz Gold facial fixes oxidation damages and sun damages that skin suffers from. • Pigmentation control and melanin-formation are unique capacities of Shahnaz gold facial and thus, to some extent assists in complexion lightening.",7,537,2021-10-01 13:32:21.625526,2021-10-01 13:32:21.625,t,16
+5,Wash & Blow Dry,,,MULTIPLE,"",,t,,6,179,2018-05-10 10:26:07.08705,2018-05-10 10:26:07.087,f,6
+37,"oxy glow saffron ( cleanser, scrub, steam, blackheads remover, massage, pack)",,,SINGLE,"",,t,,1,447,2021-05-02 05:32:11.130784,2021-05-02 05:32:11.13,t,9
+27,"Full Arms,Under Arms,Full Legs,Chest,Stomach,Full Back",,,MULTIPLE,"",,t,,20,214,2018-05-22 06:37:27.643619,2018-05-22 06:37:27.643,f,9
+2,Hollywood,,,SINGLE,"",,t,,14,76,2018-05-10 08:56:04.572645,2018-05-10 08:56:04.572,f,6
+76,Acrylic Extension With Normal Polish,,,SINGLE,"",,t,,1,827,2023-09-19 12:07:46.802624,2023-09-19 12:07:46.802,f,17
+75,"Express Pedicure ( Shape, Cuticle, Buff & Polish)",,,SINGLE,"",,t,,1,817,2023-09-19 11:09:01.212567,2023-09-19 11:09:01.212,f,17
+74,Polish remove,,,SINGLE,"",,f,,1,1012,2025-03-01 14:07:21.266009,2025-03-01 14:07:21.266,f,17
+5,Ombre/Balayage,,,MULTIPLE,"",,t,Please note: A patch test may be required 24-48 hours prior to treatment. Toner not Inc. Please book separate.,17,345,2018-05-22 13:14:41.732831,2018-05-22 13:14:41.732,f,6
+2,Full Arms & Underarms,,,SINGLE,"",,t,,1,430,2020-09-07 06:27:17.821567,2020-09-07 06:27:17.821,f,6
+23,Lotus Herbalfacial,,,SINGLE,"",,t,,1,640,2022-04-22 16:15:09.60832,2022-04-22 16:15:09.608,f,6
+74,Deluxe Manicure,,,SINGLE,"",,t,,5,812,2023-09-12 14:07:12.298624,2023-09-12 14:07:12.298,f,17
+89,Brazilian,,,SINGLE,"",,t,,1,1032,2025-03-06 14:31:02.093431,2025-03-06 14:31:02.093431,f,17
+71,Full Body exfoliate Only Women,,,SINGLE,"",,t,,1,789,2023-09-02 11:57:25.629932,2023-09-02 11:57:25.629,f,17
+23,Shahnaz Herbal Facial,,,SINGLE,"",,t,"Natural skincare is skin-friendly, containing no chemicals, additives or synthetic preservatives, but pure minerals and vitamins that keep your skin healthy. So, if you respect your skin and nature and effective results then herbal is your first choice! Advantage of Herbal Facial are, •	Relax and unclog pores. •	Hydrate and soften skin. • Eliminate toxins. •	Stimulate circulation and oxygen. •	Add fragrance for sensory relaxation •	Make your skin healthier. •	Makes your skin glowing. •	Balances natural skin oils.",3,81,2018-05-10 09:12:04.883853,2018-05-10 09:12:04.883,f,6
+20,Indian Head Massage,,,SINGLE,"",,t,"A treatment based on old Ayurvedic techniques. It helps reduce stress, fatigue, and eyestrain, increase mental clarity, relaxes and rejuvenates the receiver. it is gentle and therapeutic massage technique aimed at relieving stress and tension and promoting general well-being. Part of Ayurveda medicine – the ancient Indian system of mind-body medicine that aims to re-establish the body’s natural balance by restoring and preserving physical, emotional and spiritual health – Indian head massage does not only focus on the head and scalp as its name suggests but also works on the neck, shoulders, upper back and arms and face, which are the main areas in the body where stress and tension are often felt. The different Indian Head massage movements help to relax the muscles, ease away stiffness, stimulate blood circulation and eliminate toxins from the body. •	It lubricates and conditions the scalp, helping to prevent flakes and dry scalp without the use of harsh chemical shampoos. •	It helps enhance blood circulation in the head and neck area. •	It helps relax the scalp and increase pliability. •	The massage helps relax the muscles in the neck area. •	Head massage can help promote sound sleep at night.",3,130,2018-05-10 09:40:30.672275,2018-05-10 09:40:30.672,f,6
+5,Wash & Cut,,,MULTIPLE,"",,t,,2,183,2018-05-10 10:31:24.060892,2018-05-10 10:31:24.06,f,6
+91,Acrylic Extension With Gel Polish,,,SINGLE,"",,t,,1,1045,2025-03-07 16:07:54.785103,2025-03-07 16:07:54.785103,f,9
+63,Style Stories Thermal Protector,,,SINGLE,"",,t,,1,1055,2025-03-08 15:39:29.454741,2025-03-08 15:39:29.454741,f,9
+63,Meidilanka Softluxury Eyeshadow Tray,,,SINGLE,"",,t,,1,1067,2025-03-09 11:01:23.192334,2025-03-09 11:01:23.192334,f,9
+63,Blue had ston,,,SINGLE,"",,t,,1,1078,2025-03-09 11:14:39.390352,2025-03-09 11:14:39.390352,f,9
+40,Full Legs and Full Arms,,,SINGLE,"",,t,,1,1088,2025-03-13 15:45:15.132382,2025-03-13 15:45:15.132382,t,9
+74,Shape & Polish,,,SINGLE,"",,t,,1,808,2023-09-12 14:04:38.28724,2023-09-12 14:04:38.287,f,17
+50,deposite,,,SINGLE,"",,f,,6,641,2022-05-31 13:00:01.312951,2022-05-31 13:00:01.312951,f,16
+26,Nose inside,,,SINGLE,"",,t,,1,643,2022-07-04 15:43:11.253757,2022-07-04 15:43:11.253757,f,9
+35,Lower leg massage,,,SINGLE,"",,t,,1,645,2022-07-04 15:45:42.00311,2022-07-04 15:45:42.00311,f,9
+34,Half Leg Massage,,,SINGLE,"",,t,"Leg Massage is an ancient form of healing and relaxation, and the gentle pressure of hands feels good on sore muscles. Not only does leg massage make you feel good, it has significant health benefits that aid relief from stress, disease, and pain. •	Leg massage can help relax leg muscles and it will also contribute to full-body relaxation and Control stress and anxiety •	It Improve Postural Alignment. •	Leg massage can help manage lymphedema. •	Improves circulation. •	Helps prevent foot and ankle injuries. •	Reduces the effects of depression and anxiety. •	Helps with headaches and migraines. •	Lowers blood pressure. •	Helps with flat feet and plantar fasciitis.",6,275,2018-05-22 07:24:47.920846,2018-05-22 07:24:47.92,t,9
+37,XproC Skin Clean Up,,,SINGLE,"",,t,,1,394,2019-07-17 09:41:39.525678,2019-07-17 09:41:39.525,t,9
+27,Half Back,,,SINGLE,"",,t,,1,651,2022-07-17 15:07:49.731657,2022-07-17 15:07:49.731657,f,9
+35,Gold facial,,,SINGLE,"",,t,,1,644,2022-07-04 15:44:53.110725,2022-07-04 15:44:53.11,f,9
+28,Russian natural look,,,SINGLE,"",,t,,1,648,2022-07-04 15:52:06.595907,2022-07-04 15:52:06.595,t,9
+74,Shellac Polish (Shape & Polish),,,SINGLE,"",,t,,6,813,2023-09-12 14:07:55.740552,2023-09-12 14:07:55.74,f,17
+31,Gel removal,,,SINGLE,"",,t,,1,646,2022-07-04 15:47:27.336468,2022-07-04 15:47:27.336468,t,9
+71,Indian Head Massage,,,SINGLE,"",,t,,1,790,2023-09-02 11:58:00.157829,2023-09-02 11:58:00.157,f,17
+2,Lower Back,,,SINGLE,"",,t,,1,642,2022-06-17 11:38:22.285794,2022-06-17 11:38:22.285,f,6
+28,russian eyelashes (2 week top up),,,SINGLE,"",,t,,1,649,2022-07-04 15:53:02.398651,2022-07-04 15:53:02.398,f,9
+70,"Mini Facial {Cleansing, Exfoliation, Blackheads Removal, Moisturiser}",,,SINGLE,"",,t,,1,783,2023-09-02 11:52:37.248544,2023-09-02 11:52:37.248,f,17
+73,Eyebrows Threading + Upperlips,,,SINGLE,"",,t,,1,798,2023-09-04 14:00:55.054886,2023-09-04 14:00:55.054886,f,16
+73,Eyelash Tint + Brow Tint,,,SINGLE,"",,t,,7,805,2023-09-04 14:11:06.462382,2023-09-04 14:11:06.462382,f,16
+23,Mini Facial,,,SINGLE,"",,t,"Express facial procedure that deep cleans, excavates dirt and impurities that clog the skin and offer a matte, clean look.",1,384,2019-06-07 11:38:12.730724,2019-06-07 11:38:12.73,f,6
+66,Russian Lashes,,,SINGLE,"",,t,,1,734,2023-09-01 16:45:23.282891,2023-09-01 16:45:23.282,f,17
+5,Full Head Highlight( Toner not Inc.),,,MULTIPLE,"",,t,Please note: A patch test may be required 24-48 hours prior to treatment.,16,182,2018-05-10 10:30:10.023291,2018-05-10 10:30:10.023,f,6
+20,Full Body Exfoliate,,,SINGLE,"",,t,"There are many benefits of a body scrub . A body scrub will exfoliate your skin, sloughing off dead skin cells and rubbing away hard and flaky skin, leaving it feeling soft and smooth. Scrub or polishing products usually include an oily base which moisturises and soothes your skin as it is scrubbed. A scrub can be really invigorating as well, and improve the circulation of blood and lymph to the surface of the skin, helping to fight cellulite and improve your skin tone. A good body scrub forms the basis of other body treatments. it prepares your skin for an even tan, the oils used can relax or stimulate your senses ready for any similarly-focused treatment that you be having afterwards.",2,127,2018-05-10 09:39:32.8249,2018-05-10 09:39:32.824,f,6
+7,Individual Eyelashes (Full Set),,,SINGLE,"",,t,,4,92,2018-05-10 09:17:55.178111,2018-05-10 09:17:55.178,f,6
+40,Full Arms & Underarms,,,SINGLE,"",,t,,1,1089,2025-03-13 15:46:18.502782,2025-03-13 15:46:18.502782,t,9
+32,French pedicure with shellac,,,SINGLE,"",,t,,1,647,2022-07-04 15:48:31.406894,2022-07-04 15:48:31.406,f,9
+79,Lower leg,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",4,925,2024-08-14 11:39:28.625591,2024-08-14 11:39:28.625,f,6
+32,"Express Pedicure (Shape,Scrub,Cuticle,Massage)",,,SINGLE,"",,t,,2,268,2018-05-22 07:22:00.304657,2018-05-22 07:22:00.304,f,9
+37,Lotus herbal facial,,,SINGLE,"",,t,,1,650,2022-07-04 15:54:00.14917,2022-07-04 15:54:00.149,f,9
+75,"Deluxe pedicure (Shape, Cuticle, Scrub, Massage, Mask & polish )",,,SINGLE,"",,t,,1,819,2023-09-19 11:29:38.326431,2023-09-19 11:29:38.326,f,17
+76,Acrylic Extension With Gel Polish,,,SINGLE,"",,t,,1,828,2023-09-19 12:09:13.465617,2023-09-19 12:09:13.465,f,17
+89,Lower Legs,,,SINGLE,"",,t,,1,1033,2025-03-06 14:31:28.473263,2025-03-06 14:31:28.473,f,17
+91,Acrylic Extension (No Polish),,,SINGLE,"",,t,,1,1046,2025-03-07 16:09:15.106041,2025-03-07 16:09:15.106041,f,9
+63,product 7,,,SINGLE,"",,t,,1,1013,2025-03-05 15:58:05.467524,2025-03-05 15:58:05.467524,t,9
+63,BPDE Bosein mask,,,SINGLE,"",,t,,1,1056,2025-03-08 15:40:25.42733,2025-03-08 15:40:25.42733,f,9
+63,Small Golden Tube Volumizing Mascara,,,SINGLE,"",,t,,1,1068,2025-03-09 11:02:41.321142,2025-03-09 11:02:41.321142,f,9
+63,Surgical Grade Foot Filer,,,SINGLE,"",,t,,1,1079,2025-03-09 11:15:41.109626,2025-03-09 11:15:41.109626,f,9
+35,pedicure,,,SINGLE,"",,t,Callus traetment added if require.,1,652,2022-07-23 11:26:54.282092,2022-07-23 11:26:54.282,f,9
+35,Delux manicure,,,SINGLE,"",,t,"Shape, Cutical, Scrub, Massage, Mask",1,654,2022-08-03 11:03:45.359702,2022-08-03 11:03:45.359702,f,9
+67,Full Head Highlight (Toner Not Inc.),,,MULTIPLE,"",,t,,1,748,2023-09-02 10:00:42.366897,2023-09-02 10:00:42.366,f,17
+33,Full Head Amonia Free Color,,,MULTIPLE,"",,t,,14,664,2022-08-16 10:42:54.235334,2022-08-16 10:42:54.235,f,9
+30,Back cleanse,,,SINGLE,"",,t,,1,656,2022-08-03 14:08:41.364786,2022-08-03 14:08:41.364786,f,9
+28,lash lifting with tint,,,SINGLE,"",,t,,1,655,2022-08-03 14:00:14.78921,2022-08-03 14:00:14.789,t,9
+75,Shellac Removal,,,SINGLE,"",,t,,1,821,2023-09-19 11:31:07.950954,2023-09-19 11:31:07.95,f,17
+27,Chest,,,SINGLE,"",,t,,1,658,2022-08-09 11:42:05.350217,2022-08-09 11:42:05.350217,f,9
+34,Back Cleanse,,,SINGLE,"",,t,"It will exfoliate the dead skin and moisturize Deeply . It will be a good idea before a special event. This will reduce acne and make you look and feel great not to mention the benefits of a little time to truly relax and unwind. It is great for acne, skin bumps and pustules as well as back acne, pimples and zits that arise from exercise, eating the wrong foods or just about any other condition. A back facial allows the area to be thoroughly cleaned, exfoliated, and toned. extractions can help remove impurities from the skin. This in turn can lead to a clearer, healthier, blemish-free back .",7,274,2018-05-22 07:24:22.596885,2018-05-22 07:24:22.596,t,9
+40,Saree Draping,,,SINGLE,"",,t,,1,660,2022-08-09 12:10:45.12464,2022-08-09 12:10:45.12464,t,9
+40,Bridal Makeup & Hairstyle,,,SINGLE,"",,t,,1,659,2022-08-09 12:09:53.998445,2022-08-09 12:09:53.998445,t,9
+36,Saree Draping,,,SINGLE,"",,t,,1,661,2022-08-09 12:13:09.55401,2022-08-09 12:13:09.55401,f,9
+36,Bridal Makeup & Hairstyle,,,SINGLE,"",,t,,1,662,2022-08-09 12:14:01.231982,2022-08-09 12:14:01.231,f,9
+36,Party Makeup & Hairstyle,,,SINGLE,"",,t,,1,663,2022-08-09 12:15:08.833311,2022-08-09 12:15:08.833,f,9
+73,Eyebrows + UpperLips + Chin (Threading),,,SINGLE,"",,t,,2,799,2023-09-04 14:02:06.086476,2023-09-04 14:02:06.086476,f,16
+73,Eyelash -Brow Tint +Eyebrows (Threading),,,SINGLE,"",,t,,9,806,2023-09-04 14:12:20.483014,2023-09-04 14:12:20.483014,f,16
+74,Shellac Removal,,,SINGLE,"",,t,,7,814,2023-09-12 14:08:45.182207,2023-09-12 14:08:45.182207,f,17
+34,Only Foot Massage,,,SINGLE,"",,t,,1,665,2022-08-16 11:32:25.474009,2022-08-16 11:32:25.474,f,9
+71,Only Foot Massage Reflexology Only Women,,,SINGLE,"",,t,,1,791,2023-09-02 11:58:42.480969,2023-09-02 11:58:42.48,f,17
+89,Full Face,,,SINGLE,"",,t,,1,1014,2025-03-06 12:16:53.036435,2025-03-06 12:16:53.036435,f,17
+89,Upper Legs,,,SINGLE,"",,t,,1,1034,2025-03-06 14:32:16.641114,2025-03-06 14:32:16.641114,f,17
+37,"Mini Facial ( cleanser, scrub, massage)",,,SINGLE,"",,t,"Mini Facial usually consists of cleansing, exfoliation, application of a mask, toner, and moisturizer. All of the steps are considered to be safe and risk-free, mini facial starts off with makeup removal (if needed). application of a cleanser which removes oil and gently exfoliates. A warm moist towel is placed on your face, or steamer used on face and left for a few minutes which helps open the pores, then blackheads removed and mask applied on face which can nurture,exfoliate, or even provide a mini facial peel flowed by a little facial massage – and the whole treatment is usually finished with the application of moisturizing products. Benefits of Mini Facial are, •	A mini facial will leave you with a nice glow in short time. •	Mini facials give you tighter, smoother, healthier skin, Even just a short session can help to correct small imperfections in the outermost layers of the skin, such as sun damage . •	Short session Facial can help to correct small imperfections in the outermost layers of the skin, such as sun damage or thin, fine lines.",1,289,2018-05-22 08:04:53.750831,2018-05-22 08:04:53.75,f,9
+31,Acrylics remover,,,SINGLE,"",,t,,1,946,2024-08-30 15:30:59.033375,2024-08-30 15:30:59.033375,t,9
+63,LOUG Mask,,,SINGLE,"",,t,,1,1057,2025-03-08 15:41:01.503478,2025-03-08 15:41:01.503478,f,9
+63,Charm Mist Natural Eyebrow Pen,,,SINGLE,"",,t,,1,1069,2025-03-09 11:03:26.666621,2025-03-09 11:03:26.666621,f,9
+26,Full Face With Eyebrows,,,MULTIPLE,"",,t,Neck not included,10,200,2018-05-22 06:24:52.34937,2018-05-22 06:24:52.349,f,9
+63,Nail Filer,,,SINGLE,"",,t,,1,1080,2025-03-09 11:16:23.451411,2025-03-09 11:16:23.451411,f,9
+76,Acrylic Extension ( No Polish ),,,SINGLE,"",,t,,1,829,2023-09-19 12:11:14.263519,2023-09-19 12:11:14.263,f,17
+40,Luxury Pedicure,,,SINGLE,"",,t,,1,1090,2025-03-13 15:47:06.610521,2025-03-13 15:47:06.610521,t,9
+37,Shahnaz Herbal Facial,,,SINGLE,"",,t,"Natural skincare is skin-friendly, containing no chemicals, additives or synthetic preservatives, but pure minerals and vitamins that keep your skin healthy. So, if you respect your skin and nature and effective results then herbal is your first choice! Advantage of Herbal Facial are, •	Relax and unclog pores. •	Hydrate and soften skin. • Eliminate toxins. •	Stimulate circulation and oxygen. •	Add fragrance for sensory relaxation •	Make your skin healthier. •	Makes your skin glowing. •	Balances natural skin oils.",3,292,2018-05-22 08:05:52.638347,2018-05-22 08:05:52.638,t,9
+27,Full arms and Underarms,,,SINGLE,"",,t,,1,653,2022-08-02 16:58:04.188971,2022-08-02 16:58:04.188,f,9
+29,Henna brows,,,SINGLE,"",,t,,1,657,2022-08-03 14:09:27.062066,2022-08-03 14:09:27.062,f,9
+70,"Full Facial {Cleansing, Exfoliation, Blackheads Removal, Massage & Mask}",,,SINGLE,"",,t,,1,784,2023-09-02 11:52:59.024298,2023-09-02 11:52:59.024,f,17
+79,Hollywood,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",5,936,2024-08-14 11:48:23.034989,2024-08-14 11:48:23.034,f,6
+79,Brazilian,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",5,935,2024-08-14 11:47:46.170246,2024-08-14 11:47:46.17,f,6
+8,Henna Brows,,,SINGLE,"",,t,Need patch test,1,677,2023-01-10 11:46:02.937581,2023-01-10 11:46:02.937,f,6
+23,Skin Lightening Facial,,,SINGLE,"",,t,"Glow Like an Angel , feel like a Beauty Queen !",1,679,2023-01-12 10:42:29.344432,2023-01-12 10:42:29.344,f,6
+79,High bikini Line,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",5,934,2024-08-14 11:46:57.138079,2024-08-14 11:46:57.138,f,6
+40,"Any facial & Back, Neck & Shoulder Massage",,,SINGLE,"",,t,,1,668,2022-09-01 09:28:52.014993,2022-09-01 09:28:52.014,t,9
+40,Gold Facial & indian head massage,,,SINGLE,"",,t,,1,667,2022-09-01 09:26:34.819248,2022-09-01 09:26:34.819248,t,9
+89,Upper Lip & Chin,,,SINGLE,"",,t,,1,1015,2025-03-06 12:21:23.455317,2025-03-06 12:21:23.455317,f,17
+76,UV gel with Normal polish,,,SINGLE,"",,t,,1,830,2023-09-19 12:12:53.484298,2023-09-19 12:12:53.484,f,17
+40,Manicure & Pedicure With Full Body Massage,,,SINGLE,"",,t,,1,673,2022-12-31 17:45:02.575339,2022-12-31 17:45:02.575,t,9
+89,Hollywood,,,SINGLE,"",,t,,1,1035,2025-03-06 14:32:44.158357,2025-03-06 14:32:44.158357,f,17
+40,Any facial & Full Body Massage,,,SINGLE,"",,t,,1,666,2022-09-01 09:23:49.123229,2022-09-01 09:23:49.123,t,9
+23,Oxygen Energising Facial,,,SINGLE,"",,t,Energise & Rejuvenate skin !,1,678,2023-01-12 10:41:18.880228,2023-01-12 10:41:18.88,f,6
+69,Hollywood,,,SINGLE,"",,t,,1,807,2023-09-07 11:29:53.244892,2023-09-07 11:29:53.244,f,17
+2,Full Body wax Including Full Bikini,,,SINGLE,"",,t,FACE NOT INCLUDED,21,75,2018-05-10 08:55:08.201462,2018-05-10 08:55:08.201,f,6
+40,full facial& full body massage,,,SINGLE,"",,f,,1,671,2022-10-08 14:54:13.187001,2022-10-08 14:54:13.187,t,9
+73,Full Face (Threading),,,SINGLE,"",,t,,3,800,2023-09-04 14:03:01.589753,2023-09-04 14:03:01.589,f,16
+20,Full facial & Hot Stone Massage,,,SINGLE,"",,t,,1,676,2023-01-03 15:49:36.847341,2023-01-03 15:49:36.847,f,6
+20,"Full Facial & Back ,Neck & Shoulder Massage",,,SINGLE,"",,t,,1,675,2023-01-03 15:47:59.660427,2023-01-03 15:47:59.66,f,6
+70,Face Massage,,,SINGLE,"",,t,,1,785,2023-09-02 11:53:26.694626,2023-09-02 11:53:26.694626,f,17
+20,Full Facial & Full Body Massage,,,SINGLE,"",,t,,1,674,2023-01-03 15:46:25.744087,2023-01-03 15:46:25.744,f,6
+20,"Shoulder, Back & Neck",,,SINGLE,"",,t,"This is the ideal solution if you haven’t got time for a full Holistic Body Massage or if you have concentrated aches and pains, discomfort or tension in the upper body.
+
+This is a relaxing massage therapy concentrating on the back, neck and shoulder muscles. The treatment is designed to relax and ease tension in the areas of the body where muscle problems most often occur.
+
+A Back, Neck & Shoulder Massage will loosen the muscles in the back and shoulders where tension exists. Allowing your body to unwind during a Back, Neck & Shoulder Massage will get rid of stiffness and promote deep relaxation. By speeding up circulation over a wide area of the body, more fresh, oxygenated blood will nourish the tissues, relieving aches and aiding tissue recovery and repair.",6,129,2018-05-10 09:40:11.978621,2018-05-10 09:40:11.978,f,6
+20,Hot Stone Massage,,,SINGLE,"",,t,"Hot stone massage is a natural therapy in which warmed stones are positioned on parts of the client’s body of to maximize the the therapeutic benefit. The stones used are typically river rocks or other very smooth-surfaced stones made of basalt. These stones are heated in sanitizing water before use. The high iron content in basalt helps the stones retain heat during the massage. Hot stone massages are beneficial on both physical and psychological levels. The heat from the stones helps your muscles relax, allowing the massage therapist to manipulate your deep tissues more effectively. Overly tense muscles can hinder the massage procedure, so if your muscles are extremely tight or stiff, the heated stones may provide the extra relaxation you need for the massage to be beneficial in releasing tension and easing sore muscles.",7,132,2018-05-10 09:41:20.11611,2018-05-10 09:41:20.116,f,6
+89,Three quarter Legs,,,SINGLE,"",,t,,1,1036,2025-03-06 14:33:15.054442,2025-03-06 14:33:15.054442,f,17
+75,Pedicure With Shellac Polish,,,SINGLE,"",,t,,1,822,2023-09-19 11:49:35.703471,2023-09-19 11:49:35.703,f,17
+40,"Any Facial & Back, Neck & Sholder Massage",,,SINGLE,"",,f,,1,672,2022-10-08 14:54:30.385691,2022-10-08 14:54:30.385,t,9
+63,Moisture Nutritive Mask,,,SINGLE,"",,t,,1,1047,2025-03-08 15:14:26.579238,2025-03-08 15:14:26.579238,f,9
+63,BAIZTON Anti-Wrinkle,,,SINGLE,"",,t,,1,1058,2025-03-08 15:42:07.186809,2025-03-08 15:42:07.186809,f,9
+67,Retouch Balayage (Toner Inc.),,,SINGLE,"",,t,,1,835,2023-09-28 09:18:02.762956,2023-09-28 09:18:02.762,f,17
+63,SKETCH Double-Headed Eyebrow Pencil,,,SINGLE,"",,t,,1,1070,2025-03-09 11:04:22.602043,2025-03-09 11:04:22.602,f,9
+63,WEIMIKOU Long-Lasting Eyeliner,,,SINGLE,"",,t,,1,1081,2025-03-09 11:18:03.948122,2025-03-09 11:18:03.948122,f,9
+40,product,,,SINGLE,"",,f,,1,670,2022-10-08 14:54:02.469058,2022-10-08 14:54:02.469,t,9
+40,Luxury Manicure,,,SINGLE,"",,t,,1,1091,2025-03-13 15:47:51.892342,2025-03-13 15:47:51.892342,t,9
+71,Feet & Legs Massage Only Women,,,SINGLE,"",,t,,1,792,2023-09-02 11:59:15.116376,2023-09-02 11:59:15.116,f,17
+74,Manicure with Shellac Polish,,,SINGLE,"",,t,,8,815,2023-09-12 14:09:27.964815,2023-09-12 14:09:27.964,f,17
+28,Hybrid lashes,,,SINGLE,"",,t,,1,669,2022-10-03 12:22:31.008627,2022-10-03 12:22:31.008,f,9
+43,Relaxing Mask,,,SINGLE,"",,t,Good to use everyday. After use skin will be glow and smooth.,1,682,2023-03-29 13:34:19.537827,2023-03-29 13:34:19.537,f,16
+63,6B V-Face Blush Palette,,,SINGLE,"",,t,,1,1071,2025-03-09 11:08:18.301908,2025-03-09 11:08:18.301908,f,9
+55,Eyebrow Pencil and Brush,,,SINGLE,"",,f,,8,684,2023-04-02 11:30:17.957373,2023-04-02 11:30:17.957,f,16
+63,S&G Lashesh,,,SINGLE,"",,t,,1,1082,2025-03-09 11:18:49.566753,2025-03-09 11:18:49.566753,f,9
+47,Heena,,,SINGLE,"",,t,,7,691,2023-04-20 19:28:04.788987,2023-04-20 19:28:04.788987,f,16
+40,Full Facial & Full Body Massage,,,SINGLE,"",,t,,1,693,2023-04-22 09:35:24.14897,2023-04-22 09:35:24.148,t,9
+28,Brow lamination,,,SINGLE,"",,t,,1,683,2023-03-31 13:35:18.654019,2023-03-31 13:35:18.654,t,9
+55,Beauty Puff,,,SINGLE,"",,f,,11,686,2023-04-02 11:35:12.652818,2023-04-02 11:35:12.652,f,16
+55,mask,,,SINGLE,"",,f,,7,681,2023-03-29 13:26:42.616175,2023-03-29 13:26:42.616,f,16
+55,Soft Colored Pencil,,,SINGLE,"",,f,,9,685,2023-04-02 11:34:17.687143,2023-04-02 11:34:17.687,f,16
+43,Korean Facial,,,SINGLE,"",,t,,10,699,2023-05-17 14:25:07.818606,2023-05-17 14:25:07.818606,f,16
+32,"Luxury Pedicure (shape, Cuticle,Scrub, massage & polish)",,,SINGLE,"",,t,,3,259,2018-05-22 07:11:19.789715,2018-05-22 07:11:19.789,f,9
+5,Botox Hair Treatment,,,MULTIPLE,"",,t,"The treatment is called botox for hair, because just like your skin, it fills your hair fibres to make it smoother and reduces frizz. If your hair is damaged, it becomes silkier and shinier after botox treatment, that deep conditions and adds lustre to tired tresses.It also help with split ends , hair breakages , dull & dry hair , damage hair and frizzy hair . It last 4 to 6 weeks .",8,697,2023-05-09 10:33:49.064357,2023-05-09 10:33:49.064,f,6
+36,Micro blading,,,SINGLE,"",,t,,1,701,2023-05-22 15:37:08.986562,2023-05-22 15:37:08.986,f,9
+76,UV Gel With Gel Polish,,,SINGLE,"",,t,,1,831,2023-09-19 12:13:29.053544,2023-09-19 12:13:29.053,f,17
+6,Cheek,,,MULTIPLE,"",,t,,8,711,2023-08-31 10:57:27.284994,2023-08-31 10:57:27.284994,f,6
+49,Delux Manicure With Shellac Polish,,,SINGLE,"",,t,,1,696,2023-04-30 13:13:56.377933,2023-04-30 13:13:56.377933,t,16
+40,Hairstyle from,,,SINGLE,"",,t,,1,709,2023-08-15 09:04:02.971437,2023-08-15 09:04:02.971437,t,9
+62,Foot Massage,,,SINGLE,"",,t,,6,708,2023-08-05 11:07:03.390435,2023-08-05 11:07:03.390435,f,16
+61,Infill with Gel Polish,,,SINGLE,"",,t,,5,705,2023-06-24 17:58:56.610637,2023-06-24 17:58:56.61,f,16
+40,hairsytle,,,SINGLE,"",,t,,1,704,2023-06-17 10:09:56.091275,2023-06-17 10:09:56.091275,t,9
+23,Korean Glass Skin Facial,,,SINGLE,blocking,15,t,"Glass skin is a skincare routine based on the latest Korean skincare trends and techniques. Glass skin is a term for exceptionally smooth, even-toned and lustrous skin that's so flawless it has the appearance of glass.",1,688,2023-04-14 10:02:52.932873,2023-04-14 10:02:52.932,f,6
+36,Hairstyle from,,,SINGLE,"",,t,,1,710,2023-08-15 09:05:27.309665,2023-08-15 09:05:27.309665,f,9
+75,Pedicure With Paraffin Wax,,,SINGLE,"",,t,,1,823,2023-09-19 11:50:35.1856,2023-09-19 11:50:35.185,f,17
+64,Full FaceWith Eyebrows & Neck,,,MULTIPLE,"",,t,,1,722,2023-09-01 16:29:01.578766,2023-09-01 16:29:01.578,f,17
+50,3rd microbladind touch up,,,SINGLE,"",,t,,5,707,2023-07-30 10:53:00.305374,2023-07-30 10:53:00.305374,f,16
+32,"Pedicure without Polish(shape, Cuticle, Dry skin remove,Scrub, massage)",,,SINGLE,"",,t,,1,706,2023-06-26 12:23:42.018101,2023-06-26 12:23:42.018,f,9
+62,Feet & Legs Massage,,,SINGLE,"",,t,,1,702,2023-06-12 14:40:27.58338,2023-06-12 14:40:27.583,f,16
+73,Eyebrows + UpperLips (Waxing),,,SINGLE,"",,t,,4,801,2023-09-04 14:04:02.237882,2023-09-04 14:04:02.237882,f,16
+79,Bikini Line,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",5,932,2024-08-14 11:45:31.556531,2024-08-14 11:45:31.556,f,6
+37,korean atomy facial,,,SINGLE,"",,t,,1,690,2023-04-19 10:49:12.389375,2023-04-19 10:49:12.389,f,9
+79,chin,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",1,911,2024-08-14 11:24:30.964224,2024-08-14 11:24:30.964,f,6
+61,Acrylic Gel Remover,,,SINGLE,"",,t,,1,698,2023-05-14 16:36:50.010832,2023-05-14 16:36:50.01,f,16
+49,French tip with Normal Polish (Shape and Polish),,,SINGLE,"",,t,,1,695,2023-04-30 12:51:35.470711,2023-04-30 12:51:35.47,t,16
+67,Half Head Highlight (Toner Not Inc.),,,MULTIPLE,"",,t,,1,747,2023-09-02 09:59:01.71605,2023-09-02 09:59:01.716,f,17
+21,Full Back,,,SINGLE,"",,f,,1,689,2023-04-15 12:55:25.919159,2023-04-15 12:55:25.919,f,6
+52,"Shellac Pedicure ( Shape, Cuticle, Hard skin remove , Cream Massage , Buff and Shellac Polish)",,,SINGLE,"",,t,,1,700,2023-05-21 14:47:39.704571,2023-05-21 14:47:39.704571,t,16
+62,Indian Head Massage,,,SINGLE,"",,t,,1,694,2023-04-24 13:59:15.402856,2023-04-24 13:59:15.402,f,16
+67,Olaplex,,,SINGLE,"",,t,,1,757,2023-09-02 10:18:44.863936,2023-09-02 10:18:44.863,f,17
+61,Acrylic with gel extension,,,SINGLE,"",,t,,1,692,2023-04-21 15:36:03.476945,2023-04-21 15:36:03.476,f,16
+49,Shellac Polish with French Tips,,,SINGLE,"",,t,,1,687,2023-04-07 19:21:11.608291,2023-04-07 19:21:11.608,f,16
+89,Sides of Face,,,SINGLE,"",,t,,1,1016,2025-03-06 12:21:48.467155,2025-03-06 12:21:48.467155,f,17
+89,Neck,,,SINGLE,"",,t,,1,1017,2025-03-06 12:22:09.788713,2025-03-06 12:22:09.788713,f,17
+89,Full Legs,,,SINGLE,"",,t,,1,1037,2025-03-06 14:45:34.237481,2025-03-06 14:45:34.237481,f,17
+40,Hair style FROM,,,SINGLE,"",,t,,1,680,2023-03-25 16:44:17.463035,2023-03-25 16:44:17.463,t,9
+70,"Kaeso Facial {Cleansing, Exfoliation, Blackheads Removal, Massage & Mask}",,,SINGLE,"",,t,,1,786,2023-09-02 11:54:02.118239,2023-09-02 11:54:02.118,f,17
+31,Acrylics Nail,,,SINGLE,"",,t,,1,703,2023-06-13 15:48:52.015205,2023-06-13 15:48:52.015,t,9
+63,Moisture Nutritive Leave-in conditioner,,,SINGLE,"",,t,,1,1048,2025-03-08 15:15:24.165306,2025-03-08 15:15:24.165306,f,9
+63,Nail Solution,,,SINGLE,"",,t,,1,1059,2025-03-08 15:42:40.79579,2025-03-08 15:42:40.79579,f,9
+40,Luxury Manicure & Pedicure,,,SINGLE,"",,t,,1,1092,2025-03-13 15:48:38.748523,2025-03-13 15:48:38.748523,t,9
+71,"Shoulder, Back & Neck Massage Only Women",,,SINGLE,"",,t,,1,793,2023-09-02 11:59:53.319799,2023-09-02 11:59:53.319,f,17
+65,Eyebrows & Eyelash Tint,,,SINGLE,"",,t,,1,725,2023-09-01 16:32:58.789417,2023-09-01 16:32:58.789,f,17
+64,Face side,,,MULTIPLE,"",,t,,1,717,2023-09-01 16:18:42.090189,2023-09-01 16:18:42.09,f,17
+66,Flare Lash,,,SINGLE,"",,t,,1,729,2023-09-01 16:38:17.032299,2023-09-01 16:38:17.032299,f,17
+66,Strip lash Application,,,SINGLE,"",,t,,1,735,2023-09-01 16:46:11.809848,2023-09-01 16:46:11.809848,f,17
+66,Lash Remover,,,SINGLE,"",,t,,1,736,2023-09-01 16:46:39.032032,2023-09-01 16:46:39.032032,f,17
+67,Neck Line,,,SINGLE,"",,t,,1,742,2023-09-02 09:44:35.154583,2023-09-02 09:44:35.154583,f,17
+66,2 Week Topup,,,SINGLE,"",,t,,1,732,2023-09-01 16:43:56.757281,2023-09-01 16:43:56.757,f,17
+67,Toner,,,MULTIPLE,"",,t,,1,753,2023-09-02 10:14:06.646815,2023-09-02 10:14:06.646815,f,17
+67,Child Hair Cut (Under 7),,,SINGLE,"",,t,,1,761,2023-09-02 10:27:34.752881,2023-09-02 10:27:34.752881,f,17
+67,Hair Wash,,,SINGLE,"",,t,,1,762,2023-09-02 10:28:11.773964,2023-09-02 10:28:11.773964,f,17
+67,Hair Extension Consultation,,,SINGLE,"",,t,,1,763,2023-09-02 10:28:43.588578,2023-09-02 10:28:43.588578,f,17
+69,Lower Back,,,SINGLE,"",,t,,1,778,2023-09-02 11:46:27.804834,2023-09-02 11:46:27.804834,f,17
+69,Chest,,,SINGLE,"",,t,,1,779,2023-09-02 11:46:49.548724,2023-09-02 11:46:49.548724,f,17
+69,Stomach,,,SINGLE,"",,t,,1,780,2023-09-02 11:47:13.015959,2023-09-02 11:47:13.015959,f,17
+64,Chin,,,MULTIPLE,"",,t,,1,715,2023-09-01 16:11:07.045879,2023-09-01 16:11:07.045,f,17
+74,Manicure With Parrafin Wax,,,SINGLE,"",,t,,1,861,2024-03-26 14:37:34.648135,2024-03-26 14:37:34.648,f,17
+69,Full Back,,,SINGLE,"",,t,,1,777,2023-09-02 11:45:55.822976,2023-09-02 11:45:55.822,f,17
+40,Shellac Manicure & Pedicure,,,SINGLE,"",,t,,1,1093,2025-03-13 15:49:18.364372,2025-03-13 15:49:18.364,t,9
+69,Bikini Line (Hot wax),,,SINGLE,"",,t,,1,773,2023-09-02 10:54:48.828289,2023-09-02 10:54:48.828,f,17
+75,Shellac Polish,,,SINGLE,"",,t,,1,820,2023-09-19 11:30:40.113565,2023-09-19 11:30:40.113,f,17
+64,cheeks,,,MULTIPLE,"",,t,,1,719,2023-09-01 16:20:36.492254,2023-09-01 16:20:36.492,f,17
+69,Brazilian (Hot wax),,,SINGLE,"",,t,,1,774,2023-09-02 11:43:52.923274,2023-09-02 11:43:52.923,f,17
+67,Root Colour Under 6 weeks,,,SINGLE,"",,t,,1,754,2023-09-02 10:14:56.186527,2023-09-02 10:14:56.186,f,17
+89,Jaw Line,,,SINGLE,"",,t,,1,1018,2025-03-06 12:22:39.840149,2025-03-06 12:22:39.840149,f,17
+67,Full Head Colour,,,MULTIPLE,"",,t,,1,744,2023-09-02 09:49:08.658481,2023-09-02 09:49:08.658,f,17
+66,Classic Half Set,,,SINGLE,"",,t,,1,730,2023-09-01 16:42:37.44397,2023-09-01 16:42:37.443,f,17
+64,Upper lip,,,MULTIPLE,"",,t,,1,713,2023-09-01 16:08:17.574617,2023-09-01 16:08:17.574,f,17
+65,Eyelash Lift,,,SINGLE,"",,t,,1,726,2023-09-01 16:35:06.088027,2023-09-01 16:35:06.088,f,17
+65,Eyelash Tint,,,SINGLE,"",,t,,1,724,2023-09-01 16:31:58.3487,2023-09-01 16:31:58.348,f,17
+64,Eyebrows,,,MULTIPLE,"",,t,,1,712,2023-09-01 16:02:10.805464,2023-09-01 16:02:10.805,f,17
+64,Nose,,,MULTIPLE,"",,t,,1,716,2023-09-01 16:16:29.066937,2023-09-01 16:16:29.066,f,17
+75,File & Polish,,,SINGLE,"",,t,,1,816,2023-09-19 11:07:03.575848,2023-09-19 11:07:03.575,f,17
+67,Wash/Cut/Blowdry,,,MULTIPLE,"",,t,,1,739,2023-09-02 09:41:45.293154,2023-09-02 09:41:45.293,f,17
+67,Full Head Ammonia Free Colour,,,MULTIPLE,"",,t,,1,745,2023-09-02 09:50:47.218837,2023-09-02 09:50:47.218,f,17
+64,Neck,,,MULTIPLE,"",,t,,1,720,2023-09-01 16:21:40.202977,2023-09-01 16:21:40.202,f,17
+88,Hollywood Waxing,,,SINGLE,"",,t,,1,1004,2025-02-07 11:43:54.339819,2025-02-07 11:43:54.339819,f,9
+67,"Wash, Cut & Finish",,,MULTIPLE,"",,t,,1,738,2023-09-02 09:39:36.55583,2023-09-02 09:39:36.555,f,17
+67,your Colour Full Head,,,MULTIPLE,"",,t,,1,743,2023-09-02 09:47:47.67598,2023-09-02 09:47:47.675,f,17
+66,3 Week Topup,,,SINGLE,"",,t,,1,733,2023-09-01 16:44:34.13108,2023-09-01 16:44:34.131,f,17
+67,perming,,,MULTIPLE,"",,t,,1,752,2023-09-02 10:08:15.155994,2023-09-02 10:08:15.155,f,17
+67,Hair Botox Treatment,,,MULTIPLE,"",,t,,1,751,2023-09-02 10:07:01.038338,2023-09-02 10:07:01.038,f,17
+67,T-Section Highlight (Toner Not Inc.),,,MULTIPLE,"",,t,,1,746,2023-09-02 09:55:19.80888,2023-09-02 09:55:19.808,f,17
+67,Brazilian Blowdry / Keratin,,,MULTIPLE,"",,t,,1,750,2023-09-02 10:05:05.328176,2023-09-02 10:05:05.328,f,17
+68,Full Body Bleach,,,SINGLE,"",,t,,1,767,2023-09-02 10:46:46.356612,2023-09-02 10:46:46.356,f,17
+68,Full Face Bleach,,,SINGLE,"",,t,,1,764,2023-09-02 10:45:00.353958,2023-09-02 10:45:00.353,f,17
+65,Eyebrows Tint,,,SINGLE,"",,t,,1,723,2023-09-01 16:31:17.700079,2023-09-01 16:31:17.7,f,17
+67,Dry Cut,,,MULTIPLE,"",,t,,1,737,2023-09-02 09:38:27.027019,2023-09-02 09:38:27.027,t,17
+67,Root Retouchup Bleach (under 8 weeks),,,SINGLE,"",,t,,1,834,2023-09-28 09:16:33.941613,2023-09-28 09:16:33.941613,f,17
+66,Classic Full Set,,,SINGLE,"",,t,,1,731,2023-09-01 16:43:18.228467,2023-09-01 16:43:18.228,f,17
+69,High Bikini (Hot Wax),,,SINGLE,"",,t,,1,775,2023-09-02 11:44:52.294409,2023-09-02 11:44:52.294,f,17
+64,Lower Lip,,,MULTIPLE,"",,t,,1,714,2023-09-01 16:09:25.880525,2023-09-01 16:09:25.88,f,17
+64,Full Face With Eyebrows,,,MULTIPLE,"",,t,,1,721,2023-09-01 16:26:46.73565,2023-09-01 16:26:46.735,f,17
+65,Brow Lamination,,,SINGLE,"",,t,,1,728,2023-09-01 16:36:47.956504,2023-09-01 16:36:47.956,f,17
+69,Half Legs,,,SINGLE,"",,t,,1,772,2023-09-02 10:54:11.015788,2023-09-02 10:54:11.015,f,17
+67,Hair Up,,,SINGLE,"",,t,,1,760,2023-09-02 10:25:08.065839,2023-09-02 10:25:08.065,f,17
+67,Full Head Bleach (Toner Not Inc.),,,SINGLE,"",,t,,1,759,2023-09-02 10:20:15.415862,2023-09-02 10:20:15.415,f,17
+69,Underarms (Hot Wax),,,SINGLE,"",,t,,1,770,2023-09-02 10:52:24.03753,2023-09-02 10:52:24.037,f,17
+67,Full Balayage (Toner Inc.),,,SINGLE,"",,t,,1,749,2023-09-02 10:02:11.001799,2023-09-02 10:02:11.001,f,17
+67,Fringe Trim,,,SINGLE,"",,t,,1,741,2023-09-02 09:43:59.691687,2023-09-02 09:43:59.691,f,17
+74,Luxury Manicure,,,SINGLE,"",,t,,4,811,2023-09-12 14:06:41.176033,2023-09-12 14:06:41.176,f,17
+68,Full Back Bleach,,,SINGLE,"",,t,,1,766,2023-09-02 10:46:09.320977,2023-09-02 10:46:09.32,f,17
+69,G-String (Hot Wax),,,SINGLE,"",,t,,1,776,2023-09-02 11:45:26.728387,2023-09-02 11:45:26.728,f,17
+68,Full Face & Neck Bleach,,,SINGLE,"",,t,,1,765,2023-09-02 10:45:43.876492,2023-09-02 10:45:43.876,f,17
+67,Wash & Blowdry,,,MULTIPLE,"",,t,,1,740,2023-09-02 09:43:20.200928,2023-09-02 09:43:20.2,f,17
+69,Full Legs,,,SINGLE,"",,t,,1,771,2023-09-02 10:52:56.918131,2023-09-02 10:52:56.918,f,17
+89,Full Legs With Hollywood,,,SINGLE,"",,t,,1,1040,2025-03-06 14:46:45.147487,2025-03-06 14:46:45.147487,f,17
+64,Forehead,,,MULTIPLE,"",,t,,1,718,2023-09-01 16:19:32.468966,2023-09-01 16:19:32.468,f,17
+69,Full Arms,,,SINGLE,"",,t,,1,768,2023-09-02 10:51:00.811111,2023-09-02 10:51:00.811,f,17
+69,Half Arms,,,SINGLE,"",,t,,1,769,2023-09-02 10:51:48.132068,2023-09-02 10:51:48.132,f,17
+89,Full Legs With Bikini Line,,,SINGLE,"",,t,,1,1038,2025-03-06 14:45:58.057659,2025-03-06 14:45:58.057,f,17
+63,Moisture Nutritive Low Shampoo,,,SINGLE,"",,t,,1,1049,2025-03-08 15:32:01.351478,2025-03-08 15:32:01.351478,f,9
+63,BPDE Collage Hydrating Mask,,,SINGLE,"",,t,,1,1060,2025-03-08 15:43:23.171543,2025-03-08 15:43:23.171543,f,9
+63,V-Face Contour,,,SINGLE,"",,t,,1,1072,2025-03-09 11:08:56.277593,2025-03-09 11:08:56.277593,f,9
+63,HOLD MAKEUP EYELINER PEN,,,SINGLE,"",,t,,1,1083,2025-03-09 11:19:49.220229,2025-03-09 11:19:49.220229,f,9
+67,Your Colour Application (Root),,,SINGLE,"",,t,,1,756,2023-09-02 10:18:08.968978,2023-09-02 10:18:08.968,f,17
+65,Eyelash Lift Inc Eyelash Tint,,,SINGLE,"",,t,,1,727,2023-09-01 16:36:16.589582,2023-09-01 16:36:16.589,f,17
+67,Hair Extension Removal,,,SINGLE,"",,f,,9,836,2023-11-09 11:49:00.440661,2023-11-09 11:49:00.44,f,17
+55,Fashion Eyelash(5d),,,SINGLE,"",,t,,11,838,2023-12-14 16:16:15.501484,2023-12-14 16:16:15.501,f,16
+37,Snail Reorganize Collagen facial (anti aging antiwrinkal),,,SINGLE,"",,t,,1,857,2024-03-18 13:23:14.741681,2024-03-18 13:23:14.741,f,9
+23,BAIZTON cono peptide facial,,,SINGLE,"",,t,reduce the appearance of fine lines and wrinkles and maintain their youthful glow. [Improves Overall Skin Health] Moisturizing anti-wrinkle essence is made from high-quality ingredients that help nourish and hydrate the skin.,1,845,2024-02-11 15:36:40.295514,2024-02-11 15:36:40.295,f,6
+70,"Anti Ageing Facial {Cleansing, Exfoliation, Blackhead removal, Massage & Mask}",,,SINGLE,"",,t,,1,851,2024-03-11 12:43:28.148428,2024-03-11 12:43:28.148,t,17
+23,Gold Facial,,,SINGLE,"",,t,"Shahnaz Gold facial is a soft metal and hence is beneficial to the skin. It helps improving blood circulation, removes toxins from the skin, lightens pigmentation and reduces production of Melanin, cures sunburns and rejuvenates the skin. It provides a golden glow to the skin and is preferred for special occasions. Benefits of gold facials are, .Shahnaz Gold Facial can be customized for both oily and dry skin types. •	It helps in betterment of blood circulation. •	The process of cell renewal is made fast by gold facial. •	It also helps in lymphatic drainage and toxin removal. •Shahnaz Gold facial works wonders in rejuvenation of skin and enhancement of elasticity of skin. •Shahnaz Gold facial has anti-aging properties and helps in reduction of fine lines. •Shahnaz Gold facial fixes oxidation damages and sun damages that skin suffers from. •	Pigmentation control and melanin-formation are unique capacities of Shahnaz gold facial and thus, to some extent assists in complexion lightening.",4,85,2018-05-10 09:15:00.324958,2018-05-10 09:15:00.324,f,6
+31,Shellac removal - hand and Feet,,,SINGLE,"",,t,,1,846,2024-02-19 12:47:10.807951,2024-02-19 12:47:10.807,f,9
+37,Rice Raw Pulp Facial,,,SINGLE,"",,t,,1,859,2024-03-18 13:27:22.316706,2024-03-18 13:27:22.316,f,9
+37,Baom Skin Whitning Facial,,,SINGLE,"",,t,,1,856,2024-03-18 13:21:24.533393,2024-03-18 13:21:24.533,f,9
+70,"Olive Oil Antioxidant facial {Cleaning, Exfoliation, Blackheads Removal, Massage & Mask}",,,SINGLE,"",,t,,1,852,2024-03-11 12:47:00.721133,2024-03-11 12:47:00.721,f,17
+70,"Baom Facial {Cleaning, Exfoliation, Blackheads Removal, Massage & Mask}",,,SINGLE,"",,t,,1,850,2024-03-11 12:36:17.19916,2024-03-11 12:36:17.199,f,17
+67,Hair Extensions Application,,,MULTIPLE,"",,t,,10,837,2023-11-09 11:55:25.851613,2023-11-09 11:55:25.851,f,17
+23,BAIZTON TRUFFLE FACIAL,,,SINGLE,"",,t,"Hydrating: White truffle is rich in essential oils that help to hydrate and moisturize the skin, leaving it looking and feeling soft and supple. Anti-aging: The antioxidants and vitamins in white truffle help to reduce the appearance of fine lines and wrinkles, promoting a more youthful appearance",1,843,2024-02-11 15:30:33.272834,2024-02-11 15:30:33.272,f,6
+23,SADOER snail facial,,,SINGLE,"",,t,"boosting collagen and elastin production,
+ minimising free radical damage,
+ repairing damaged tissues and maintaining hydration levels.",9,840,2024-02-11 10:39:14.774434,2024-02-11 10:39:14.774,f,6
+70,"Hydrating Facial {Cleansing, Exfoliation, Blackheads removal,Massage & Mask}",,,SINGLE,"",,t,"",1,848,2024-03-11 12:20:41.731642,2024-03-11 12:20:41.731,f,17
+26,Middle of eyebrow,,,SINGLE,"",,t,,1,839,2024-01-13 11:51:29.146432,2024-01-13 11:51:29.146,f,9
+75,Shellac Manicure & Pedicure,,,SINGLE,"",,t,,1,855,2024-03-11 14:30:56.658964,2024-03-11 14:30:56.658,f,17
+67,Bleach Bath,,,SINGLE,"",,t,,1,860,2024-03-22 13:33:47.34468,2024-03-22 13:33:47.344,f,17
+37,Olive Oil Antioxidant Facial,,,SINGLE,"",,t,,1,858,2024-03-18 13:26:25.368977,2024-03-18 13:26:25.368,f,9
+23,ZOZU Olive oil antioxidant facial,,,SINGLE,"",,t,"Regular consumption of olive oil maintains antioxidant intake. These compounds reduce free radicals and prevent damages to the cellular membrane, mitochondria, and DNA, with beneficial effects on aging and cancer risk. Especially, phenolic compounds in olive oil have strong antioxidant effect",1,842,2024-02-11 13:44:02.809658,2024-02-11 13:44:02.809,f,6
+75,Luxury Manicure & Pedicure,,,SINGLE,"",,t,,1,847,2024-02-24 14:48:53.870675,2024-02-24 14:48:53.87,f,17
+23,BAOM Amino acid facial,,,SINGLE,"",,t,"visibly minimise enlarged pores, tighten lax pores, improve uneven skin tone, soften fine lines & wrinkles, diminish dullness and strengthen a weakened surface",1,844,2024-02-11 15:33:50.775621,2024-02-11 15:33:50.775,f,6
+70,"Rice Raw Pulp Facial {Cleaning, Exfoliation, Blackheads Removal, Massage & Mask}",,,SINGLE,"",,t,,1,849,2024-03-11 12:24:03.744039,2024-03-11 12:24:03.744,f,17
+69,"Full Arms, Full Legs & Underarms",,,SINGLE,"",,t,,1,854,2024-03-11 13:27:10.128496,2024-03-11 13:27:10.128,f,17
+23,BIOAQUA Rice Row Pulp,,,SINGLE,"",,t,"improving your skin complexion and produce a definite brightening effect on your face
+helps to nourish and revitalize skin. Its cooling formulation, derived from natural sources, deeply penetrates and hydrates skin on contact, leaving it feeling refreshed and youthful.",1,841,2024-02-11 10:47:18.222368,2024-02-11 10:47:18.222,f,6
+88,Hollywood & Full Leg Waxing,,,SINGLE,"",,t,,1,1005,2025-02-07 11:44:54.423335,2025-02-07 11:44:54.423335,f,9
+89,Full Legs With High Bikini,,,SINGLE,"",,t,,1,1039,2025-03-06 14:46:18.454292,2025-03-06 14:46:18.454,f,17
+63,Reconstruction Reparative Low Shampoo,,,SINGLE,"",,t,,1,1050,2025-03-08 15:34:48.441461,2025-03-08 15:34:48.441461,f,9
+63,BPDE Hyaluronic Acid Mask,,,SINGLE,"",,t,,1,1061,2025-03-08 15:44:10.357219,2025-03-08 15:44:10.357219,f,9
+89,Chin,,,SINGLE,"",,t,,1,1019,2025-03-06 12:23:03.313678,2025-03-06 12:23:03.313678,f,17
+63,Flawless Honey Powder Cake,,,SINGLE,"",,t,,1,1073,2025-03-09 11:09:36.424733,2025-03-09 11:09:36.424733,f,9
+40,Shellac Manicure,,,SINGLE,"",,t,,1,1094,2025-03-13 15:51:33.439644,2025-03-13 15:51:33.439644,t,9
+40,Full Body Massage and Pedicure(normal Polish),,,SINGLE,"",,t,,1,1084,2025-03-13 15:40:42.910745,2025-03-13 15:40:42.910745,t,9
+50,Eyeliner,,,SINGLE,"",,t,,7,862,2024-04-27 11:57:24.216966,2024-04-27 11:57:24.216,f,16
+43,Hydrafacial,,,SINGLE,"",,t,,7,864,2024-05-01 13:06:10.541181,2024-05-01 13:06:10.541181,f,16
+70,Hydrafacial,,,SINGLE,"",,t,,7,863,2024-05-01 13:03:51.90431,2024-05-01 13:03:51.90431,t,17
+31,Bonder Gel,,,SINGLE,"",,t,,1,873,2024-05-03 11:19:29.329197,2024-05-03 11:19:29.329197,f,9
+33,Cut & Blowdry,,,MULTIPLE,"",,t,,1,1006,2025-02-07 15:38:42.163763,2025-02-07 15:38:42.163,f,9
+18,Acrylic /UV Gel With Gel Polish,,,SINGLE,"",,f,,11,890,2024-06-05 09:46:46.951383,2024-06-05 09:46:46.951,f,6
+18,Acrylic Extensions Removal,,,SINGLE,"",,f,,11,885,2024-06-05 09:38:51.797184,2024-06-05 09:38:51.797,f,6
+77,Forehead,,,MULTIPLE,"",,t,,1,899,2024-07-04 16:21:48.49862,2024-07-04 16:21:48.498,f,17
+18,Acrylic Extensions With Normal Polish,,,SINGLE,"",,f,,11,886,2024-06-05 09:39:59.596403,2024-06-05 09:39:59.596,t,6
+77,Facial,,,SINGLE,"",,t,,1,904,2024-07-30 15:36:04.33389,2024-07-30 15:36:04.333,f,17
+18,UV Gel With Normal Polish,,,SINGLE,"",,f,,11,889,2024-06-05 09:44:32.436763,2024-06-05 09:44:32.436,t,6
+18,Acrylic Extensions (No Polish),,,SINGLE,"",,f,,11,888,2024-06-05 09:42:31.948206,2024-06-05 09:42:31.948,t,6
+18,Acrylic Extensions With Gel Polish,,,SINGLE,"",,f,,11,887,2024-06-05 09:40:56.16809,2024-06-05 09:40:56.168,t,6
+71,Back Exfoliation only women,,,SINGLE,"",,t,,1,874,2024-05-25 14:10:24.573001,2024-05-25 14:10:24.573,f,17
+64,Ears Wax,,,SINGLE,"",,t,,1,897,2024-07-01 16:12:49.126381,2024-07-01 16:12:49.126,f,17
+89,Nipple,,,SINGLE,"",,t,,1,1020,2025-03-06 12:23:39.135822,2025-03-06 12:23:39.135822,f,17
+77,Pedicure,,,SINGLE,"",,t,,1,883,2024-05-31 17:45:22.035694,2024-05-31 17:45:22.035,f,17
+29,Heena Brow,,,SINGLE,"",,t,,1,894,2024-06-07 14:14:28.182694,2024-06-07 14:14:28.182,t,9
+40,Gold Facial And Full Body Massage,,,SINGLE,"",,t,,1,866,2024-05-02 11:08:14.156869,2024-05-02 11:08:14.156869,t,9
+40,Full   facial and Full Body Massage,,,SINGLE,"",,t,,1,865,2024-05-02 11:07:22.247206,2024-05-02 11:07:22.247206,t,9
+78,Signature Hydra facial,,,SINGLE,"",,t,,1,900,2024-07-28 12:17:36.576843,2024-07-28 12:17:36.576843,f,16
+78,Platinum Hydrafacial,,,SINGLE,"",,t,,3,902,2024-07-28 12:20:40.525045,2024-07-28 12:20:40.525045,f,16
+78,Keravive Hydrafacial,,,SINGLE,"",,t,,4,903,2024-07-28 12:39:40.179483,2024-07-28 12:39:40.179483,f,16
+78,Deluxe Hydrafacial,,,SINGLE,"",,t,,2,901,2024-07-28 12:19:20.290861,2024-07-28 12:19:20.29,f,16
+77,Underarms,,,SINGLE,"",,t,,1,879,2024-05-31 17:43:45.143471,2024-05-31 17:43:45.143,f,17
+77,Ear,,,SINGLE,"",,t,,1,877,2024-05-31 17:42:36.135308,2024-05-31 17:42:36.135,f,17
+77,Nose Inside,,,SINGLE,"",,t,,1,876,2024-05-31 17:42:04.445675,2024-05-31 17:42:04.445,f,17
+77,Eyebrows,,,MULTIPLE,"",,t,,1,875,2024-05-31 17:41:24.930954,2024-05-31 17:41:24.93,f,17
+18,Infills Gel Polish,,,SINGLE,"",,f,,11,892,2024-06-05 09:48:33.068791,2024-06-05 09:48:33.068,f,6
+18,Infills Normal Polish,,,SINGLE,"",,f,,11,891,2024-06-05 09:47:44.43473,2024-06-05 09:47:44.434,t,6
+29,Lash Lift,,,SINGLE,"",,t,,1,896,2024-06-07 14:24:41.015818,2024-06-07 14:24:41.015,f,9
+77,Full Arms,,,SINGLE,"",,t,,1,878,2024-05-31 17:43:18.726825,2024-05-31 17:43:18.726,f,17
+77,Stomach,,,SINGLE,"",,t,,1,882,2024-05-31 17:44:57.501942,2024-05-31 17:44:57.501,f,17
+77,Chest,,,SINGLE,"",,t,,1,881,2024-05-31 17:44:39.267125,2024-05-31 17:44:39.267,f,17
+77,Manicure,,,SINGLE,"",,t,,1,884,2024-05-31 17:45:52.040564,2024-05-31 17:45:52.04,f,17
+34,Indian Head Massage,,,SINGLE,"",,t,"A treatment based on old Ayurvedic techniques. It helps reduce stress, fatigue, and eyestrain, increase mental clarity, relaxes and rejuvenates the receiver. it is gentle and therapeutic massage technique aimed at relieving stress and tension and promoting general well-being. Part of Ayurveda medicine – the ancient Indian system of mind-body medicine that aims to re-establish the body’s natural balance by restoring and preserving physical, emotional and spiritual health – Indian head massage does not only focus on the head and scalp as its name suggests but also works on the neck, shoulders, upper back and arms and face, which are the main areas in the body where stress and tension are often felt. The different Indian Head massage movements help to relax the muscles, ease away stiffness, stimulate blood circulation and eliminate toxins from the body. •	It lubricates and conditions the scalp, helping to prevent flakes and dry scalp without the use of harsh chemical shampoos. •	It helps enhance blood circulation in the head and neck area. •	It helps relax the scalp and increase pliability. •	The massage helps relax the muscles in the neck area. •	Head massage can help promote sound sleep at night.",4,277,2018-05-22 07:25:38.113357,2018-05-22 07:25:38.113,f,9
+77,Full Back,,,SINGLE,"",,t,,1,880,2024-05-31 17:44:14.916566,2024-05-31 17:44:14.916,f,17
+89,Half Arms,,,SINGLE,"",,t,,1,1021,2025-03-06 12:24:03.051667,2025-03-06 12:24:03.051667,f,17
+90,Hydra Facial,,,SINGLE,"",,t,,1,1041,2025-03-06 14:58:17.239112,2025-03-06 14:58:17.239112,f,17
+63,Gift Voucher 2,,,SINGLE,"",,f,,1,906,2024-08-01 11:58:05.087888,2024-08-01 11:58:05.087,t,9
+63,Gift Voucher 1,,,SINGLE,"",,f,,1,905,2024-08-01 11:56:47.983584,2024-08-01 11:56:47.983,t,9
+63,product 6,,,SINGLE,"",,t,,1,872,2024-05-02 11:21:27.075044,2024-05-02 11:21:27.075044,t,9
+63,product 5,,,SINGLE,"",,t,,1,871,2024-05-02 11:20:57.708513,2024-05-02 11:20:57.708513,t,9
+63,product 4,,,SINGLE,"",,t,,1,870,2024-05-02 11:19:32.661107,2024-05-02 11:19:32.661107,t,9
+63,product 3,,,SINGLE,"",,t,,1,869,2024-05-02 11:18:58.612731,2024-05-02 11:18:58.612731,t,9
+63,product 2,,,SINGLE,"",,t,,1,868,2024-05-02 11:18:31.998493,2024-05-02 11:18:31.998493,t,9
+63,product 1,,,SINGLE,"",,t,,1,867,2024-05-02 11:18:07.357116,2024-05-02 11:18:07.357116,t,9
+63,Reconstruction Reparative Mask,,,SINGLE,"",,t,,1,1051,2025-03-08 15:35:22.088305,2025-03-08 15:35:22.088305,f,9
+63,Seejuice Big Sponge,,,SINGLE,"",,t,,1,1062,2025-03-09 10:56:48.476655,2025-03-09 10:56:48.476655,f,9
+63,Mocmallure Eyebrow Powder,,,SINGLE,"",,t,,1,1074,2025-03-09 11:10:31.419164,2025-03-09 11:10:31.419164,f,9
+40,Shellac Pedicure,,,SINGLE,"",,t,,1,1095,2025-03-13 15:52:14.463603,2025-03-13 15:52:14.463603,t,9
+40,"Full Body Massage (Buy 5 Sessions, Get 1 Free)",,,SINGLE,"",,t,,1,1085,2025-03-13 15:42:23.792206,2025-03-13 15:42:23.792206,t,9
+29,Brow lamination,,,SINGLE,"",,t,,1,895,2024-06-07 14:15:42.804738,2024-06-07 14:15:42.804,f,9
+29,Lash lift inc Tint,,,SINGLE,"",,t,,1,893,2024-06-07 14:06:07.04648,2024-06-07 14:06:07.046,f,9
+77,Cheeks,,,MULTIPLE,"",,t,,1,898,2024-07-04 16:20:50.156685,2024-07-04 16:20:50.156,f,17
+23,Hydra Deep Cleaning,,,SINGLE,"",,t,,10,938,2024-08-14 15:15:57.279219,2024-08-14 15:15:57.279219,f,6
+23,Hydra Facial With Radio-Freaquency,,,SINGLE,"",,t,,10,939,2024-08-14 15:19:18.286687,2024-08-14 15:19:18.286687,f,6
+23,Hydra Facial With LED Light Therapy,,,SINGLE,"",,t,,10,940,2024-08-14 15:20:34.302132,2024-08-14 15:20:34.302132,f,6
+23,Face Peel,,,SINGLE,"",,t,,10,941,2024-08-14 15:21:07.564869,2024-08-14 15:21:07.564869,f,6
+23,Dermaplanning,,,SINGLE,"",,t,,10,942,2024-08-14 15:21:55.776438,2024-08-14 15:21:55.776438,f,6
+23,Hydrating Super Facial With Dermaplanning,,,SINGLE,"",,t,,10,943,2024-08-14 15:22:47.04654,2024-08-14 15:22:47.04654,f,6
+23,Dermaplanning With Peel,,,SINGLE,"",,t,,10,944,2024-08-14 15:23:30.126155,2024-08-14 15:23:30.126155,f,6
+23,Hydra Facial With TCA Peel + LED Light,,,SINGLE,"",,t,,10,945,2024-08-14 15:24:34.674686,2024-08-14 15:24:34.674686,f,6
+79,Jaw line,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",1,912,2024-08-14 11:25:07.654959,2024-08-14 11:25:07.654,f,6
+79,Full Arm,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",2,920,2024-08-14 11:33:07.866985,2024-08-14 11:33:07.866,f,6
+67,Karetin bonds,,,SINGLE,"",,t,,1,907,2024-08-10 18:04:53.457611,2024-08-10 18:04:53.457,f,17
+75,Removal And Shellac Polish,,,SINGLE,"",,t,,1,909,2024-08-12 14:57:28.970001,2024-08-12 14:57:28.97,f,17
+77,Back And Shoulders,,,SINGLE,"",,t,,1,910,2024-08-14 10:18:14.097978,2024-08-14 10:18:14.097,f,17
+79,Underarm,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",2,918,2024-08-14 11:31:38.71358,2024-08-14 11:31:38.713,f,6
+79,Back,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",3,924,2024-08-14 11:38:48.634154,2024-08-14 11:38:48.634,f,6
+79,Three Quarter Leg,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",4,927,2024-08-14 11:41:06.957696,2024-08-14 11:41:06.957,f,6
+79,Buttocks,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",5,933,2024-08-14 11:46:09.664597,2024-08-14 11:46:09.664,f,6
+27,Lower Back,,,SINGLE,"",,t,,1,1007,2025-02-07 15:43:44.613051,2025-02-07 15:43:44.613051,f,9
+79,Half Arm,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",2,919,2024-08-14 11:32:31.699157,2024-08-14 11:32:31.699,f,6
+79,Full Face,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",1,916,2024-08-14 11:29:57.547472,2024-08-14 11:29:57.547,f,6
+79,Upper Lip & Chin,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",1,915,2024-08-14 11:28:56.035689,2024-08-14 11:28:56.035,f,6
+79,Side Of Face,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",1,914,2024-08-14 11:27:10.338847,2024-08-14 11:27:10.338,f,6
+79,Neck,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",1,913,2024-08-14 11:26:05.533759,2024-08-14 11:26:05.533,f,6
+89,Hand or Feet,,,SINGLE,"",,t,,1,1022,2025-03-06 12:24:23.061411,2025-03-06 12:24:23.061411,f,17
+89,Underarms,,,SINGLE,"",,t,,1,1023,2025-03-06 12:24:44.685925,2025-03-06 12:24:44.685925,f,17
+74,Removal And Shellac Polish,,,SINGLE,"",,t,,1,908,2024-08-12 14:57:07.565895,2024-08-12 14:57:07.565,f,17
+79,Chest & Brest,,,SINGLE,"",,f,,3,922,2024-08-14 11:37:27.388771,2024-08-14 11:37:27.388,f,6
+79,Stomach,,,SINGLE,"",,f,,3,923,2024-08-14 11:38:14.953959,2024-08-14 11:38:14.953,f,6
+80,Hydrafacial with radio frequency,,,SINGLE,"",,t,,1,949,2024-09-23 11:27:56.801744,2024-09-23 11:27:56.801744,f,9
+80,Hydra facial with led light,,,SINGLE,"",,t,,1,950,2024-09-23 11:28:56.385386,2024-09-23 11:28:56.385386,f,9
+80,Hydra Facial With Dermaplaning,,,SINGLE,"",,t,,1,951,2024-09-23 11:29:58.417205,2024-09-23 11:29:58.417205,f,9
+7,Russian Half Set,,,SINGLE,"",,t,,1,957,2024-10-09 12:30:55.854236,2024-10-09 12:30:55.854236,f,6
+18,BIAB Infill,,,SINGLE,"",,t,,1,961,2024-10-09 14:26:45.122109,2024-10-09 14:26:45.122109,f,6
+18,BAIB Removal,,,SINGLE,"",,t,,1,963,2024-10-09 14:27:45.58209,2024-10-09 14:27:45.58209,f,6
+27,Stomach,,,SINGLE,"",,t,,1,975,2024-11-18 17:22:55.865198,2024-11-18 17:22:55.865198,f,9
+7,Russian Mega Volume,,,SINGLE,"",,t,,1,959,2024-10-09 12:33:15.872685,2024-10-09 12:33:15.872,f,6
+18,Shellac with French Tips,,,SINGLE,"",,t,,1,965,2024-10-09 14:32:12.325835,2024-10-09 14:32:12.325,f,6
+18,BIAB Extension,,,SINGLE,"",,t,,1,960,2024-10-09 14:26:16.35958,2024-10-09 14:26:16.359,f,6
+69,Hollywood & Full Legs,,,SINGLE,"",,t,,1,967,2024-10-22 11:43:45.377534,2024-10-22 11:43:45.377,f,17
+69,Full Arms & Underarms,,,SINGLE,"",,t,,1,968,2024-10-22 11:44:16.686986,2024-10-22 11:44:16.686,f,17
+70,"Gold Facial {cleanser,Exfoliation,Blackheads,Massage,Mask}",,,SINGLE,"",,t,,1,988,2024-12-18 15:03:45.260892,2024-12-18 15:03:45.26,f,17
+18,French Manicure with Shellac Polish,,,SINGLE,"",,t,,1,964,2024-10-09 14:31:01.848795,2024-10-09 14:31:01.848795,t,6
+74,BIAB Extension,,,SINGLE,"",,t,,1,970,2024-11-14 10:57:31.235394,2024-11-14 10:57:31.235394,f,17
+74,BIAB Infill,,,SINGLE,"",,t,,1,971,2024-11-14 10:58:15.433345,2024-11-14 10:58:15.433,f,17
+74,BIAB Removal,,,SINGLE,"",,t,,1,973,2024-11-14 11:00:46.043466,2024-11-14 11:00:46.043466,f,17
+35,eyebrow middle,,,MULTIPLE,"",,t,,1,974,2024-11-14 13:07:25.868627,2024-11-14 13:07:25.868627,f,9
+7,Russian Volume Look,,,SINGLE,"",,t,,1,958,2024-10-09 12:32:46.203396,2024-10-09 12:32:46.203,f,6
+5,Root Bleach ( Toner not inc. ) ( up to 8 weeks),,,SINGLE,"",,t,,1,956,2024-10-09 12:25:20.578745,2024-10-09 12:25:20.578,f,6
+5,Full Head Bleach (Toner not inc.),,,SINGLE,"",,t,,1,955,2024-10-09 12:23:33.051868,2024-10-09 12:23:33.051,f,6
+71,"Full Facial & Back, Neck & Shoulder Massage",,,SINGLE,"",,t,,1,969,2024-10-23 10:24:37.072865,2024-10-23 10:24:37.072,t,17
+82,Upper Body,,,MULTIPLE,"",,t,,1,979,2024-12-06 10:03:31.385659,2024-12-06 10:03:31.385659,t,9
+35,Shoulder,,,MULTIPLE,"",,t,,1,976,2024-12-04 16:22:50.885031,2024-12-04 16:22:50.885,f,9
+74,BIAB Overlay,,,SINGLE,"",,t,,1,972,2024-11-14 10:59:49.73356,2024-11-14 10:59:49.733,f,17
+82,Arms And Under Arms,,,MULTIPLE,"",,t,,1,978,2024-12-06 09:56:24.88572,2024-12-06 09:56:24.885,t,9
+82,Laser Hair Removal For Face,,,SINGLE,processing,30,t,"",1,977,2024-12-06 09:53:33.073069,2024-12-06 09:53:33.073069,t,9
+64,Nose Inside,,,SINGLE,"",,t,,1,952,2024-09-30 13:25:01.868523,2024-09-30 13:25:01.868,f,17
+83,Buy 5 session get 2 free,,,SINGLE,"",,t,,1,981,2024-12-06 10:30:47.197269,2024-12-06 10:30:47.197269,f,9
+83,Arms And Under Arms,,,MULTIPLE,"",,t,,1,980,2024-12-06 10:26:06.62883,2024-12-06 10:26:06.628,f,9
+82,Face Hair removal,,,MULTIPLE,"",,t,,1,982,2024-12-06 10:34:06.424621,2024-12-06 10:34:06.424621,f,9
+82,Buy 5 session get 2 free,,,SINGLE,"",,t,,1,983,2024-12-06 10:36:04.912918,2024-12-06 10:36:04.912918,f,9
+84,Chest And Stomach,,,MULTIPLE,"",,t,,1,984,2024-12-06 10:38:40.172786,2024-12-06 10:38:40.172786,f,9
+85,Full Legs Laser,,,MULTIPLE,"",,t,,1,985,2024-12-06 10:47:17.945767,2024-12-06 10:47:17.945767,f,9
+86,Intimate Area Waxing,,,MULTIPLE,"",,t,,1,986,2024-12-06 11:43:47.589131,2024-12-06 11:43:47.589131,f,9
+86,Buy 5 session get 2 free,,,SINGLE,"",,t,,1,987,2024-12-06 11:45:00.507108,2024-12-06 11:45:00.507108,f,9
+89,Bikini Line,,,SINGLE,"",,t,,1,1024,2025-03-06 12:26:36.385192,2025-03-06 12:26:36.385192,f,17
+33,Hair Botox(From),,,MULTIPLE,"",,t,,1,1008,2025-02-17 16:12:17.371266,2025-02-17 16:12:17.371,f,9
+18,Manicure With Shellac Polish with French Tips,,,SINGLE,"",,t,,1,966,2024-10-13 10:14:37.476964,2024-10-13 10:14:37.476,f,6
+89,Chest,,,SINGLE,"",,t,,1,1025,2025-03-06 12:26:51.067005,2025-03-06 12:26:51.067,f,17
+37,Blackheads Removal,,,SINGLE,"",,t,,1,1042,2025-03-07 15:23:08.886613,2025-03-07 15:23:08.886613,t,9
+63,Smooth Smoothing Low Shampoo,,,SINGLE,"",,t,,1,1052,2025-03-08 15:37:12.864531,2025-03-08 15:37:12.864531,f,9
+63,Seejuice Small Sponge,,,SINGLE,"",,t,,1,1063,2025-03-09 10:57:16.622398,2025-03-09 10:57:16.622398,f,9
+63,USHAS Eyeshadow,,,SINGLE,"",,t,,1,1075,2025-03-09 11:11:14.028356,2025-03-09 11:11:14.028356,f,9
+63,Gift Voucher,,,SINGLE,"",,t,,1,1096,2025-03-16 16:32:12.882128,2025-03-16 16:32:12.882128,f,9
+18,BAIB overlay,,,SINGLE,"",,t,,1,962,2024-10-09 14:27:13.779459,2024-10-09 14:27:13.779,f,6
+40,FULL FACIAL AND FULL BODY MASSGE,,,SINGLE,"",,t,,1,953,2024-09-30 17:29:09.288408,2024-09-30 17:29:09.288,t,9
+40,Herbal Facial,,,SINGLE,"",,t,,1,1086,2025-03-13 15:43:33.157576,2025-03-13 15:43:33.157576,t,9
+40,Full Facial And Back shoulder and Neck Massage,,,SINGLE,"",,t,,1,989,2024-12-31 17:37:52.18054,2024-12-31 17:37:52.18,t,9
+40,Gold Facial,,,SINGLE,"",,t,,1,954,2024-09-30 17:30:44.311665,2024-09-30 17:30:44.311,t,9
+81,Micropigmentation,,,SINGLE,"",,f,"Micropigmentation for eyebrows, often referred to as permanent makeup or eyebrow tattooing, is a cosmetic procedure where pigment is implanted into the skin to create the appearance of fuller, more defined brows. Using a digital machine with fine needles, the pigment is deposited into the dermal layer, offering a long-lasting solution for individuals with sparse, thin, or uneven eyebrows.
+
+Unlike microblading, which creates hair-like strokes, micropigmentation generally results in a more solid, powdered effect, often resembling a filled-in brow look. It’s ideal for those seeking a bolder, more defined eyebrow appearance or those with oily skin, where microblading might fade more quickly.
+
+The results can last 1 to 3 years, depending on skin type and care, though touch-ups are recommended to maintain color and shape. A numbing cream is applied before the procedure to minimize discomfort, and aftercare involves gentle cleaning and moisturizing to promote proper healing.",1,948,2024-09-20 15:36:02.391508,2024-09-20 15:36:02.391,f,6
+65,Patch Test,,,SINGLE,"",,t,,1,990,2025-01-27 12:05:40.784307,2025-01-27 12:05:40.784307,f,17
+65,Henna Brow,,,SINGLE,"",,t,,1,991,2025-01-28 12:24:40.522533,2025-01-28 12:24:40.522533,f,17
+20,Full Body Massage (Reflexology),,,SINGLE,"",,t,"Massage involves the rubbing and manipulating of muscles, tendons, skin and ligaments. A full body massage offers multiple benefits, both physically and psychologically. A full body massage helps remove dead skin cells over the entire body for improved skin tone. The stimulated blood flow benefits the appearance and health of the skin. The massage can also encourage tissue regeneration, which may help reduce the appearance of scars and stretch marks . Depending on the kind being used, the massage oil may provide moisturizing and other benefits to the skin.
+
+•	A massage reduces stress levels in most people. Massage may also help manage or reduce the
+symptoms of anxiety and depression.
+•	A full body massage can relieve pain and stiffness.
+•	Massage increase circulation of Blood and increase circulation by assisting oxygen and nutrients
+to reach tissues and organs. A massage may help control blood pressure.
+•	The massage stimulates the lymphatic system, which assists the immune system protect the
+body.",9,133,2018-05-10 09:41:40.961072,2018-05-10 09:41:40.961,f,6
+87,Couple Pedicure,,,SINGLE,"",,t,,1,992,2025-02-01 11:53:41.406572,2025-02-01 11:53:41.406572,f,6
+87,Eyebrow Waxing + Tinting,,,SINGLE,"",,t,,1,993,2025-02-01 11:54:25.044137,2025-02-01 11:54:25.044137,f,6
+87,Shellac Polish Hand & Feet,,,SINGLE,"",,t,,1,994,2025-02-01 11:56:56.91873,2025-02-01 11:56:56.91873,f,6
+87,Any Eyelash Extention,,,SINGLE,"",,t,,1,995,2025-02-01 11:58:34.32947,2025-02-01 11:58:34.32947,f,6
+87,Hollywood,,,SINGLE,"",,t,,1,996,2025-02-01 12:02:10.395852,2025-02-01 12:02:10.395852,f,6
+87,Full Legs & Hollywood,,,SINGLE,"",,t,,1,997,2025-02-01 12:03:45.582251,2025-02-01 12:03:45.582251,f,6
+87,Head Massage & Foot Massage,,,SINGLE,"",,t,,1,998,2025-02-01 12:04:35.862251,2025-02-01 12:04:35.862,f,6
+79,Hand OR Feet,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",2,917,2024-08-14 11:31:00.327724,2024-08-14 11:31:00.327,f,6
+79,Chest,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",3,937,2024-08-14 15:10:29.266303,2024-08-14 15:10:29.266,f,6
+79,Nipple,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",3,921,2024-08-14 11:34:54.680019,2024-08-14 11:34:54.68,f,6
+79,Full Leg & Full Bikini,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",4,931,2024-08-14 11:44:10.104272,2024-08-14 11:44:10.104,f,6
+79,Full Leg & High Bikini,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",4,930,2024-08-14 11:43:19.654276,2024-08-14 11:43:19.654,f,6
+79,Full Leg & Bikini Line,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",4,929,2024-08-14 11:42:33.540001,2024-08-14 11:42:33.54,f,6
+79,Full leg,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",4,928,2024-08-14 11:41:39.480845,2024-08-14 11:41:39.48,f,6
+79,Upper Leg,,,SINGLE,"",,t,"Laser hair removal is a safe and effective treatment that uses laser light to target hair follicles, reducing hair growth over time. It is suitable for various body areas, including the face, legs, underarms, and bikini line. A patch test is required at least 24–48 hours before treatment to ensure skin compatibility and minimize risks. Multiple sessions are needed for optimal results, providing a long-term alternative to shaving and waxing.",4,926,2024-08-14 11:40:12.879023,2024-08-14 11:40:12.879,f,6
+74,Cut and file,,,SINGLE,"",,t,,1,1000,2025-02-02 14:10:22.099761,2025-02-02 14:10:22.099761,f,17
+87,"Back , Neck & Shoulder + Head Massage",,,SINGLE,"",,t,,1,999,2025-02-01 12:05:43.818514,2025-02-01 12:05:43.818,f,6
+88,Couple Pedicure (Normal Polish),,,SINGLE,"",,t,,1,1001,2025-02-07 11:40:58.604798,2025-02-07 11:40:58.604798,f,9
+88,Shellac Polish - Hands & Feet,,,SINGLE,"",,t,,1,1002,2025-02-07 11:41:55.595211,2025-02-07 11:41:55.595211,f,9
+88,Any Lash Extension,,,SINGLE,"",,t,,1,1003,2025-02-07 11:42:32.141691,2025-02-07 11:42:32.141691,f,9
+34,Full Body Massage,,,SINGLE,"",,t,"Massage involves the rubbing and manipulating of muscles, tendons, skin and ligaments. A full body massage offers multiple benefits, both physically and psychologically. A full body massage helps remove dead skin cells over the entire body for improved skin tone. The stimulated blood flow benefits the appearance and health of the skin. The massage can also encourage tissue regeneration, which may help reduce the appearance of scars and stretch marks . Depending on the kind being used, the massage oil may provide moisturizing and other benefits to the skin. •	A massage reduces stress levels in most people. Massage may also help manage or reduce the symptoms of anxiety and depression. •	A full body massage can relieve pain and stiffness. •	Massage increase circulation of Blood and increase circulation by assisting oxygen and nutrients to reach tissues and organs. A massage may help control blood pressure. •	The massage stimulates the lymphatic system, which assists the immune system protect the body.",1,273,2018-05-22 07:24:06.250891,2018-05-22 07:24:06.25,f,9
+37,Led Light,,,SINGLE,"",,t,,1,1100,2025-04-05 15:19:43.387894,2025-04-05 15:19:43.387894,f,9
+31,Cut and Shape,,,SINGLE,"",,t,,1,1102,2025-04-11 08:30:42.660797,2025-04-11 08:30:42.660797,f,9
+32,Cut and Shape,,,SINGLE,"",,t,,1,1101,2025-04-10 08:51:41.59039,2025-04-10 08:51:41.59,f,9
+32,Pedicure Mask,,,SINGLE,"",,t,,1,1103,2025-04-12 08:51:30.854112,2025-04-12 08:51:30.854112,f,9
+37,LED Light mask,,,SINGLE,"",,t,,1,1104,2025-04-13 12:40:56.092052,2025-04-13 12:40:56.092052,f,9
+27,sholder,,,SINGLE,"",,t,,1,1105,2025-04-14 13:48:12.541131,2025-04-14 13:48:12.541131,f,9
+67,Half head root color,,,SINGLE,"",,f,,1,1106,2025-04-17 09:41:39.158128,2025-04-17 09:41:39.158128,f,17
+33,consultation,,,SINGLE,"",,f,,1,1107,2025-04-22 17:29:51.393943,2025-04-22 17:29:51.393943,f,9
+67,Ammonia Free Root Colour (Loreal/Inoa) Under 6 weeks,,,SINGLE,"",,t,,1,755,2023-09-02 10:16:49.430131,2023-09-02 10:16:49.43,f,17
+37,Shahnaz Gold Facial,,,SINGLE,"",,t,"Shahnaz Gold facial is a soft metal and hence is beneficial to the skin. It helps improving blood circulation, removes toxins from the skin, lightens pigmentation and reduces production of Melanin, cures sunburns and rejuvenates the skin. It provides a golden glow to the skin and is preferred for special occasions. Benefits of gold facials are, .Shahnaz Gold Facial can be customized for both oily and dry skin types. •	It helps in betterment of blood circulation. •	The process of cell renewal is made fast by gold facial. •	It also helps in lymphatic drainage and toxin removal. •Shahnaz Gold facial works wonders in rejuvenation of skin and enhancement of elasticity of skin. •Shahnaz Gold facial has anti-aging properties and helps in reduction of fine lines. •Shahnaz Gold facial fixes oxidation damages and sun damages that skin suffers from. •	Pigmentation control and melanin-formation are unique capacities of Shahnaz gold facial and thus, to some extent assists in complexion lightening.",4,288,2018-05-22 08:03:39.852764,2018-05-22 08:03:39.852,f,9
+40,Full Facial & Full body massage,,,SINGLE,"",,t,,1,1108,2025-04-26 13:41:54.815578,2025-04-26 13:41:54.815,f,9
+40,Gold Facial & Full body massage,,,SINGLE,"",,t,,1,1109,2025-04-26 13:42:52.322325,2025-04-26 13:42:52.322,f,9
+91,BIAB Infills,,,SINGLE,"",,t,,1,1111,2025-05-11 11:30:57.889213,2025-05-11 11:30:57.889213,f,9
+91,BIAB Overlay,,,SINGLE,"",,t,,1,1110,2025-05-11 11:30:26.489522,2025-05-11 11:30:26.489,f,9
+28,Patch test,,,SINGLE,"",,f,,1,1112,2025-05-12 10:22:59.156132,2025-05-12 10:22:59.156132,f,9
+ALTER TABLE ONLY "public"."services" ADD CONSTRAINT "services_company_fk" FOREIGN KEY (company_id) REFERENCES company(company_id) NOT DEFERRABLE;
+ALTER TABLE ONLY "public"."services" ADD CONSTRAINT "services_service_group_fk" FOREIGN KEY (service_group_id) REFERENCES service_group(service_group_id) NOT DEFERRABLE;
+

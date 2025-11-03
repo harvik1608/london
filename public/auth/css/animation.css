@@ -1,0 +1,194 @@
+.step-move
+{
+    animation: move 0.5s linear forwards;
+}
+.step-move.m25
+{
+    animation-name: move-25;
+}
+@keyframes move-25
+{
+    from
+    {
+        width: 25%;
+    }
+    to
+    {
+        width: 0%;
+    }
+}
+.step-move.m50
+{
+    animation-name: move-50;
+}
+@keyframes move-50
+{
+    from
+    {
+        width: 0%;
+    }
+    to
+    {
+        width: 25%;
+    }
+}
+.step-move.m75
+{
+    animation-name: move-75;
+}
+@keyframes move-75
+{
+    from
+    {
+        width: 25%;
+    }
+    to
+    {
+        width: 50%;
+    }
+}
+.step-move.m100
+{
+    animation-name: move-100;
+}
+@keyframes move-100
+{
+    from
+    {
+        width: 50%;
+    }
+    to
+    {
+        width: 75%;
+    }
+}
+.form-buttons button:hover .phone-ring
+{
+    animation: ring 0.5s ease forwards;
+}
+@keyframes ring {
+    0%
+    {
+        transform: translateX(-3px) rotate(-2deg);
+    }
+    50%
+    {
+        transform: translateX(3px) rotate(2deg);
+    }
+    100%
+    {
+        transform: none;
+    }
+}
+.steps::before
+{
+    animation: fadein 0.5s ease forwards;
+}
+@keyframes fadein {
+    from
+    {
+        opacity: 1;
+        z-index: 0;
+    }
+    to
+    {
+        opacity: 0;
+        z-index: -1;
+    }
+}
+.pop-slide
+{
+    animation: pop-slide 0.5s ease forwards;
+}
+@keyframes pop-slide
+{
+    0%
+    {
+        transform: translateX(500px) scale(0.5);
+    }
+    70%
+    {
+        transform: translate(0px) scale(0.5);
+    }
+    100%
+    {
+        transform: translate(0px) scale(1);
+    }
+}
+
+
+.thankyou-circle
+{
+  animation: circle 0.5s linear forwards;
+}
+@keyframes circle 
+{
+  0%
+  {
+    clip-path: circle(0%);
+  }  
+  100%
+  {
+    clip-path: circle(100%);
+  }  
+}
+/*tick animation*/
+
+@keyframes rotate-circle
+{
+  25% 
+  {
+
+  		border-left-color: rgb(34,208,136);
+  }
+  50% 
+  {
+
+  		border-left-color: rgb(34,208,136);
+  		border-top-color: rgb(34,208,136);
+  }
+  75% 
+  {
+
+  		border-left-color: rgb(34,208,136);
+  		border-top-color: rgb(34,208,136);
+  		border-right-color: rgb(34,208,136);
+  }
+  100% 
+  {
+  		transform: rotate(360deg);
+  		border-color: rgb(34,208,136);
+  }
+}
+
+@keyframes tick-icon
+{
+  0%
+  {
+    font-size: 0;
+    opacity: 1;
+    top: 50%;
+  }
+  20%
+  {
+    font-size: 10px;
+    top: 45%;
+  }
+  40%
+  {
+    font-size: 20px;
+    top: 40%;
+  }
+  70%
+  {
+    font-size: 200px;
+    top: 0;
+  }
+  100%
+  {
+    font-size: 50px;
+    opacity: 1;
+    top: 30%;
+  }
+}
+
