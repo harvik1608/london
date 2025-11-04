@@ -48,6 +48,7 @@
 											<td><?php echo $service_group['position']; ?></td>
 											<td>
 												<a class="btn btn-sm btn-success" href="<?php echo base_url('service_groups/'.$service_group['id'].'/edit'); ?>"><i class="fa fa-edit text-white"></i></a>
+												<a class="btn btn-sm btn-info" href="<?php echo base_url('service_groups/'.$service_group['id']); ?>"><i class="fa fa-sort text-white"></i></a>
 												<!-- <a class="btn btn-sm btn-danger" href="javascript:;" onclick="remove_row('<?php echo base_url('service_groups/'.$service_group['id']); ?>',0,'Are you sure to remove this service group?')"><i class="fa fa-trash text-white"></i></a> -->
 											</td>
 										</tr>

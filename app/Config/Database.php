@@ -27,9 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'u810214334_all_salon_user',
-        'password'     => '9?=i]xeh^Wf',
-        'database'     => 'u810214334_all_salon',
+        'username'     => 'root',
+        'password'     => '',
+        'database'     => 'db_salon',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,

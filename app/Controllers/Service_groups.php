@@ -2,6 +2,8 @@
     namespace App\Controllers;
 
     use App\Models\Service_group;
+    use App\Models\SubServiceModel;
+    use App\Models\CompanyModel;
 
     class Service_groups extends BaseController
     {
@@ -138,5 +140,79 @@
 
             echo json_encode(array("status" => 200));
             exit;
+        }
+
+        public function show($id)
+        {
+            if(isset($this->userdata["id"])) {
+                if(check_permission("groups")) {
+                    $model = New Service_group;
+                    $data["service_group"] = $model->where("id",$id)->where("is_deleted",0)->get()->getRowArray();
+                    if($data["service_group"]) {
+                        $orderByField = $this->fetch_salon_field();
+
+                        $ids = [];
+                        $model = new CompanyModel;
+                        $services = $model->select("company_services")->where("id",static_company_id())->first();
+                        if(!empty($services)) {
+                            $ids = explode(",",$services["company_services"]);
+                        }
+                        $model = new SubServiceModel;
+                        $builder = $model->select("id,name")->where(["service_group_id" => $id,"is_active" => '1',"is_deleted" => 0]);
+                        if(!empty($ids)) {
+                            $builder->whereIn('id', $ids);
+                        }
+                        $data["services"] = $builder->orderBy($orderByField,'asc')->get()->getResultArray();
+
+                        return view('admin/service_group/view',$data);
+                    } else {
+                        return redirect("service_groups");
+                    }
+                } else {
+                    return redirect("dashboard");
+                }
+            }
+        }
+
+        public function update_service_order()
+        {
+            $post = $this->request->getVar();
+            $orderByField = $this->fetch_salon_field();
+
+            $update_data = [];
+            foreach($post["order"] as $key => $val) {
+                $update_data[] = array(
+                    'id' => $val,
+                    $orderByField => $key+1
+                );
+            }
+            $db = \Config\Database::connect();
+            $builder = $db->table('services');
+            $builder->updateBatch($update_data, 'id');
+
+            echo json_encode(["status" => 200,"message" => "Sequence changed successfully."]);
+            exit;
+        }
+
+        public function fetch_salon_field()
+        {
+            switch(static_company_id()) {
+                case 1:
+                    $orderByField = "embellish_position";
+                    break;
+
+                case 2:
+                    $orderByField = "elm_position";
+                    break;
+
+                case 3:
+                    $orderByField = "elsa_position";
+                    break;
+
+                default:
+                    $orderByField = "embrace_position";
+                    break;
+            }
+            return $orderByField;
         }
     }

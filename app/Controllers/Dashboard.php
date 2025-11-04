@@ -299,7 +299,11 @@
             if(!empty($ids)) {
                 $model->whereIn("id",$ids);
             }
-            $model->orderBy('position','asc');
+            if(static_company_id() == 3) {
+                $model->orderBy('elsa_position','asc');
+            } else {
+                $model->orderBy('position','asc');
+            }
             $services = $model->get()->getResultArray();
             $data["services"] = $services;
 

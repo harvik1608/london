@@ -207,6 +207,7 @@ $routes->resource('service_groups');
 $routes->resource('services');
 $routes->get('/add-service-price/(:any)', 'Services::add_service_price/$1');
 $routes->post('/new-service-price/(:any)', 'Services::new_service_price/$1');
+$routes->post('/update-service-order', 'Service_groups::update_service_order');
 
 $routes->resource('customers');
 $routes->resource('discount_types');
