@@ -4,6 +4,7 @@
     use CodeIgniter\RESTful\ResourceController;
     use CodeIgniter\API\ResponseTrait;
     use App\Models\CustomerConsentModel;
+    use App\Models\WebsiteEntry;
 
     class Api_form extends ResourceController
     {
@@ -68,16 +69,24 @@
                 $response[RESPONSE_MESSAGE] = RESPONSE_INVALID_KEY;
                 return $this->respond($response);
             } else {
+                $_date = date("Y-m-d H:i:s",strtotime("-15 minutes"));
+                $where = ["company_id" => $post["company_id"],"customer_id" => $post["customer_id"]];
+                $model = new WebsiteEntry;
+                $entries = $model->where($where)->where("datetime >=",$_date)->get()->getResultArray();
+                $serviceIds = array_column($entries, "service_id");
+
                 $db = db_connect();
                 $query = $db->table("staff_timings st");
-                $query = $query->select("st.date");
-                $query = $query->where("st.companyId", $post["company_id"]);
-                $query = $query->where("st.date >=", date('Y-m-d'));
-                $query = $query->groupBy("st.date");
+                $query->select("st.date, st.staffId");
+                $query->join("staff_services ss", "ss.staff_id = st.staffId");
+                $query->where("st.companyId", $post["company_id"]);
+                $query->where("st.date >=", date('Y-m-d'));
+                $query->whereIn("ss.service_id", $serviceIds);
+                $query->groupBy(["st.date", "st.staffId"]);
                 $result = $query->get()->getResultArray();
-                if($result) {
-                    $dates = array_column($result, "date");
-                    
+                if ($result) {
+                    $dates = array_unique(array_column($result, "date"));
+
                     $response[RESPONSE_STATUS] = RESPONSE_FLAG_SUCCESS;
                     $response[RESPONSE_MESSAGE] = "";
                     $response[RESPONSE_DATA] = $dates;

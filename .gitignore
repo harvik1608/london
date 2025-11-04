@@ -1,0 +1,6 @@
+# Writable runtime data (should never be versioned)
+writable/cache/
+writable/debugbar/
+writable/logs/
+writable/session/
+writable/uploads/
