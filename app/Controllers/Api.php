@@ -801,14 +801,14 @@
                                 if($customer_email != "" && $customer_email != "vch242516@gmail.com") {
                                     $emaildata["is_for_admin"] = 1;
                                     $html = view("template/book_appointment",$emaildata);
-                                    send_email($company["company_email"],"New Appointment Booked",$html,$company);
+                                    // send_email($company["company_email"],"New Appointment Booked",$html,$company);
                                 }
                                 if($customer_email != "" && $isConfirmationEmailSend == 1) {
                                     $emaildata["is_for_admin"] = 0;
                                     $html = view("template/book_appointment",$emaildata);
-                                    send_email($customer_email,"New Appointment Booked",$html,$company);
+                                    // send_email($customer_email,"New Appointment Booked",$html,$company);
                                 }
-                                send_whatsapp_msg($appointment_id);    
+                                // send_whatsapp_msg($appointment_id);    
                             }
                             $status = RESPONSE_FLAG_SUCCESS;
                             $message = "Appointment booked successfully.";
