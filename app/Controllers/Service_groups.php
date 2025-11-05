@@ -177,14 +177,30 @@
         public function update_service_order()
         {
             $post = $this->request->getVar();
-            $orderByField = $this->fetch_salon_field();
 
             $update_data = [];
             foreach($post["order"] as $key => $val) {
-                $update_data[] = array(
-                    'id' => $val,
-                    $orderByField => $key+1
-                );
+                if(static_company_id() == 1) {
+                    $update_data[] = array(
+                        'id' => $val,
+                        "embellish_position" => ($key+1)
+                    );
+                } else if(static_company_id() == 2) {
+                    $update_data[] = array(
+                        'id' => $val,
+                        "elm_position" => ($key+1)
+                    );
+                } else if(static_company_id() == 3) {
+                    $update_data[] = array(
+                        'id' => $val,
+                        "elsa_position" => ($key+1)
+                    );
+                } else {
+                    $update_data[] = array(
+                        'id' => $val,
+                        "embrace_position" => ($key+1)
+                    );
+                }
             }
             $db = \Config\Database::connect();
             $builder = $db->table('services');

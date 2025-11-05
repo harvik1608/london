@@ -299,8 +299,14 @@
             if(!empty($ids)) {
                 $model->whereIn("id",$ids);
             }
-            if(static_company_id() == 3) {
+            if(static_company_id() == 1) {
+                $model->orderBy('embellish_position','asc');
+            } else if(static_company_id() == 2) {
+                $model->orderBy('elm_position','asc');
+            } else if(static_company_id() == 3) {
                 $model->orderBy('elsa_position','asc');
+            } else if(static_company_id() == 4) {
+                $model->orderBy('embrace_position','asc');
             } else {
                 $model->orderBy('position','asc');
             }

@@ -373,8 +373,26 @@
                 if($company)
                 {
                     $company_services = explode(",",$company["company_services"]);
+                    $orderByField = "position";
+                    switch($post["company_id"]) {
+                        case 1:
+                            $orderByField = "embellish_position";
+                            break;
+
+                        case 2:
+                            $orderByField = "elm_position";
+                            break;
+
+                        case 3:
+                            $orderByField = "elsa_position";
+                            break;
+
+                        case 4:
+                            $orderByField = "embrace_position";
+                            break;
+                    }
                     $model = new SubServiceModel;
-                    $sub_treatments = $model->where(["is_old_data" => 0,"is_deleted" => 0])->where("service_group_id",$post["service_id"])->whereIn("id",$company_services)->orderBy("id","asc")->get()->getResultArray();
+                    $sub_treatments = $model->where(["is_old_data" => 0,"is_deleted" => 0])->where("service_group_id",$post["service_id"])->whereIn("id",$company_services)->orderBy($orderByField,"asc")->get()->getResultArray();
                     if($sub_treatments)
                     {
                         foreach($sub_treatments as $key => $val) {
