@@ -153,6 +153,7 @@
                         $model->update($entry["id"],["discount_amount" => 0]);
                     }
                 }
+                
                 $model = new WebsiteEntry;
                 $entries = $model->where($where)->where("datetime >=",$date_15)->get()->getResultArray();
                 if($entries) {
@@ -197,9 +198,14 @@
                         $closingTime = strtotime($company["company_etime"]);
                     }
                 }
-
+                $total_duration = 0;
                 $model = new WebsiteEntry;
-                $entries = $model->where($where)->where("datetime >=", $date_15)->get()->getResultArray();
+                $entries = $model->where($where)->where("datetime >=", $date_15)->where("is_final",1)->get()->getResultArray();
+                if($entries) {
+                    foreach($entries as $entry) {
+                        $total_duration += (int) $entry["duration"];
+                    }
+                }
                 $serviceIds = array_column($entries, "service_id");
                 if(!empty($serviceIds)) {
                     $db = db_connect();
@@ -208,7 +214,7 @@
                     $query->select("ss.staff_id, ss.service_id, st.date, st.stime AS staff_stime, st.etime AS staff_etime");
                     $query->join("staff_timings st", "st.staffId = ss.staff_id");
                     $query->where("st.companyId", $post["company_id"]);
-                    $query->where("st.date", date('Y-m-d'));
+                    $query->where("st.date", $date);
                     $query->whereIn("ss.service_id", $serviceIds);
                     $staffData = $query->get()->getResultArray();   
                     if(!empty($staffData)) {
@@ -220,15 +226,8 @@
                                 "etime" => $row["staff_etime"]
                             ];
                         }
+                        $time_slots = generate_slots($openingTime,$closingTime,$total_duration);
                         
-                        $interval = 5 * 60;
-                        $time_slots = [];
-                        for ($time = $openingTime; $time < $closingTime; $time += $interval) {
-                            $time_slots[] = [
-                                "stime" => date("H:i:s", $time),
-                                "etime" => date("H:i:s", $time + $interval)
-                            ];
-                        }
                         $busyQuery = $db->table("carts c");
                         $busyQuery = $busyQuery->select("c.stime, c.etime, c.staffId");
                         $busyQuery = $busyQuery->where("c.date", $date);
@@ -272,11 +271,6 @@
                                         $staffStart = $staff_timings[$sid]['stime'];
                                         $staffEnd = $staff_timings[$sid]['etime'];
 
-                                        // Skip if outside staff working hours
-                                        // if ($slotStart < $staff_timings[$sid]['stime'] || $slotEnd > $staff_timings[$sid]['etime']) {
-                                        //     continue;
-                                        // }
-
                                         if ($slotStart < $staffStart || $slotEnd > $staffEnd) {
                                             continue;
                                         }
@@ -302,12 +296,7 @@
                                 }
                             }
                         } else {
-                            foreach ($time_slots as $slot) {
-                                $free_slots[] = [
-                                    "stime" => $slot["stime"],
-                                    "etime" => $slot["etime"]
-                                ];
-                            }
+                            $time_slots = generate_slots($openingTime,$closingTime,$total_duration);
                         }
                     }
                 }
