@@ -842,30 +842,30 @@
         }
     }
 
-        function getClientIp()
-        {
-            $request = \Config\Services::request();
+    function getClientIp()
+    {
+        $request = \Config\Services::request();
 
-            // Cloudflare header (most reliable if you're on Cloudflare)
-            $cfIp = $request->getServer('HTTP_CF_CONNECTING_IP');
-            if (!empty($cfIp)) {
-                return $cfIp;
-            }
-
-            // Generic proxy header
-            $xff = $request->getServer('HTTP_X_FORWARDED_FOR');
-            if (!empty($xff)) {
-                // Usually contains a comma-separated list
-                $ips = explode(',', $xff);
-                return trim($ips[0]);
-            }
-
-            // X-Real-IP header
-            $xRealIp = $request->getServer('HTTP_X_REAL_IP');
-            if (!empty($xRealIp)) {
-                return $xRealIp;
-            }
-
-            // Default fallback (direct connection)
-            return $request->getIPAddress();
+        // Cloudflare header (most reliable if you're on Cloudflare)
+        $cfIp = $request->getServer('HTTP_CF_CONNECTING_IP');
+        if (!empty($cfIp)) {
+            return $cfIp;
         }
+
+        // Generic proxy header
+        $xff = $request->getServer('HTTP_X_FORWARDED_FOR');
+        if (!empty($xff)) {
+            // Usually contains a comma-separated list
+            $ips = explode(',', $xff);
+            return trim($ips[0]);
+        }
+
+        // X-Real-IP header
+        $xRealIp = $request->getServer('HTTP_X_REAL_IP');
+        if (!empty($xRealIp)) {
+            return $xRealIp;
+        }
+
+        // Default fallback (direct connection)
+        return $request->getIPAddress();
+    }

@@ -1502,7 +1502,6 @@
                 	foreach($carts as $key => $val) {
                 		$carts[$key]["currency"] = $currency;
                 		$service_ids[] = $val["service_id"];
-                		// $post["duration"] += $val["duration"];
                 		$post["duration"] += $this->ceilToNextFive($val["duration"]);
                 	}
                 	

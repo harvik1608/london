@@ -44,6 +44,7 @@ $routes->post('/api/check_code_exist', 'Api::check_code_exist');
 $routes->post('/api/offers', 'Api_other::offers');
 $routes->post('/api/check-staff-time', 'Api_salon::check_staff_time');
 $routes->post('/api/submit_consent_form', 'Api_form::submit_consent_form');
+$routes->post('/api/fetch_available_slots', 'Api_form::fetch_available_slots');
 
 // Mobile APIs
 $routes->post('/mobileapi/sign-in', 'Api_mobile::sign_in');
