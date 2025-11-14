@@ -128,7 +128,7 @@
                 <li>
                     <a class="app-menu__item" href="<?php echo base_url('dashboard'); ?>">
                         <i class="app-menu__icon fa fa-dashboard"></i>
-                        <span class="app-menu__label"><small>Dashboard</small></span>
+                        <span class="app-menu__label">Dashboard</span>
                     </a>
                 </li>
                 <?php
@@ -137,7 +137,7 @@
                         <li class="permission" data-name="staffs" data-title="Staffs">
                             <a class="app-menu__item" href="<?php echo base_url('staffs'); ?>">
                                 <i class="app-menu__icon fa fa-users"></i>
-                                <span class="app-menu__label"><small>Staffs</small></span>
+                                <span class="app-menu__label">Staffs</span>
                             </a>
                         </li>
                 <?php
@@ -147,7 +147,7 @@
                         <li class="permission" data-name="staff_timing" data-title="Staff Timings">
                             <a class="app-menu__item" href="<?php echo base_url('staff_timings'); ?>">
                                 <i class="app-menu__icon fa fa-clock-o"></i>
-                                <span class="app-menu__label"><small>Staff Timings</small></span>
+                                <span class="app-menu__label">Staff Timings</span>
                             </a>
                         </li>
                 <?php
@@ -157,7 +157,7 @@
                         <li class="permission" data-name="groups" data-title="Service Groups">
                             <a class="app-menu__item" href="<?php echo base_url('service_groups'); ?>">
                                 <i class="app-menu__icon fa fa-dashboard"></i>
-                                <span class="app-menu__label"><small>Service Groups</small></span>
+                                <span class="app-menu__label">Service Groups</span>
                             </a>
                         </li>
                 <?php
@@ -167,37 +167,7 @@
                         <li class="permission" data-name="sub_services" data-title="Services">
                             <a class="app-menu__item" href="<?php echo base_url('services'); ?>">
                                 <i class="app-menu__icon fa fa-dashboard"></i>
-                                <span class="app-menu__label"><small>Services</small></span>
-                            </a>
-                        </li>
-                <?php
-                    }
-                    if(check_permission("customers")) {
-                ?>
-                        <li class="permission" data-name="customers" data-title="Customers">
-                            <a class="app-menu__item" href="<?php echo base_url('customers'); ?>">
-                                <i class="app-menu__icon fa fa-users"></i>
-                                <span class="app-menu__label"><small>Customers</small></span>
-                            </a>
-                        </li>
-                <?php
-                    }
-                    if(check_permission("payment_types")) {
-                ?>
-                        <li class="permission" data-name="payment_types" data-title="Payment Types">
-                            <a class="app-menu__item" href="<?php echo base_url('payment_types'); ?>">
-                                <i class="app-menu__icon fa fa-dollar"></i>
-                                <span class="app-menu__label"><small>Payment Types</small></span>
-                            </a>
-                        </li>
-                <?php
-                    }
-                    if(check_permission("discount_types")) {
-                ?>
-                        <li class="permission" data-name="discount_types" data-title="Discount Types">
-                            <a class="app-menu__item" href="<?php echo base_url('discount_types'); ?>">
-                                <i class="app-menu__icon fa fa-dashboard"></i>
-                                <span class="app-menu__label"><small>Discount Types</small></span>
+                                <span class="app-menu__label">Services</span>
                             </a>
                         </li>
                 <?php
@@ -207,47 +177,27 @@
                         <li class="permission" data-name="weekend_discount" data-title="Weekday Discounts">
                             <a class="app-menu__item" href="<?php echo base_url('discounts'); ?>">
                                 <i class="app-menu__icon fa fa-dashboard"></i>
-                                <span class="app-menu__label"><small>Weekday Discounts</small></span>
+                                <span class="app-menu__label">Weekday Discounts</span>
                             </a>
                         </li>
                 <?php
                     }
-                    if(check_permission("daily_reports")) {
+                    if(check_permission("customers")) {
                 ?>
-                        <li class="permission" data-name="daily_reports" data-title="Daily Reports">
-                            <a class="app-menu__item" href="<?php echo base_url('daily-reports'); ?>">
-                                <i class="app-menu__icon fa fa-dashboard"></i>
-                                <span class="app-menu__label"><small>Daily Reports</small></span>
+                        <li class="permission" data-name="customers" data-title="Customers">
+                            <a class="app-menu__item" href="<?php echo base_url('customers'); ?>">
+                                <i class="app-menu__icon fa fa-users"></i>
+                                <span class="app-menu__label">Customers</span>
                             </a>
                         </li>
-                <?php
-                    }
-                    if(check_permission("gallery")) {
-                ?>
-                        <li class="permission" data-name="gallery" data-title="Gallery">
-                            <a class="app-menu__item" href="<?php echo base_url('photos'); ?>">
-                                <i class="app-menu__icon fa fa-photo"></i>
-                                <span class="app-menu__label"><small>Gallery</small></span>
-                            </a>
-                        </li>
-                <?php
-                    }
-                    if(check_permission("review")) {
-                ?>
-                        <li class="permission" data-name="review" data-title="Reviews">
-                            <a class="app-menu__item" href="<?php echo base_url('reviews'); ?>">
-                                <i class="app-menu__icon fa fa-comment"></i>
-                                <span class="app-menu__label"><small>Reviews</small></span>
-                            </a>
-                        </li>
-                <?php
+                <?php 
                     }
                     if(check_permission("companies")) {
                 ?>
                         <li class="permission" data-name="companies" data-title="Companies">
                             <a class="app-menu__item" href="<?php echo base_url('companies'); ?>">
                                 <i class="app-menu__icon fa fa-bank"></i>
-                                <span class="app-menu__label"><small>Companies</small></span>
+                                <span class="app-menu__label">Companies</span>
                             </a>
                         </li>
                 <?php
@@ -257,13 +207,84 @@
                          <li class="permission" data-name="whatsapps" data-title="Whatsapps">
                             <a class="app-menu__item" href="<?php echo base_url('whatsapp'); ?>">
                                 <i class="app-menu__icon fa fa-comments"></i>
-                                <span class="app-menu__label"><small>Whatsapps</small></span>
+                                <span class="app-menu__label">Whatsapps</span>
                                 <i class="pull-right" id="unread_count">0</i>
                             </a>
                         </li>
                 <?php
                     }
+                    if(check_permission("daily_reports")) {
                 ?>
+                        <li class="permission" data-name="daily_reports" data-title="Daily Reports">
+                            <a class="app-menu__item" href="<?php echo base_url('daily-reports'); ?>">
+                                <i class="app-menu__icon fa fa-dashboard"></i>
+                                <span class="app-menu__label">Daily Reports</span>
+                            </a>
+                        </li>
+                <?php
+                    }
+                ?>
+                <li class="treeview">
+                    <a class="app-menu__item" href="#" data-toggle="treeview">
+                        <i class="app-menu__icon fa fa-laptop"></i>
+                        <span class="app-menu__label">Master Modules</span>
+                        <i class="treeview-indicator fa fa-chevron-right"></i>
+                    </a>
+                    <ul class="treeview-menu">
+                        <?php
+                            if(check_permission("consent_forms")) {
+                        ?>
+                                <li class="permission" data-name="consent_forms" data-title="Consent Forms">
+                                    <a class="treeview-item" href="<?php echo base_url('consent_forms'); ?>">
+                                        <i class="app-menu__icon fa fa-file"></i>
+                                        <span class="app-menu__label">Consent Forms</span>
+                                    </a>
+                                </li>
+                        <?php
+                            }
+                            if(check_permission("payment_types")) {
+                        ?>
+                                <li class="permission" data-name="payment_types" data-title="Payment Types">
+                                    <a class="treeview-item" href="<?php echo base_url('payment_types'); ?>">
+                                        <i class="app-menu__icon fa fa-dollar"></i>
+                                        <span class="app-menu__label">Payment Types</span>
+                                    </a>
+                                </li>
+                        <?php
+                            }
+                            if(check_permission("discount_types")) {
+                        ?>
+                                <li class="permission" data-name="discount_types" data-title="Discount Types">
+                                    <a class="treeview-item" href="<?php echo base_url('discount_types'); ?>">
+                                        <i class="app-menu__icon fa fa-dashboard"></i>
+                                        <span class="app-menu__label">Discount Types</span>
+                                    </a>
+                                </li>
+                        <?php
+                            }
+                            if(check_permission("gallery")) {
+                        ?>
+                                <li class="permission" data-name="gallery" data-title="Gallery">
+                                    <a class="treeview-item" href="<?php echo base_url('photos'); ?>">
+                                        <i class="app-menu__icon fa fa-photo"></i>
+                                        <span class="app-menu__label">Gallery</span>
+                                    </a>
+                                </li>
+                        <?php
+                            }
+                            if(check_permission("review")) {
+                        ?>
+                                <li class="permission" data-name="review" data-title="Reviews">
+                                    <a class="app-menu__item" href="<?php echo base_url('reviews'); ?>">
+                                        <i class="app-menu__icon fa fa-comment"></i>
+                                        <span class="app-menu__label">Reviews</span>
+                                    </a>
+                                </li>
+                        <?php
+                            }
+                        ?>
+                    </ul>
+                </li>
             </ul>
         </aside>
         <main class="app-content">

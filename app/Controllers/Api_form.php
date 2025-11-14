@@ -241,13 +241,20 @@
                                 $closingTime = max(array_map(fn($t) => strtotime($t['etime']), $staff_timings));
                             }
                             $isStaffBusy = function ($staffId, $slotStart, $slotEnd) use ($busySlots) {
+                                $slotStartTS = strtotime($slotStart);
+                                $slotEndTS   = strtotime($slotEnd);
                                 foreach ($busySlots as $busy) {
                                     if ($busy['staffId'] == $staffId) {
-                                        if (
-                                            ($slotStart >= $busy['stime'] && $slotStart < $busy['etime']) ||
-                                            ($slotEnd > $busy['stime'] && $slotEnd <= $busy['etime']) ||
-                                            ($slotStart <= $busy['stime'] && $slotEnd >= $busy['etime'])
-                                        ) {
+                                        $busyStartTS = strtotime($busy['stime']);
+                                        $busyEndTS   = strtotime($busy['etime']);
+
+                                        // ❌ Reject if any overlap
+                                        if ($slotStartTS < $busyEndTS && $slotEndTS > $busyStartTS) {
+                                            return true;
+                                        }
+
+                                        // ❌ Reject if slot end goes even 1 second past a busy start
+                                        if ($slotEndTS > $busyStartTS && $slotStartTS < $busyStartTS) {
                                             return true;
                                         }
                                     }
@@ -296,7 +303,7 @@
                                 }
                             }
                         } else {
-                            $time_slots = generate_slots($openingTime,$closingTime,$total_duration);
+                            $free_slots = generate_slots($openingTime,$closingTime,$total_duration);
                         }
                     }
                 }

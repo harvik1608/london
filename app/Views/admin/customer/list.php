@@ -24,8 +24,8 @@
 								<th width="5%">No</th>
                                 <th width="30%">Name</th>
                                 <th width="30%">Email</th>
-                                <th width="25%">Mobile No.</th>
-                                <th width="10%">Action</th>
+                                <th width="20%">Mobile No.</th>
+                                <th width="15%">Action</th>
 							</tr>
 						</thead>
 						<tbody>

@@ -216,6 +216,14 @@ $routes->resource('payment_types');
 $routes->resource('discounts');
 $routes->resource('photos');
 $routes->resource('companies');
+$routes->resource('consent_forms');
+$routes->get('/add-more-consent-questions', 'Consent_forms::add_more_row');
+$routes->get('/add-more-option', 'Consent_forms::add_more_option');
+$routes->post('/customer-consent-form/(:any)', 'Customers::customer_consent_form/$1');
+$routes->get('/delete-more-option', 'Consent_forms::delete_more_option');
+$routes->get('/delete-more-question', 'Consent_forms::delete_more_question');
+$routes->post('/get-customer-consent-forms', 'Customers::get_customer_consent_form');
+$routes->get('/customer-consent-form-history/(:any)', 'Customers::customer_consent_form_history/$1');
 
 $routes->get('/import-customer/(:any)/(:any)', 'Henisha::index/$1/$2');
 $routes->get('/import-old-data', 'Henisha::import_old_data');

@@ -872,15 +872,14 @@
 
     function generate_slots($openingTime,$closingTime,$total_duration)
     {
-        $interval = 5 * 60;
+        $step = 5 * 60; 
+        $duration = $total_duration * 60;
         $time_slots = [];
-        for ($time = $openingTime; $time < $closingTime; $time += $interval) {
-            $slot_start = $time;
-            $slot_end = $time + $interval;
 
-            if (($slot_start + ($total_duration * 60)) > $closingTime) {
-                break; 
-            }
+        for ($time = $openingTime; $time + $duration <= $closingTime; $time += $step) {
+            $slot_start = $time;
+            $slot_end = $time + $duration;
+
             $time_slots[] = [
                 "stime" => date("H:i:s", $slot_start),
                 "etime" => date("H:i:s", $slot_end)

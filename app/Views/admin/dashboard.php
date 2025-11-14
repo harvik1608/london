@@ -151,7 +151,7 @@
                             <label for="validationCustom01">
                                 <!-- <a title="Report Card" onclick="get_report_card();" href="javascript:;"><i class="zmdi zmdi-assignment-account zmdi-hc-fw"></i></a>
                                 <a title="Customer History" id="customer_history" onclick="get_customer_history()" href="javascript:;"><i class="la la-history"></i></a> -->
-                                Name<span class="error">*</span>
+                                Name<span class="error">*</span>&nbsp;&nbsp;<a style="float: right;" href="javascript:;" onclick="get_customer_consent_form()"><small style="font-size: 10px;display: none;" id="customer_consent_form">View Consent Form</small></a>
                             </label>
                             <input type="text" class="form-control" name="customer_name" id="customer_name" placeholder="Customer name" onkeyup="get_customer_info(this.value,0,'name');" />
                             <!--<select class="form-control select2-ajax" name="customer_name" id="customer_name">-->
@@ -324,7 +324,7 @@
                             <div id="walkin_customer_hints"></div>               
                         </div>
                         <div class="col-xl-2 col-lg-12 col-md-12 col-sm-12 col-12">
-                            <label for="validationCustom01">Name<span class="error">*</span></label>
+                            <label for="validationCustom01">Name<span class="error">*</span>&nbsp;&nbsp;<a style="float: right;" href="javascript:;" onclick="get_customer_consent_form(1)"><small style="font-size: 10px;display: none;" id="walkin_customer_consent_form">View Consent Form</small></a></label>
                             <input type="text" class="form-control" name="walkin_name" id="walkin_name" placeholder="Customer name" onkeyup="get_customer_info(this.value,1,'name');" />
                             <div id="walkin_customer_name_hints"></div>                 
                         </div>
@@ -497,28 +497,53 @@
                     </a>
                 </div>
                 <div class="modal-body">
-                    <div class="table-responsive customer_history_info_parent">
-                        <table class="table table-default table-bordered" id="customer_history_info">
-                            <thead>
-                                <tr>
-                                    <th width="10%">Date</th>
-                                    <th width="15%">Service</th>
-                                    <th width="15%">Specialist</th>
-                                    <th width="30%">Note</th>
-                                    <th width="10%">Source</th>
-                                    <th width="10%">Status</th>
-                                    <th width="10%">Amount</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                            </tbody>
-                            <tfoot>
-                            </tfoot>
-                        </table>
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <div class="table-responsive customer_history_info_parent">
+                                <table class="table table-default table-bordered" id="customer_history_info">
+                                    <thead>
+                                        <tr>
+                                            <th width="10%">Date</th>
+                                            <th width="15%">Service</th>
+                                            <th width="15%">Specialist</th>
+                                            <th width="30%">Note</th>
+                                            <th width="10%">Source</th>
+                                            <th width="10%">Status</th>
+                                            <th width="10%">Amount</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                    </tbody>
+                                    <tfoot>
+                                    </tfoot>
+                                </table>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="modal-footer">
                      <a href="#" class="btn btn-success btn-sm" onclick="close_customer_history_modal()">Close</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="customerConsentFormModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <form class="needs-validation" action="" method="post">
+                <input type="hidden" name="is_walkin_customer" id="is_walkin_customer" />
+                <div class="modal-header">
+                    <h5 class="modal-title">Customer Consent Form</h5>
+                    <a href="javascript:;" class="close" onclick="close_customer_consent_form_modal()">
+                        <span aria-hidden="true">&times;</span>
+                    </a>
+                </div>
+                <div class="modal-body">
+                    
+                </div>
+                <div class="modal-footer">
+                     <a href="#" class="btn btn-success btn-sm" onclick="close_customer_consent_form_modal()">Close</a>
                 </div>
             </form>
         </div>
@@ -564,7 +589,8 @@
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.34/moment-timezone-with-data.min.js"></script> -->
 <script src="<?php echo base_url('public/calendar/fullcalendar.js'); ?>"></script>
 <script src="<?php echo base_url('public/calendar/resource.js'); ?>"></script>
-<script src="<?php echo base_url('public/calendar/appointment.js'); ?>?v=13.0"></script>
+<script src="<?php echo base_url('public/calendar/appointment.js'); ?>?v=<?php echo time(); ?>"></script>
+<script src="<?php echo base_url('public/calendar/appointment1.js'); ?>?v=<?php echo time(); ?>"></script>
 <script src="<?php echo base_url('public/admin/js/service_scroll/priority-nav-scroller.js'); ?>"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
 <script src="<?php echo base_url('public/admin/js/jquery.validate.js'); ?>"></script>

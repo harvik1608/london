@@ -985,6 +985,7 @@ function set_customer_info(phone,name,email,flag,note)
         $("#customer_hints").css({"border": "none","padding":"0px"});
         $("#customer_name_hints").html("");
         $("#customer_name_hints").css({"border": "none","padding":"0px"});
+        $("#customer_consent_form").show();
     } else {
         $("#walkin_phone").val(phone);
         $("#walkin_name").val(name);
@@ -994,6 +995,8 @@ function set_customer_info(phone,name,email,flag,note)
         $("#walkin_customer_hints").css({"border": "none","padding":"0px"});
         $("#walkin_customer_name_hints").html("");
         $("#walkin_customer_name_hints").css({"border": "none","padding":"0px"});
+        $("#customer_consent_form").hide();
+        $("#walkin_customer_consent_form").show();
     }
     $("#customer_history").show();
     get_customer_appointments(flag);
