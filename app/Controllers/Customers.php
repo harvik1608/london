@@ -367,6 +367,15 @@
             $model = new CustomerModel;
             $model->update($post["customer_id"],["email" => $post["cmail"]]);
 
+            $model = new ConsertFormModel;
+            $consent = $model->select("title")->where("id",$post["consent_form_id"])->first();
+            $company = company_info(static_company_id());
+            $emaildata["consent_form_name"] = rawurldecode($consent["title"]);
+            $emaildata["customer_name"] = $post["customer_full_name"];
+            $emaildata["company_name"] = $company["company_name"];
+            $html = view("template/consent_form",$emaildata);
+            send_email($post["cmail"],rawurldecode($consent["title"])." Consent Form",$html,$company);
+
             return redirect()->to('/customers/'.$post["customer_id"]);
         }
 

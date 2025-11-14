@@ -76,6 +76,7 @@
 										<input type="hidden" name="company_id" value="<?php echo $company_id; ?>" />
 										<input type="hidden" name="consent_form_id" value="<?php echo $form['id']; ?>" />
 										<input type="hidden" class="cmail" name="cmail" value="<?php echo $customer['email']; ?>" />
+										<input type="hidden" class="form-control" name="customer_full_name" value="<?php echo $customer['name']; ?>" />
 										<?php
 											if(isset($form["questions"]) && $form["questions"]) {
 												foreach($form["questions"] as $question) {
