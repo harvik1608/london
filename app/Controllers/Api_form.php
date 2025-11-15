@@ -206,106 +206,84 @@
                         $total_duration += (int) $entry["duration"];
                     }
                 }
+                $company_id = $post["company_id"];
                 $serviceIds = array_column($entries, "service_id");
                 if(!empty($serviceIds)) {
                     $db = db_connect();
 
-                    $query = $db->table("staff_services ss");
-                    $query->select("ss.staff_id, ss.service_id, st.date, st.stime AS staff_stime, st.etime AS staff_etime");
-                    $query->join("staff_timings st", "st.staffId = ss.staff_id");
-                    $query->where("st.companyId", $post["company_id"]);
-                    $query->where("st.date", $date);
-                    $query->whereIn("ss.service_id", $serviceIds);
-                    $staffData = $query->get()->getResultArray();   
-                    if(!empty($staffData)) {
-                        $service_staff_map = $staff_timings = [];
-                        foreach ($staffData as $row) {
-                            $service_staff_map[$row["service_id"]][] = $row["staff_id"];
-                            $staff_timings[$row["staff_id"]] = [
-                                "stime" => $row["staff_stime"],
-                                "etime" => $row["staff_etime"]
-                            ];
-                        }
-                        $time_slots = generate_slots($openingTime,$closingTime,$total_duration);
-                        
-                        $busyQuery = $db->table("carts c");
-                        $busyQuery = $busyQuery->select("c.stime, c.etime, c.staffId");
-                        $busyQuery = $busyQuery->where("c.date", $date);
-                        $busyQuery = $busyQuery->where("c.isComplete", "N");
-                        $busyQuery = $busyQuery->where("c.is_cancelled", 0);
-                        $busyQuery = $busyQuery->where("c.companyId", $post["company_id"]);
-                        $busySlots = $busyQuery->get()->getResultArray();
-                        if(!empty($busySlots)) {
-                            if (!empty($staff_timings)) {
-                                $openingTime = min(array_map(fn($t) => strtotime($t['stime']), $staff_timings));
-                                $closingTime = max(array_map(fn($t) => strtotime($t['etime']), $staff_timings));
-                            }
-                            $isStaffBusy = function ($staffId, $slotStart, $slotEnd) use ($busySlots) {
-                                $slotStartTS = strtotime($slotStart);
-                                $slotEndTS   = strtotime($slotEnd);
-                                foreach ($busySlots as $busy) {
-                                    if ($busy['staffId'] == $staffId) {
-                                        $busyStartTS = strtotime($busy['stime']);
-                                        $busyEndTS   = strtotime($busy['etime']);
-
-                                        // ❌ Reject if any overlap
-                                        if ($slotStartTS < $busyEndTS && $slotEndTS > $busyStartTS) {
-                                            return true;
-                                        }
-
-                                        // ❌ Reject if slot end goes even 1 second past a busy start
-                                        if ($slotEndTS > $busyStartTS && $slotStartTS < $busyStartTS) {
-                                            return true;
-                                        }
-                                    }
-                                }
-                                return false;
-                            };
-
-                            foreach ($time_slots as $slot) {
-                                $slotStart = $slot["stime"];
-                                $slotEnd = $slot["etime"];
-                                $slotValid = true;
-
-                                foreach ($serviceIds as $serviceId) {
-                                    $staffs = $service_staff_map[$serviceId] ?? [];
-                                    $hasAvailableStaff = false;
-
-                                    foreach ($staffs as $sid) {
-                                        // Skip if staff timing not found (safety check)
-                                        if (!isset($staff_timings[$sid])) continue;
-
-                                        $staffStart = $staff_timings[$sid]['stime'];
-                                        $staffEnd = $staff_timings[$sid]['etime'];
-
-                                        if ($slotStart < $staffStart || $slotEnd > $staffEnd) {
-                                            continue;
-                                        }
-
-                                        // Skip if busy
-                                        if (!$isStaffBusy($sid, $slotStart, $slotEnd)) {
-                                            $hasAvailableStaff = true;
-                                            break;
-                                        }
-                                    }
-
-                                    if (!$hasAvailableStaff) {
-                                        $slotValid = false;
-                                        break;
-                                    }
-                                }
-
-                                if ($slotValid) {
-                                    $free_slots[] = [
-                                        "stime" => $slotStart,
-                                        "etime" => $slotEnd
-                                    ];
-                                }
-                            }
-                        } else {
-                            $free_slots = generate_slots($openingTime,$closingTime,$total_duration);
-                        }
+                    $query = $db->table("staff_services ss")->select("ss.staff_id, ss.service_id, st.stime, st.etime")
+                    ->join("staff_timings st", "st.staffId = ss.staff_id")
+                    ->where("st.companyId", $company_id)
+                    ->where("st.date", $date)
+                    ->whereIn("ss.service_id", $serviceIds);
+                    $staffData = $query->get()->getResultArray();
+                    if (empty($staffData)) {
+                        return [];
                     }
+
+                    $service_staff_map = [];
+                    $staff_timings = [];
+                    foreach ($staffData as $row) {
+                        $service_staff_map[$row["service_id"]][] = $row["staff_id"];
+                        $staff_timings[$row["staff_id"]] = [
+                            "stime" => $row["stime"],
+                            "etime" => $row["etime"]
+                        ];
+                    }
+
+                    $busyQuery = $db->table("carts c");
+                    $busyQuery = $busyQuery->select("c.stime, c.etime, c.staffId");
+                    $busyQuery = $busyQuery->where("c.date", $date);
+                    $busyQuery = $busyQuery->where("c.companyId", $company_id);
+                    $busyQuery = $busyQuery->where("c.isComplete", "N");
+                    $busyQuery = $busyQuery->where("c.is_cancelled", 0);
+                    $busySlots = $busyQuery->get()->getResultArray();
+
+                    $isStaffBusy = function ($staffId, $slotStart, $slotEnd) use ($busySlots) {
+                        $slotStartTS = strtotime($slotStart);
+                        $slotEndTS   = strtotime($slotEnd);
+
+                        foreach($busySlots as $busy) {
+                            if ($busy['staffId'] != $staffId) continue;
+
+                            $busyStart = strtotime($busy['stime']);
+                            $busyEnd   = strtotime($busy['etime']);
+
+                            if ($slotStartTS < $busyEnd && $slotEndTS > $busyStart) {
+                                return true;
+                            }
+                        }
+                        return false;
+                    };
+                    $durationSec = $total_duration*60;
+                    
+                    $service_time_range = [];
+                    foreach ($serviceIds as $sid) {
+                        $staffList = $service_staff_map[$sid] ?? [];
+
+                        if (empty($staffList)) {
+                            return []; // No staff for that service → no slots at all
+                        }
+
+                        $earliest = PHP_INT_MAX;
+                        $latest   = 0;
+
+                        foreach ($staffList as $staffId) {
+                            $st = strtotime($staff_timings[$staffId]['stime']);
+                            $et = strtotime($staff_timings[$staffId]['etime']);
+
+                            if ($st < $earliest) $earliest = $st;
+                            if ($et > $latest)   $latest   = $et;
+                        }
+
+                        $service_time_range[$sid] = [
+                            'start' => $earliest,
+                            'end'   => $latest
+                        ];
+                    }
+                    $opening = max(array_column($service_time_range, 'start'));
+                    $closing = min(array_column($service_time_range, 'end'));
+                    $free_slots = generate_available_slots($opening,$closing,$durationSec,$serviceIds,$service_staff_map,$staff_timings,$isStaffBusy);
                 }
                 $available_staff_ids = "";
                 $db = db_connect();

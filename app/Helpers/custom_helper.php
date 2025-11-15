@@ -870,7 +870,7 @@
         return $request->getIPAddress();
     }
 
-    function generate_slots($openingTime,$closingTime,$total_duration)
+    function generate_slots($openingTime,$closingTime,$total_duration = 0)
     {
         $step = 5 * 60; 
         $duration = $total_duration * 60;
@@ -886,4 +886,48 @@
             ];
         }
         return $time_slots;
+    }
+
+    function generate_available_slots($openingTime,$closingTime,$durationSec,$serviceIds,$service_staff_map,$staff_timings,$isStaffBusy)
+    {
+        $step = 5 * 60;
+        $free_slots = [];
+
+        for ($start = $openingTime; $start + $durationSec <= $closingTime; $start += $step) {
+            $slotStart = date("H:i:s", $start);
+            $slotEnd   = date("H:i:s", $start + $durationSec);
+            // $slotEnd   = date("H:i:s", $start + 300);
+            $slotValid = true;
+            foreach ($serviceIds as $sid) {
+                $possibleStaff = $service_staff_map[$sid] ?? [];
+                $hasAvailableStaff = false;
+
+                foreach ($possibleStaff as $staffId) {
+                    $st = strtotime($staff_timings[$staffId]["stime"]);
+                    $et = strtotime($staff_timings[$staffId]["etime"]);
+
+                    if ($start < $st || ($start + $durationSec) > $et) {
+                        continue;
+                    }
+
+                    if (!$isStaffBusy($staffId, $slotStart, $slotEnd)) {
+                        $hasAvailableStaff = true;
+                        break;
+                    }
+                }
+
+                if (!$hasAvailableStaff) {
+                    $slotValid = false;
+                    break;
+                }
+            }
+
+            if ($slotValid) {
+                $free_slots[] = [
+                    "stime" => $slotStart,
+                    "etime" => $slotEnd
+                ];
+            }
+        }
+        return $free_slots;
     }
